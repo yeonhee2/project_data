@@ -1,0 +1,63 @@
+[
+  {
+    "id" : 0,
+    "name" : "방찬", 
+    "age" : 27, 
+    "birthday" : "1997-10-03",
+    "instagram" : "https://www.instagram.com/gnabnahc"
+  },
+
+  {
+    "id" : 1,
+    "name" : "리노", 
+    "age" : 26, 
+    "birthday" : "1998-10-25",
+    "instagram" : "https://www.instagram.com/t.leeknowsaurus"
+  },
+
+  {
+    "id" : 2,
+    "name" : "창빈", 
+    "age" : 25, 
+    "birthday" : "1999-08-11",
+    "instagram" : "https://www.instagram.com/jutdwae"
+  },
+  
+  {
+    "id" : 3,
+    "name" : "현진", 
+    "age" : 25, 
+    "birthday" : "2000-03-20",
+    "instagram" : "https://www.instagram.com/hynjinnnn"
+  },
+
+  {
+    "id" : 4,
+    "name" : "한", 
+    "age" : 24, 
+    "birthday" : "2000-09-14",
+    "instagram" : "https://www.instagram.com/_doolsetnet"
+  },
+
+  {
+    "id" : 5,
+    "name" : "필릭스", 
+    "age" : 24, 
+    "birthday" : "2000-09-15",
+    "instagram" : "https://www.instagram.com/yong.lixx"
+  },
+  {
+    "id" : 6,
+    "name" : "승민", 
+    "age" : 24, 
+    "birthday" : "2000-09-22",
+    "instagram" : "https://www.instagram.com/miniseungkim"
+  },
+  {
+    "id" : 7,
+    "name" : "아이엔", 
+    "age" : 24, 
+    "birthday" : "2001-02-08",
+    "instagram" : "https://www.instagram.com/i.2.n.8"
+  }
+]
