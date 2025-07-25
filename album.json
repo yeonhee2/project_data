@@ -1,0 +1,66 @@
+[
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "musicformats" : "Digital Single",
+    "albumname" : "Maybe Tomorrow",
+    "Releasedate" : "2025-05-07"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "musicformats" : "ost",
+    "albumname" : "Takedown",
+    "Releasedate" : "2025-06-20"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "musicformats" : "Album",
+    "albumname" : "This Is For",
+    "Releasedate" : "2025-07-11"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "musicformats" : "Digital Single",
+    "albumname" : "Mixtape: dominATE",
+    "Releasedate" : "2025-03-21"
+  },
+  {
+    "group" : "예지",
+    "color" : "#FFD700",
+    "musicformats" : "EP",
+    "albumname" : "AIR",
+    "Releasedate" : "2025-03-10"
+  },
+  {
+    "group" : "ITZY",
+    "color" : "#FF5F8F",
+    "musicformats" : "EP",
+    "albumname" : "Girls Will Be Girls",
+    "Releasedate" : "2025-06-09"
+  },
+  {
+    "group" : "NMIXX",
+    "color" : "#00C4B4",
+    "musicformats" : "Single",
+    "albumname" : "High Horse",
+    "Releasedate" : "2025-03-04"
+  },
+  {
+    "group" : "NMIXX",
+    "color" : "#00C4B4",
+    "musicformats" : "EP",
+    "albumname" : "Fe3O4: FORWARD",
+    "Releasedate" : "2025-03-17"
+  },
+  {
+    "group" : "NiziU",
+    "color" : "#FF5FA2",
+    "musicformats" : "Digital Single",
+    "albumname" : "LOVE LINE",
+    "Releasedate" : "2025-03-31"
+  }
+
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "대만",
+    "start" : "2025-01-18",
+    "end" : "2025-01-19"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "홍콩",
+    "start" : "2025-01-25",
+    "end" : "2025-01-26"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "부산",
+    "start" : "2025-02-01",
+    "end" : "2025-02-02"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "오사카",
+    "start" : "2025-02-12",
+    "end" : "2025-02-13"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "도쿄",
+    "start" : "2025-02-15",
+    "end" : "2025-02-16"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "마닐라",
+    "start" : "2025-02-22",
+    "end" : "2025-02-22"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "대전",
+    "start" : "2025-03-02",
+    "end" : "2025-03-03"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "광주",
+    "start" : "2025-03-15",
+    "end" : "2025-03-16"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "대구",
+    "start" : "2025-03-29",
+    "end" : "2025-03-30"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "시드니",
+    "start" : "2025-04-06",
+    "end" : "2025-04-07"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "멜버른",
+    "start" : "2025-04-09",
+    "end" : "2025-04-09"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "오클랜드",
+    "start" : "2025-04-12",
+    "end" : "2025-04-12"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "로스앤젤레스",
+    "start" : "2025-04-16",
+    "end" : "2025-04-17"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "뉴욕",
+    "start" : "2025-04-19",
+    "end" : "2025-04-19"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "요코하마",
+    "start" : "2025-04-26",
+    "end" : "2025-04-27"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "자카르타",
+    "start" : "2025-05-03",
+    "end" : "2025-05-03"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "서울",
+    "start" : "2025-05-09",
+    "end" : "2025-05-11"
+  },
+  {
+    "group" : "DAY6",
+    "color" : "#00325C",
+    "country" : "서울",
+    "start" : "2025-05-16",
+    "end" : "2025-05-18"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "인천",
+    "start" : "2025-07-19",
+    "end" : "2025-07-20"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "오사카",
+    "start" : "2025-07-26",
+    "end" : "2025-07-27"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "아이치",
+    "start" : "2025-08-23",
+    "end" : "2025-08-24"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "후쿠오카",
+    "start" : "2025-08-30",
+    "end" : "2025-08-31"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "도쿄",
+    "start" : "2025-09-16",
+    "end" : "2025-09-17"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "마카오",
+    "start" : "2025-09-27",
+    "end" : "2025-09-28"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "필리핀",
+    "start" : "2025-10-04",
+    "end" : "2025-10-04"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "싱가포르",
+    "start" : "2025-10-11",
+    "end" : "2025-10-12"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "시드니",
+    "start" : "2025-11-01",
+    "end" : "2025-11-02"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "멜버른",
+    "start" : "2025-11-08",
+    "end" : "2025-11-09"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "대만",
+    "start" : "2025-11-22",
+    "end" : "2025-11-22"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "홍콩",
+    "start" : "2025-12-06",
+    "end" : "2025-12-06"
+  },
+  {
+    "group" : "TWICE",
+    "color" : "#fea0b0",
+    "country" : "방콕",
+    "start" : "2025-12-13",
+    "end" : "2025-12-14"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "홍콩",
+    "start" : "2025-01-18",
+    "end" : "2025-01-19"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "칠레",
+    "start" : "2025-03-27",
+    "end" : "2025-03-28"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "리우데자네이루",
+    "start" : "2025-04-01",
+    "end" : "2025-04-01"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "상파울루",
+    "start" : "2025-04-05",
+    "end" : "2025-04-06"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "페루",
+    "start" : "2025-04-09",
+    "end" : "2025-04-09"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "멕시코",
+    "start" : "2025-04-12",
+    "end" : "2025-04-13"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "시즈오카",
+    "start" : "2025-05-10",
+    "end" : "2025-05-11"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "시즈오카",
+    "start" : "2025-05-17",
+    "end" : "2025-05-18"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "시애틀",
+    "start" : "2025-05-24",
+    "end" : "2025-05-24"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "샌프란시스코",
+    "start" : "2025-05-28",
+    "end" : "2025-05-28"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "로스앤젤레스",
+    "start" : "2025-05-28",
+    "end" : "2025-06-01"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "알링턴",
+    "start" : "2025-06-06",
+    "end" : "2025-06-07"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "애틀랜타",
+    "start" : "2025-06-10",
+    "end" : "2025-06-10"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "올랜도",
+    "start" : "2025-06-14",
+    "end" : "2025-06-14"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "뉴욕",
+    "start" : "2025-06-18",
+    "end" : "2025-06-19"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "워싱턴 D.C.",
+    "start" : "2025-06-23",
+    "end" : "2025-06-23"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "시카고",
+    "start" : "2025-06-26",
+    "end" : "2025-06-26"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "토론토",
+    "start" : "2025-06-29",
+    "end" : "2025-06-29"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "네덜란드",
+    "start" : "2025-07-11",
+    "end" : "2025-07-11"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "독일",
+    "start" : "2025-07-15",
+    "end" : "2025-07-15"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "영국",
+    "start" : "2025-07-18",
+    "end" : "2025-07-19"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "스페인",
+    "start" : "2025-07-22",
+    "end" : "2025-07-23"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "프랑스",
+    "start" : "2025-07-26",
+    "end" : "2025-07-27"
+  },
+  {
+    "group" : "StrayKids",
+    "color" : "#930000",
+    "country" : "이탈리아",
+    "start" : "2025-07-30",
+    "end" : "2025-07-30"
+  },
+  {
+    "group" : "NMIXX",
+    "color" : "#00C4B4",
+    "country" : "서울",
+    "start" : "2025-07-12",
+    "end" : "2025-07-12"
+  }
+]
