@@ -6,7 +6,50 @@
     "yutube" : "https://www.youtube.com/c/DAY6Official",
     "x": "https://x.com/DAY6Official",
     "instagram" :"https://www.instagram.com/day6kilogram",
-    "shop" : "https://en.thejypshop.com/day6.html"
+    "shop" : "https://en.thejypshop.com/day6.html",
+    "fans" : "https://app.fans/community/day6/artist",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "성진", 
+        "age" : 32, 
+        "birthday" : "1993-01-16",
+        "instagram" : "https://www.instagram.com/sungddenly", 
+        "yutube" : "https://www.youtube.com/channel/UCcv0r75ndl3rG9oQKhygHRw",
+        "x" : "https://x.com/DAY6__SUNGJIN",
+        "x2" : "https://x.com/DAY6BOBSUNG_JIN"
+      },
+      {
+        "id" : 1,
+        "name" : "Young K", 
+        "age" : 31, 
+        "birthday" : "1993-12-19",
+        "instagram" : "https://www.instagram.com/from_youngk",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 2,
+        "name" : "원필", 
+        "age" : 31, 
+        "birthday" : "1994-04-28",
+        "instagram" : "https://www.instagram.com/kimwon.pil",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 3,
+        "name" : "도운", 
+        "age" : 29, 
+        "birthday" : "1995-08-25",
+        "instagram" : "https://www.instagram.com/d.ddablue",
+        "yutube" : "https://www.youtube.com/channel/UCmp88_vcnsu-wabHt1XdsJg",
+        "x" : "https://x.com/Dw_day6_drummer",
+        "x2" : " "
+      }
+    ]
   },
 
   {
@@ -16,7 +59,100 @@
     "yutube" : "https://www.youtube.com/@TWICE",
     "x": "https://x.com/JYPETWICE",
     "instagram" :"https://www.instagram.com/twicetagram",
-    "shop" : "https://en.thejypshop.com/twice.html"
+    "shop" : "https://en.thejypshop.com/twice.html",
+    "fans" : "https://app.fans/community/twice/artist",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "나연", 
+        "age" : 29, 
+        "birthday" : "1995-09-22",
+        "instagram" : "https://www.instagram.com/nayeonyny",
+        "yutube" : "https://www.youtube.com/channel/UCBznuF9zIIbRS9Y1Yu4yOhg",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 1,
+        "name" : "정연", 
+        "age" : 28, 
+        "birthday" : "1996-11-01",
+        "instagram" : "https://www.instagram.com/jy_piece",
+        "yutube" : "https://www.youtube.com/@people_by_people",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 2,
+        "name" : "모모", 
+        "age" : 28, 
+        "birthday" : "1996-11-09",
+        "instagram" : "https://www.instagram.com/momo",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 3,
+        "name" : "사나", 
+        "age" : 28, 
+        "birthday" : "1996-12-29",
+        "instagram" : "https://www.instagram.com/m.by__sana",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 4,
+        "name" : "지효", 
+        "age" : 28, 
+        "birthday" : "1997-02-01",
+        "instagram" : "https://www.instagram.com/_zyozyo",
+        "yutube" : "https://www.youtube.com/playlist?list=PLL8Ck3RZ-liXlZVUx9n0kgXwb_ReBUZps",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 5,
+        "name" : "미나", 
+        "age" : 28, 
+        "birthday" : "1997-03-24",
+        "instagram" : "https://www.instagram.com/mina_sr_my",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 6,
+        "name" : "다현", 
+        "age" : 27, 
+        "birthday" : "1998-05-28",
+        "instagram" : "https://www.instagram.com/dahhyunnee",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 7,
+        "name" : "채영", 
+        "age" : 26, 
+        "birthday" : "1999-04-23",
+        "instagram" : "https://www.instagram.com/chaeyo.0",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 8,
+        "name" : "쯔위", 
+        "age" : 26, 
+        "birthday" : "1999-06-14",
+        "instagram" : "https://www.instagram.com/thinkaboutzu",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      }
+    ]
   },
 
   {
@@ -26,7 +162,92 @@
     "yutube" : "https://www.youtube.com/@StrayKids",
     "x": "https://x.com/Stray_Kids",
     "instagram" :"https://www.instagram.com/realstraykids",
-    "shop" : "https://en.thejypshop.com/straykids.html"
+    "shop" : "https://en.thejypshop.com/straykids.html",
+    "fans" : "https://app.fans/community/StrayKids/artist",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "방찬", 
+        "age" : 27, 
+        "birthday" : "1997-10-03",
+        "instagram" : "https://www.instagram.com/gnabnahc",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 1,
+        "name" : "리노", 
+        "age" : 26, 
+        "birthday" : "1998-10-25",
+        "instagram" : "https://www.instagram.com/t.leeknowsaurus",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 2,
+        "name" : "창빈", 
+        "age" : 25, 
+        "birthday" : "1999-08-11",
+        "instagram" : "https://www.instagram.com/jutdwae",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 3,
+        "name" : "현진", 
+        "age" : 25, 
+        "birthday" : "2000-03-20",
+        "instagram" : "https://www.instagram.com/hynjinnnn",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+
+      {
+        "id" : 4,
+        "name" : "한", 
+        "age" : 24, 
+        "birthday" : "2000-09-14",
+        "instagram" : "https://www.instagram.com/_doolsetnet",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+
+      {
+        "id" : 5,
+        "name" : "필릭스", 
+        "age" : 24, 
+        "birthday" : "2000-09-15",
+        "instagram" : "https://www.instagram.com/yong.lixx",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 6,
+        "name" : "승민", 
+        "age" : 24, 
+        "birthday" : "2000-09-22",
+        "instagram" : "https://www.instagram.com/miniseungkim",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 7,
+        "name" : "아이엔", 
+        "age" : 24, 
+        "birthday" : "2001-02-08",
+        "instagram" : "https://www.instagram.com/i.2.n.8",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      }
+    ]
   },
 
   {
@@ -36,7 +257,60 @@
     "yutube" : "https://www.youtube.com/@ITZY",
     "x": "https://x.com/ITZYOfficial",
     "instagram" :"https://www.instagram.com/itzy.all.in.us",
-    "shop" : "https://en.thejypshop.com/itzy.html"
+    "shop" : "https://en.thejypshop.com/itzy.html",
+    "fans" : "https://app.fans/community/itzy/artist",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "예지", 
+        "age" : 25, 
+        "birthday" : "2000-05-26",
+        "instagram" : "https://www.instagram.com/yezyizhere",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 1,
+        "name" : "리아", 
+        "age" : 25, 
+        "birthday" : "2000-07-21",
+        "instagram" : "https://www.instagram.com/lia_loves___",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 2,
+        "name" : "류진", 
+        "age" : 24, 
+        "birthday" :" 2001-04-17",
+        "instagram" : "https://www.instagram.com/iamfinethankyouandryu",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 3,
+        "name" : "채령", 
+        "age" : 24, 
+        "birthday" : "2001-06-25",
+        "instagram" : "https://www.instagram.com/chaerrry0",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 4,
+        "name" : "유나", 
+        "age" : 21, 
+        "birthday" : "2003-12-09",
+        "instagram" : "https://www.instagram.com/igotyuandme",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      }
+    ]
   },
 
   {
@@ -46,7 +320,71 @@
     "yutube" : "https://www.youtube.com/@NMIXXOfficial",
     "x": "https://x.com/NMIXX_official",
     "instagram" :"https://www.instagram.com/nmixx_official",
-    "shop" : "https://en.thejypshop.com/nmixx.html"
+    "shop" : "https://en.thejypshop.com/nmixx.html",
+    "fans" : "https://app.fans/community/nmixx/artist",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "릴리", 
+        "age" : 22, 
+        "birthday" : 20021017,
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 1,
+        "name" : "해원", 
+        "age" : 22, 
+        "birthday" : "2003-02-25",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 2,
+        "name" : "설윤", 
+        "age" : 21, 
+        "birthday" : "2004-01-26",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 3,
+        "name" : "배이", 
+        "age" : 20, 
+        "birthday" : "2004-12-28",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 4,
+        "name" : "지우", 
+        "age" : 20, 
+        "birthday" : "2005-04-13",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 5,
+        "name" : "규진", 
+        "age" : 19, 
+        "birthday" : "2006-05-26",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      }
+    ]
+
   },
 
   {
@@ -56,6 +394,99 @@
     "yutube" : "https://www.youtube.com/@NiziUOfficial",
     "x": "https://x.com/NiziU__official",
     "instagram" :"https://www.instagram.com/niziu_info_official",
-    "shop" : "https://en.thejypshop.com/niziu.html"
+    "shop" : "https://en.thejypshop.com/niziu.html",
+    "fans" : "https://app.fans/community/NiziU/artist",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "마코", 
+        "age" : 24, 
+        "birthday" : "2001-04-04",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 1,
+        "name" : "리오", 
+        "age" : 23, 
+        "birthday" : "2002-02-04",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 2,
+        "name" : "마야", 
+        "age" : 23, 
+        "birthday" : "2002-04-08",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 3,
+        "name" : "리쿠", 
+        "age" : 22, 
+        "birthday" : "2002-10-26",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 4,
+        "name" : "아야카", 
+        "age" : 22, 
+        "birthday" : "2003-06-20",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 5,
+        "name" : "마유카", 
+        "age" : 21, 
+        "birthday" : "2003-11-13",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 6,
+        "name" : "리마", 
+        "age" : 21, 
+        "birthday" : "2004-03-26",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 7,
+        "name" : "미이히", 
+        "age" : 20, 
+        "birthday" : "2004-08-12",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      },
+      {
+        "id" : 8,
+        "name" : "니나", 
+        "age" : 20, 
+        "birthday" : "2005-02-27",
+        "instagram" : " ",
+        "yutube" : " ",
+        "x" : " ",
+        "x2" : " "
+      }
+    ]
   }
 ]
