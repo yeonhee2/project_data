@@ -1,0 +1,196 @@
+[
+  {
+    "name" : "THIS IS FOR",
+    "title" : "THIS IS FOR",
+    "releaseDate" : "2025-07-11",
+    "coverImage" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/TWICE.jpg",
+    "rankings" : {
+      "Melon" : "#2",
+      "Genie" : "#55",
+      "Bugs" :"#23"
+    },
+    "Youtube" : [
+      {
+        "date" : "2025-05-19",
+        "contentsname" : "INTRO: FOUR",
+        "url" : "https://www.youtube.com/watch?v=t9XQb2b_KtE"
+      },
+      {
+        "date" : "2025-06-16",
+        "contentsname" : "THIS IS FOR YOU.",
+        "url" : "https://www.youtube.com/watch?v=-fv6kKdRZYE"
+      },
+      {
+        "date" : "2025-06-19",
+        "contentsname" : "Timetable",
+        "url" : "https://www.youtube.com/watch?v=Tf8KWzwlk9s"
+      },
+      {
+        "date" : "2025-06-30",
+        "contentsname" : "Extraordinary : We Do Us",
+        "url" : "https://www.youtube.com/watch?v=bZa2aqyn-GQ"
+      },
+      {
+        "date" : "2025-07-01",
+        "contentsname" : "Regardless : Live it!",
+        "url" : "https://www.youtube.com/watch?v=f_uscGBGQwA"
+      },
+      {
+        "date" : "2025-07-02",
+        "contentsname" : "Unpredictable : Our spot",
+        "url" : "https://www.youtube.com/watch?v=g2IDtpL1YkE"
+      },
+      {
+        "date" : "2025-07-03",
+        "contentsname" : "FOUR : This Is",
+        "url" : "https://www.youtube.com/watch?v=LVjPIJ2nhI0"
+      },
+      {
+        "date" : "2025-07-04",
+        "contentsname" : "Forward Line : Preview Mix",
+        "url" : "https://www.youtube.com/watch?v=c_wfMunKJmE"
+      },
+      {
+        "date" : "2025-07-07",
+        "contentsname" : "M/V Teaser 1",
+        "url" : "https://www.youtube.com/watch?v=DnmUzvNj9vI"
+      },
+      {
+        "date" : "2025-07-09",
+        "contentsname" : "M/V Teaser 2",
+        "url" : "https://www.youtube.com/watch?v=U9HXLxI-ZcI"
+      },
+      {
+        "date" : "2025-07-09",
+        "contentsname" : "감별사 - 기쁘다 트와이스 오셨네🎉감별사에 놀러 온 찐친들의 역대급 애장품 기부?!",
+        "url" : "https://www.youtube.com/watch?v=j8OlebPfmA4"
+      },
+      {
+        "date" : "2025-07-09",
+        "contentsname" : "단순노동 - 또 도망갈까봐... 트와이스 대표 내향인 채영씨를 모셨습니다",
+        "url" : "https://www.youtube.com/watch?v=9-83WeCsOSg"
+      },
+      {
+        "date" : "2025-07-11",
+        "contentsname" : "THIS IS FOR M/V",
+        "url" : "https://www.youtube.com/watch?v=eHHQaoEW30Q"
+      },
+      {
+        "date" : "2025-07-11",
+        "contentsname" : "TWICE THIS IS FOR Cheering Guide",
+        "url" : "https://www.youtube.com/watch?v=p9spvfXou9M&t=1s"
+      },
+      {
+        "date" : "2025-07-11",
+        "contentsname" : "안고독한 소식가 - 첫 평냉 도전! 트와이스 나연&지효와 함께하는 안고독한 소식가🍜",
+        "url" : "https://www.youtube.com/watch?v=RciU7CskzaQ"
+      },
+      {
+        "date" : "2025-07-12",
+        "contentsname" : "핑계고 - 홈캉스는 핑계고 | EP.82 (나연,정연,사나,지효)",
+        "url" : "https://www.youtube.com/watch?v=uxEa_VhvfIs"
+      },
+      {
+        "date" : "2025-07-14",
+        "contentsname" : "THIS IS FOR MV Reaction",
+        "url" : "https://www.youtube.com/watch?v=feSPhDh3xqY"
+      },
+      {
+        "date" : "2025-07-14",
+        "contentsname" : "THIS IS FOR Choreography Video (Fix ver.)",
+        "url" : "https://www.youtube.com/watch?v=qJVd5WZO8Ao"
+      },
+      {
+        "date" : "2025-07-15",
+        "contentsname" : "[TW-DAY☀️] #9 Ctrl+C Ctrl+V 누가 누구인지 모르겠어… 👭🏻❓",
+        "url" : "https://www.youtube.com/watch?v=Ibe7bobeAGE&t=1s"
+      },
+      {
+        "date" : "2025-07-16",
+        "contentsname" : "THIS IS FOR Choreography Video (Moving ver.)",
+        "url" : "https://www.youtube.com/watch?v=hM6eLscqnpI"
+      },
+      {
+        "date" : "2025-07-16",
+        "contentsname" : "[TW-DAY☀️] #10 손! 🐾 단발로 잘랐어요 💇‍♀️ 각도부터 틀렸어 😵 시끌벅적 트둥이들의 자켓 현장 🎥",
+        "url" : "https://www.youtube.com/watch?v=FaCN5K8J4wE&t=1s"
+      },
+      {
+        "date" : "2025-07-17",
+        "contentsname" : "민주의 핑크 캐비닛 - 아이돌의 아이도루⭐️ 민주의 롤모델 사나 여신💘 드디어 만나다🎉",
+        "url" : "https://www.youtube.com/watch?v=6Qc87_vrJ6M"
+      },
+      {
+        "date" : "2025-07-18",
+        "contentsname" : "K-Pop ON! Video Podcas - 트와이스랑 10주년 하우스 파티",
+        "url" : "https://www.youtube.com/watch?v=QQNGyws-OAw"
+      },
+      {
+        "date" : "2025-07-21",
+        "contentsname" : "TWICE THIS IS FOR Dance Practice Behind",
+        "url" : "https://www.youtube.com/watch?v=hTiiQhCkPtc"
+      },
+      {
+        "date" : "2025-07-22",
+        "contentsname" : "[TW-DAY☀️] #11 돌리고~ 앉아! Turn it up! 💙💃 (with. 뱀뱀, 민규, 승관, 성진)",
+        "url" : "https://www.youtube.com/watch?v=nYilX_6I3W0"
+      },
+      {
+        "date" : "2025-07-24",
+        "contentsname" : "TWICE THE 4TH FULL ALBUM THIS IS FOR Pre-Listening Event RECAP",
+        "url" : "https://www.youtube.com/watch?v=_qCYOT0yKc4"
+      },
+      {
+        "date" : "2025-07-25",
+        "contentsname" : "TWICE “THIS IS FOR” MV Behind EP.01",
+        "url" : "https://www.youtube.com/watch?v=NTccvlbQVyE"
+      },
+      {
+        "date" : "2025-07-25",
+        "contentsname" : "매점가요 - THIS IS FOR ⋆ ·˚ ONCE ༘ * 데뷔 10주년 기념파티에 초대합니다 ✧｡٩(•ᴗ•)و✧*｡ EP.13#TWICE",
+        "url" : "https://www.youtube.com/watch?v=8Jjzn8Y7x9U"
+      }
+      
+    ],
+    "musicbroadcast" : [
+      {
+        "date" : "2025-07-11",
+        "contentsname" : "뮤직뱅크",
+        "url" : "https://www.youtube.com/watch?v=mh_4SYlP-tY"
+      },
+      {
+        "date" : "2025-07-12",
+        "contentsname" : "쇼음악중심",
+        "url" : "https://www.youtube.com/watch?v=DnZ3O9g_zHc"
+      },
+      {
+        "date" : "2025-07-13",
+        "contentsname" : "인기가요",
+        "url" : "https://www.youtube.com/watch?v=YR1mVK6nqKI"
+      }
+    ],
+    "fancam" : [
+      {
+        "date" : "2025-07-11",
+        "contentsname" : "뮤직뱅크-풀캠",
+        "url" : "https://www.youtube.com/watch?v=aAmajD-DzTY"
+      },
+      {
+        "date" : "2025-07-12",
+        "contentsname" : "음악중심-풀캠",
+        "url" : "https://www.youtube.com/watch?v=2CtLmbA50rw"
+      },
+      {
+        "date" : "2025-07-12",
+        "contentsname" : "음악중심 - 직캠보고서: 사녹 비하인드",
+        "url" : "https://www.youtube.com/watch?v=ihn-j3eJz34"
+      },
+      {
+        "date" : "2025-07-13",
+        "contentsname" : "인기가요-풀캠",
+        "url" : "https://www.youtube.com/watch?v=Mr0CnzXdeHQ"
+      }
+    ]
+    
+  }
+]

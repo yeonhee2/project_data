@@ -1,0 +1,311 @@
+[
+  {
+    "name" : "Band Aid",
+    "title" : "녹아내려요",
+    "releaseDate" : "2024-09-02",
+    "coverImage" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/DAY6.jpg",
+    "rankings" : {
+      "Melon" : "#1",
+      "Genie" : "#1",
+      "Flo" : "#1",
+      "Bugs" :"#1"
+    },
+    "Youtube" : [
+      {
+        "date" : "2024-08-09",
+        "contentsname" : "Album Release Teaser",
+        "url" : "https://www.youtube.com/watch?v=LDRFavkAEF0"
+      },
+      {
+        "date" : "2024-08-15",
+        "contentsname" : "Concept Film Teaser",
+        "url" : "https://www.youtube.com/watch?v=RGG7iQZsvps"
+      },
+      {
+        "date" : "2024-08-19",
+        "contentsname" : "Concept Film",
+        "url" : "https://www.youtube.com/watch?v=YHu728YsrKk"
+      },
+      {
+        "date" : "2024-08-21",
+        "contentsname" : "Track Preview Film",
+        "url" : "https://www.youtube.com/watch?v=6cGDlbY8Nwg"
+      },
+      {
+        "date" : "2024-08-23",
+        "contentsname" : "Album Production Teaser",
+        "url" : "https://www.youtube.com/watch?v=FZOgxu3latc"
+      },
+      {
+        "date" : "2024-08-25",
+        "contentsname" : "빠더너스 - 데이식스 원필과 오지 않는 할랄푸드를 기다리며",
+        "url" : "https://www.youtube.com/watch?v=wUztk_Zd04s"
+      },
+      {
+        "date" : "2024-08-30",
+        "contentsname" : "Album Production #1",
+        "url" : "https://www.youtube.com/watch?v=T2ZT4SO1AIE"
+      },
+      {
+        "date" : "2024-08-31",
+        "contentsname" : "Album Sampler",
+        "url" : "https://www.youtube.com/watch?v=G_KN6mmZz0c"
+      },
+      {
+        "date" : "2024-08-31",
+        "contentsname" : "녹아내려요 M/V Teaser 1",
+        "url" : "https://www.youtube.com/watch?v=dLpwRg-WLNk"
+      },
+      {
+        "date" : "2024-09-01",
+        "contentsname" : "녹아내려요 M/V Teaser 2",
+        "url" : "https://www.youtube.com/watch?v=XaC_xWNEM2E"
+      },
+      {
+        "date" : "2024-09-02",
+        "contentsname" : "녹아내려요 M/V",
+        "url" : "https://www.youtube.com/watch?v=yss4rIrHl6o"
+      },
+      {
+        "date" : "2024-09-03",
+        "contentsname" : "녹아내려요 Singalong Guide with My Day",
+        "url" : "https://www.youtube.com/watch?v=qJ_fG0_PJak"
+      },
+      {
+        "date" : "2024-09-03",
+        "contentsname" : "〈Band Aid〉 Jacket Making Film",
+        "url" : "https://www.youtube.com/watch?v=_lL3XzUO3tI&t=1sI"
+      },
+      {
+        "date" : "2024-09-04",
+        "contentsname" : "녹아내려요 M/V Making Film",
+        "url" : "https://www.youtube.com/watch?v=13WLJCsnjFI"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "녹아내려요 M/V Reaction Video with My Day",
+        "url" : "https://www.youtube.com/watch?v=VnDfhNrn2W4"
+      },
+      {
+        "date" : "2024-09-06",
+        "contentsname" : "Album Production #2",
+        "url" : "https://www.youtube.com/watch?v=7Q_i3bMU_0Y"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "9TH ANNIVERSARY Mini Fan Meeting Day w/ My Day",
+        "url" : "https://www.youtube.com/watch?v=3i00dU5cnH8"
+      },
+      {
+        "date" : "2024-09-09",
+        "contentsname" : "녹아내려요 LIVE CLIP (Studio Live ver.)",
+        "url" : "https://www.youtube.com/watch?v=KlpSc6Jvci8"
+      },
+      {
+        "date" : "2024-09-09",
+        "contentsname" : "[아이유의 팔레트🎨] 고막 살살 녹아내려요 (With DAY6) Ep.28",
+        "url" : "https://www.youtube.com/watch?v=Ho-LkB1VWv4"
+      },
+      {
+        "date" : "2024-09-12",
+        "contentsname" : "괴물 LIVE CLIP (Studio Live ver.)",
+        "url" : "https://www.youtube.com/watch?v=KlpSc6Jvci8"
+      },
+      {
+        "date" : "2024-09-15",
+        "contentsname" : "빠더너스 - 데이식스 vs 돼지식사! 대세 밴드와 대짜 코미디언이 서로 도발하는 토크쇼 | 딱대 EP15 영케이",
+        "url" : "https://www.youtube.com/watch?v=I2e3-LGqt9I"
+      },
+      {
+        "date" : "2024-09-30",
+        "contentsname" : "녹아내려요 LIVE CLIP (with My Day ver.)",
+        "url" : "https://www.youtube.com/watch?v=vptlcoHMjYI"
+      }
+    ],
+    "musicbroadcast" : [
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷",
+        "url" : "https://www.youtube.com/watch?v=_ZpALPWmh6o"
+      },
+      {
+        "date" : "2024-09-06",
+        "contentsname" : "뮤직뱅크",
+        "url" : "https://www.youtube.com/watch?v=9aPaKV-e11s"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "쇼음악중심",
+        "url" : "https://www.youtube.com/watch?v=Xfbzcs_K70g"
+      },
+      {
+        "date" : "2024-09-08",
+        "contentsname" : "인기가요",
+        "url" : "https://www.youtube.com/watch?v=E90xc_oxpws"
+      }
+    ],
+    "fancam" : [
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷-풀캠",
+        "url" : "https://www.youtube.com/watch?v=6G8gTCLlhX0"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷 - 세로캠 (성진)",
+        "url" : "https://www.youtube.com/watch?v=NMFtmMmqM3I"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷 - 세로캠 (Young K)",
+        "url" : "https://www.youtube.com/watch?v=eBSDq1zzAGM"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷 - 세로캠 (원필)",
+        "url" : "https://www.youtube.com/watch?v=hfE2atKWSNA"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷 - 세로캠 (도운)",
+        "url" : "https://www.youtube.com/watch?v=2PEC50sG6qA"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷 - 입덕직캠 (성진)",
+        "url" : "https://www.youtube.com/watch?v=PGmEeJWuUGk"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷 - 입덕직캠 (Young K)",
+        "url" : "https://www.youtube.com/watch?v=MOpV1Z6uT6c"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷 - 입덕직캠 (원필)",
+        "url" : "https://www.youtube.com/watch?v=hCUcOju0Mng"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷 - 입덕직캠 (도운)",
+        "url" : "https://www.youtube.com/watch?v=MtSYIWGlltw"
+      },
+      {
+        "date" : "2024-09-05",
+        "contentsname" : "엠넷 - 드럼캠 (도운)",
+        "url" : "https://www.youtube.com/watch?v=2pMg9uvjb30"
+      },
+      {
+        "date" : "2024-09-06",
+        "contentsname" : "뮤직뱅크-풀캠",
+        "url" : "https://www.youtube.com/watch?v=iUZEgBhdGuE"
+      },
+      {
+        "date" : "2024-09-06",
+        "contentsname" : "뮤직뱅크 - 세로캠 (성진)",
+        "url" : "https://www.youtube.com/watch?v=0hfZVq79W98"
+      },
+      {
+        "date" : "2024-09-06",
+        "contentsname" : "뮤직뱅크 - 세로캠 (Young K)",
+        "url" : "https://www.youtube.com/watch?v=lXx2o8UbdBw"
+      },
+      {
+        "date" : "2024-09-06",
+        "contentsname" : "뮤직뱅크 - 세로캠 (원필)",
+        "url" : "https://www.youtube.com/watch?v=TXDoNkFGC2s"
+      },
+      {
+        "date" : "2024-09-06",
+        "contentsname" : "뮤직뱅크 - 세로캠 (도운)",
+        "url" : "https://www.youtube.com/watch?v=rWhOUAoaR6E"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심-풀캠",
+        "url" : "https://www.youtube.com/watch?v=lsEciaScPpY"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심 - 세로캠 (성진)",
+        "url" : "https://www.youtube.com/watch?v=TlDyB5Yk0X4"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심 - 세로캠 (Young K)",
+        "url" : "https://www.youtube.com/watch?v=9Tb1AHXytfA"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심 - 세로캠 (원필)",
+        "url" : "https://www.youtube.com/watch?v=nuIMJBKM2-c"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심 - 세로캠 (도운)",
+        "url" : "https://www.youtube.com/watch?v=U_ungEy-3xY"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심 - 최애직캠 (성진)",
+        "url" : "https://www.youtube.com/watch?v=Y8PThyDjMi8"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심 - 최애직캠 (Young K)",
+        "url" : "https://www.youtube.com/watch?v=jgZM4jHFNz4"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심 - 최애직캠 (원필)",
+        "url" : "https://www.youtube.com/watch?v=9dV25y1iIzM"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심 - 최애직캠 (도운)",
+        "url" : "https://www.youtube.com/watch?v=9dicAGueAWw"
+      },
+      {
+        "date" : "2024-09-07",
+        "contentsname" : "음악중심 - 직캠보고서: 사녹 비하인드",
+        "url" : "https://www.youtube.com/watch?v=p_F4dfu1bFk"
+      },
+      {
+        "date" : "2024-09-08",
+        "contentsname" : "인기가요-풀캠",
+        "url" : "https://www.youtube.com/watch?v=GNjfXp02-4I"
+      },
+      {
+        "date" : "2024-09-08",
+        "contentsname" : "인기가요 - 세로캠 (성진)",
+        "url" : "https://www.youtube.com/watch?v=tlBf4_ppWrk"
+      },
+      {
+        "date" : "2024-09-08",
+        "contentsname" : "인기가요 - 세로캠 (Young K)",
+        "url" : "https://www.youtube.com/watch?v=T9XTbpagGrg"
+      },
+      {
+        "date" : "2024-09-08",
+        "contentsname" : "인기가요 - 세로캠 (원필)",
+        "url" : "https://www.youtube.com/watch?v=Cn4kEFlOu7c"
+      },
+      {
+        "date" : "2024-09-08",
+        "contentsname" : "인기가요 - 세로캠 (도운)",
+        "url" : "https://www.youtube.com/watch?v=899az4NRrh0"
+      },
+      {
+        "date" : "2024-09-08",
+        "contentsname" : "인기가요 - 페이스캠 (Young K)",
+        "url" : "https://www.youtube.com/watch?v=LWhyxTHaU6k"
+      },
+      {
+        "date" : "2024-09-08",
+        "contentsname" : "인기가요 - 페이스캠 (도운)",
+        "url" : "https://www.youtube.com/watch?v=J-xo5QrXIAo"
+      }
+    ]
+    
+  }
+]

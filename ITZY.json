@@ -1,0 +1,173 @@
+[
+  {
+    "name" : "Girls Will Be Girls",
+    "title" : "Girls Will Be Girls",
+    "releaseDate" : "2025-06-09",
+    "coverImage" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/ITZY.jpg",
+    "rankings" : {
+      "Melon" : "#4",
+      "Genie" : "#63",
+      "Bugs" :"#1"
+    },
+    "Youtube" : [
+      {
+        "date" : "2025-05-12",
+        "contentsname" : "Girls Will Be Girls TRAILER",
+        "url" : "https://www.youtube.com/watch?v=7xlkDjqhhag"
+      },
+      {
+        "date" : "2025-05-30",
+        "contentsname" : "3D ALBUM PREVIEW - PHOTOBOOK VER.",
+        "url" : "https://www.youtube.com/shorts/bhPh9S4wzNo"
+      },
+      {
+        "date" : "2025-05-30",
+        "contentsname" : "3D ALBUM PREVIEW - FOLDER VER.",
+        "url" : "https://www.youtube.com/shorts/mnRy0CVkthA"
+      },
+      {
+        "date" : "2025-05-30",
+        "contentsname" : "Girls Will Be Girls JACKET & TRAILER BEHIND 🎥",
+        "url" : "https://www.youtube.com/watch?v=SjugpRHSbS4"
+      },
+      {
+        "date" : "2025-06-02",
+        "contentsname" : "ALBUM SPOILER",
+        "url" : "https://www.youtube.com/watch?v=gS8-MsvbOio"
+      },
+      {
+        "date" : "2025-06-04",
+        "contentsname" : "Girls Will Be Girls M/V TEASER #1",
+        "url" : "https://www.youtube.com/watch?v=FUN9ME61L3o"
+      },
+      {
+        "date" : "2025-06-06",
+        "contentsname" : "Girls Will Be Girls M/V TEASER #2",
+        "url" : "https://www.youtube.com/watch?v=HLi4Wzor32Y"
+      }
+      
+    ],
+    "musicbroadcast" : [
+      {
+        "date" : "2025-06-12",
+        "contentsname" : "엠넷 - Kiss & Tell",
+        "url" : "https://www.youtube.com/watch?v=bGPYVzSO7_E"
+      },
+      {
+        "date" : "2025-06-12",
+        "contentsname" : "엠넷 - Girls Will Be Girls",
+        "url" : "https://www.youtube.com/watch?v=2nwPlnHMReo"
+      },
+      {
+        "date" : "2025-06-13",
+        "contentsname" : "뮤직뱅크 - Kiss & Tell",
+        "url" : "https://www.youtube.com/watch?v=XIjwMGB5wL4"
+      },
+      {
+        "date" : "2025-06-13",
+        "contentsname" : "뮤직뱅크 - Girls Will Be Girls",
+        "url" : "https://www.youtube.com/watch?v=7hwt68nXTMo"
+      },
+      {
+        "date" : "2025-06-14",
+        "contentsname" : "쇼음악중심 - Kiss & Tell",
+        "url" : "https://www.youtube.com/watch?v=qGlk0JXN72Y"
+      },
+      {
+        "date" : "2025-06-14",
+        "contentsname" : "쇼음악중심- Girls Will Be Girls",
+        "url" : "https://www.youtube.com/watch?v=BtEvxo-_gs0"
+      },
+      {
+        "date" : "2025-06-15",
+        "contentsname" : "인기가요 - Kiss & Tell",
+        "url" : "https://www.youtube.com/watch?v=ZaM3QFU3V4s"
+      },
+      {
+        "date" : "2025-06-15",
+        "contentsname" : "인기가요 - Girls Will Be Girls",
+        "url" : "https://www.youtube.com/watch?v=byaw0A56nA4"
+      },
+      {
+        "date" : "2025-06-19",
+        "contentsname" : "엠넷",
+        "url" : "https://www.youtube.com/watch?v=guUyKcA4Lvc"
+      },
+      {
+        "date" : "2025-06-20",
+        "contentsname" : "뮤직뱅크",
+        "url" : "https://www.youtube.com/watch?v=1K6FzBzTl6Q"
+      },
+      {
+        "date" : "2025-06-21",
+        "contentsname" : "쇼음악중심",
+        "url" : "https://www.youtube.com/watch?v=i6wA_FMiOq4"
+      },
+      {
+        "date" : "2025-06-22",
+        "contentsname" : "인기가요",
+        "url" : "https://www.youtube.com/watch?v=7yXBx2WlYOQ"
+      }
+    ],
+    "fancam" : [
+      {
+        "date" : "2025-06-12",
+        "contentsname" : "엠넷-4K 가로 MPD직캠(Kiss & Tell)",
+        "url" : "https://www.youtube.com/watch?v=ePJyLvE_VkQ"
+      },
+      {
+        "date" : "2025-06-12",
+        "contentsname" : "엠넷-8K 가로 MPD직캠(Girls Will Be Girls)",
+        "url" : "https://www.youtube.com/watch?v=STgiVYpd3PE"
+      },
+      {
+        "date" : "2025-06-13",
+        "contentsname" : "뮤직뱅크-8K 가로 직캠(Kiss & Tell)",
+        "url" : "https://www.youtube.com/watch?v=-ss3IlvFzYc"
+      },
+      {
+        "date" : "2025-06-13",
+        "contentsname" : "뮤직뱅크-8K 가로 직캠(Girls Will Be Girls)",
+        "url" : "https://www.youtube.com/watch?v=T_Q48oUx61E"
+      },
+      {
+        "date" : "2025-06-14",
+        "contentsname" : "음악중심-4K 음중풀캠(Kiss & Tell)",
+        "url" : "https://www.youtube.com/watch?v=XO7WVhL7Nhk"
+      },
+      {
+        "date" : "2025-06-14",
+        "contentsname" : "음악중심-8K 음중풀캠(Girls Will Be Girls)",
+        "url" : "https://www.youtube.com/watch?v=y1xE5mFv-nA"
+      },
+      {
+        "date" : "2025-06-15",
+        "contentsname" : "인기가요-4K 가로 안방1열 풀캠(Kiss & Tell)",
+        "url" : "https://www.youtube.com/watch?v=cdnlJ709YZc"
+      },
+      {
+        "date" : "2025-06-15",
+        "contentsname" : "인기가요-4K 가로 안방1열 풀캠(Girls Will Be Girls)",
+        "url" : "https://www.youtube.com/watch?v=dbL9cSDqXpk"
+      },
+      {
+        "date" : "2025-06-15",
+        "contentsname" : "인기가요-4K 단독샷캠(Girls Will Be Girls)",
+        "url" : "https://www.youtube.com/watch?v=OhYBvKjZ5zo"
+      },
+      {
+        "date" : "2025-06-19",
+        "contentsname" : "엠넷-4K 가로 MPD직캠(Girls Will Be Girls)",
+        "url" : "https://www.youtube.com/watch?v=WZkC2qlfsQ8"
+      }
+    ],
+    "radio" : [
+      {
+        "date" : "2025-06-10",
+        "contentsname" : "정오의 희망곡",
+        "url" : "https://www.youtube.com/live/d4t4uI6Z8KM"
+      }
+    ]
+    
+  }
+]
