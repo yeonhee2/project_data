@@ -1,0 +1,524 @@
+[
+  {
+    "group" : "DAY6",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "성진", 
+        "playlist" : [
+          { "title" : "Zombie", "artist": "DAY6" },
+          { "title" : "그렇더라고요", "artist": "DAY6" },
+          { "title" : "Check Pattern", "artist": "성진 (DAY6)" },
+          { "title" : "나를 좋아하지 않는 그대에게", "artist": "박원" },
+          { "title" : "놓지 않을게", "artist": "LUCY" },
+          { "title" : "맞짱 (with 잔나비 최정훈)", "artist": "AKMU (악뮤)" }
+        ]
+      },
+      {
+        "id" : 1,
+        "name" : "Young K", 
+        "playlist" : [
+          { "title" : "바래", "artist": "DAY6" },
+          { "title" : "Journey", "artist": "WOODZ" },
+          { "title" : "쉼표 (Rest)", "artist" : "도영 (DOYOUNG)" },
+          { "title" : "Youth", "artist" : "기현" },
+          { "title" : "let it be summer", "artist" : "Young K (DAY6)" },
+          { "title" : "33", "artist" : "이창섭" }
+        ]
+      },
+      {
+        "id" : 2,
+        "name" : "원필",  
+        "playlist" : [
+          { "title" : "그렇게 됐어 (feat. Young K (DAY6))", "artist": "CHEEZE (치즈)" },
+          { "title" : "우리 더 걸을까", "artist": "원필 (DAY6)" },
+          { "title" : "사랑, 이게 맞나봐", "artist" : "DAY6 (Even of Ddy)" },
+          { "title" : "축가 (Feat. 원필 (DAY6))", "artist" : "그_냥" },
+          { "title" : "둘도 아닌 하나", "artist" : "DAY6" },
+          { "title" : "문득 (Duet with 송희진)", "artist" : "도운 (DAY6)" }
+        ]
+      },
+      {
+        "id" : 3,
+        "name" : "도운", 
+        "playlist" : [
+          { "title" : "행운을 빌어 줘", "artist": "원필 (DAY6)" },
+          { "title" : "관객이 될게 (I stan U)", "artist": "아이유" },
+          { "title" : "포인트 니모", "artist" : "윤하" },
+          { "title" : "어쩌다 보니", "artist" : "DAY6" },
+          { "title" : "네 번째 봄", "artist" : "뎁트" },
+          { "title" : "SHINING", "artist" : "김한겸" }
+        ]
+      }
+    ]
+  },
+  {
+    "group" : "TWICE",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "나연", 
+        "playlist" : [
+          { "title" : "LOOK AT ME", "artist": "TWICE" },
+          { "title" : "SAY SOMETHING", "artist": "TWICE" },
+          { "title" : "POP!", "artist" : "나연 (TWICE)" },
+          { "title" : "no tears left to cry", "artist" : "Ariana Grande" },
+          { "title" : "Blueming", "artist" : "아이유" },
+          { "title" : "Happier Than Ever", "artist" : "Billie Eilish" }
+        ]
+      },
+      {
+        "id" : 1,
+        "name" : "정연", 
+        "playlist" : [
+          { "title" : "Love Line", "artist": "TWICE" },
+          { "title" : "Zombie", "artist": "Day6" },
+          { "title" : "Fix You", "artist" : "Coldplay" },
+          { "title" : "comethru", "artist" : "Jeremy Zucker" },
+          { "title" : "Gurenge", "artist" : "LiSA" },
+          { "title" : "Sweet Coffee", "artist" : "Mullally" }
+        ]
+      },
+      {
+        "id" : 2,
+        "name" : "모모",
+        "playlist" : [
+          { "title" : "I CAN'T STOP ME", "artist": "TWICE" },
+          { "title" : "Warm On A Cold Night", "artist": "HONNE" },
+          { "title" : "I Do", "artist" : "Rain" },
+          { "title" : "Queen of Hearts", "artist" : "TWICE" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX" },
+          { "title" : "Say So", "artist" : "Doja Cat" }
+        ]
+      },
+      {
+        "id" : 3,
+        "name" : "사나",
+        "playlist" : [
+          { "title" : "Baby Blue Love", "artist": "TWICE" },
+          { "title" : "So Sick", "artist": "Ne-Yo" },
+          { "title" : "You Are Not Alone", "artist" : "Michael Jackson" },
+          { "title" : "Get Loud", "artist" : "TWICE" },
+          { "title" : "Palette", "artist" : "아이유" },
+          { "title" : "D (half moon)", "artist" : "DEAN" }
+        ]
+      },
+      {
+        "id" : 4,
+        "name" : "지효",  
+        "playlist" : [
+          { "title" : "Feel Special", "artist": "TWICE" },
+          { "title" : "First Time", "artist": "TWICE" },
+          { "title" : "Killin' Me Good", "artist" : "지효 (TWICE)" },
+          { "title" : "Time of Our Life", "artist" : "Day6" },
+          { "title" : "Good Days", "artist" : "SZA" },
+          { "title" : "Blinding Lights", "artist" : "The Weeknd" }
+        ]
+      },
+      {
+        "id" : 5,
+        "name" : "미나", 
+        "playlist" : [
+          { "title" : "Hikoutei", "artist": "King Gnu" },
+          { "title" : "Doron", "artist": "King Gnu" },
+          { "title" : "Malibu Nights", "artist" : "LANY" },
+          { "title" : "11:11", "artist" : "태연 (Taeyeon)" },
+          { "title" : "Through the Night", "artist" : "아이유" },
+          { "title" : "Moonlight", "artist" : "TWICE" }
+        ]
+      },
+      {
+        "id" : 6,
+        "name" : "다현",  
+        "playlist" : [
+          { "title" : "What Is Love?", "artist": "TWICE" },
+          { "title" : "Cheer Up", "artist": "TWICE" },
+          { "title" : "One in a Million", "artist" : "TWICE" },
+          { "title" : "Shake It Off", "artist" : "Taylor Swift" },
+          { "title" : "Dynamite", "artist" : "BTS" },
+          { "title" : "INVU", "artist" : "태연 (Taeyeon)" }
+        ]
+      },
+      {
+        "id" : 7,
+        "name" : "채영", 
+        "playlist" : [
+          { "title" : "Mystery of Love", "artist": "Sufjan Stevens" },
+          { "title" : "At Your Best", "artist": "Aaliyah" },
+          { "title" : "Changes", "artist" : "Justin Bieber" },
+          { "title" : "like i need u", "artist" : "Keshi" },
+          { "title" : "Ivy", "artist" : "Frank Ocean" },
+          { "title" : "Jasmine", "artist" : "DPR LIVE" }
+        ]
+      },
+      {
+        "id" : 8,
+        "name" : "쯔위", 
+        "playlist" : [
+          { "title" : "Across The Universe", "artist": "백예린" },
+          { "title" : "Memories", "artist": "Maroon 5" },
+          { "title" : "Say a Little Prayer", "artist" : "Lianne La Havas" },
+          { "title" : "All I Ask", "artist" : "Adele" },
+          { "title" : "Love Poem", "artist" : "아이유" },
+          { "title" : "Behind The Mask", "artist" : "TWICE" }
+        ]
+      }
+    ]
+  },
+  {
+    "group" : "StrayKids",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "방찬", 
+        "playlist" : [
+          { "title" : "God's Menu", "artist": "StrayKids" },
+          { "title" : "TOP", "artist": "StrayKids" },
+          { "title" : "Memories", "artist" : "Maroon5" },
+          { "title" : "Talking To The Moon", "artist" : "Bruno mars" },
+          { "title" : "Counting Stars", "artist" : "OneRepublic" },
+          { "title" : "Sleepless Night (Feat. Punch)", "artist" : "Crush" }
+        ]
+      },
+      {
+        "id" : 1,
+        "name" : "리노",  
+        "playlist" : [
+          { "title" : "レオ", "artist": "유우리" },
+          { "title" : "CINEMA", "artist": "StrayKids" },
+          { "title" : "夢花火", "artist" : "Novelbright" },
+          { "title" : "Mean It", "artist" : "Gracie Abrams" },
+          { "title" : "야생화", "artist" : "박효신" },
+          { "title" : "Snowman", "artist" : "Sia" }
+        ]
+      },
+      {
+        "id" : 2,
+        "name" : "창빈",  
+        "playlist" : [
+          { "title" : "God's Menu", "artist": "StrayKids" },
+          { "title" : "Booster", "artist": "StrayKids" },
+          { "title" : "281.31km ( From. )", "artist" : "김뮤지엄" },
+          { "title" : "괜찮아도 괜찮아", "artist" : "디오" },
+          { "title" : "So Beautiful", "artist" : "DPR IAN" },
+          { "title" : "Stay", "artist" : "Zedd, Alessia Cara " }
+        ]
+      },
+      {
+        "id" : 3,
+        "name" : "현진", 
+        "playlist" : [
+          { "title" : "Young and Beautiful", "artist": "Lana Del Rey" },
+          { "title" : "traitor", "artist": "Olivia Rodrigo" },
+          { "title" : "부작용", "artist" : "StrayKids" },
+          { "title" : "Dear Moon", "artist" : "제휘" },
+          { "title" : "Drowning", "artist" : "Wave to Earth" },
+          { "title" : "눈, 코, 입", "artist" : "태양" }
+        ]
+      },
+      {
+        "id" : 4,
+        "name" : "한", 
+        "playlist" : [
+          { "title" : "미로", "artist": "StrayKids" },
+          { "title" : "Slump", "artist": "Stray Kids" },
+          { "title" : "Winter Falls", "artist" : "Stray Kids" },
+          { "title" : "Apt", "artist" : "ROSÉ & Bruno Mars" },
+          { "title" : "잘 부탁드립니다", "artist" : "익스(Ex)" },
+          { "title" : "피아니시모", "artist" : "체리필터(Cherry filter)" }
+        ]
+      },
+      {
+        "id" : 5,
+        "name" : "필릭스", 
+        "playlist" : [
+          { "title" : "Youtiful", "artist": "StrayKids" },
+          { "title" : "Dog Days Are Over", "artist": "Florence + The Machine" },
+          { "title" : "traitor", "artist" : "Olivia Rodrigo" },
+          { "title" : "Levanter", "artist" : "Stray Kids" },
+          { "title" : "Up All Night", "artist" : "Stray Kids" },
+          { "title" : "Side Effects", "artist" : "Stray Kids" }
+        ]
+      },
+      {
+        "id" : 6,
+        "name" : "승민", 
+        "playlist" : [
+          { "title" : "나 너 좋아하나봐", "artist": "StrayKids" },
+          { "title" : "Another Day", "artist": "Stray Kids" },
+          { "title" : "Secret Secret", "artist" : "Stray Kids" },
+          { "title" : "Here Always ", "artist" : "승민 (Stray Kids)" },
+          { "title" : "Hold On", "artist" : "한X승민 (Stray Kids)" },
+          { "title" : "Stars and Raindrops", "artist" : "승민 (Stray Kids)" }
+        ]
+      },
+      {
+        "id" : 7,
+        "name" : "아이엔",
+        "playlist" : [
+          { "title" : "청사진", "artist": "StrayKids" },
+          { "title" : "Maknae on Top", "artist": "Stray Kids" },
+          { "title" : "Chk Chk Boom", "artist" : "Stray Kids" },
+          { "title" : "Mixtape: OH", "artist" : "Stray Kids" },
+          { "title" : "Your Eyes", "artist" : "Stray Kids" },
+          { "title" : "S-Class", "artist" : "Stray Kids" }
+        ]
+      }
+    ]
+  },
+  {
+    "group" : "ITZY",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "예지", 
+        "playlist" : [
+          { "title" : "POP!", "artist": "나연 (TWICE)" },
+          { "title" : "Dalla Dalla", "artist": "ITZY" },
+          { "title" : "Sneakers", "artist" : "ITZY" },
+          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
+          { "title" : "Mirror", "artist" : "ITZY" },
+          { "title" : "24Hrs", "artist" : "ITZY" }
+        ]
+      },
+      {
+        "id" : 1,
+        "name" : "리아", 
+        "playlist" : [
+          { "title" : "Mirror", "artist": "ITZY" },
+          { "title" : "24Hrs", "artist": "ITZY" },
+          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
+          { "title" : "Sneakers", "artist" : "ITZY" },
+          { "title" : "Dalla Dalla", "artist" : "ITZY" },
+          { "title" : "POP!", "artist" : "나연 (TWICE)" }
+        ]
+      },
+      {
+        "id" : 2,
+        "name" : "류진",
+        "playlist" : [
+          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST" },
+          { "title" : "No Problem", "artist": "TWICE & Stray Kids Felix" },
+          { "title" : "Dalla Dalla", "artist" : "ITZY" },
+          { "title" : "Sneakers", "artist" : "ITZY" },
+          { "title" : "Mirror", "artist" : "ITZY" },
+          { "title" : "24Hrs", "artist" : "ITZY" }
+        ]
+      },
+      {
+        "id" : 3,
+        "name" : "채령", 
+        "playlist" : [
+          { "title" : "Dalla Dalla", "artist": "ITZY" },
+          { "title" : "Mirror", "artist": "ITZY" },
+          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
+          { "title" : "Sneakers", "artist" : "ITZY" },
+          { "title" : "24Hrs", "artist" : "ITZY" },
+          { "title" : "POP!", "artist" : "나연 (TWICE)" }
+        ]
+      },
+      {
+        "id" : 4,
+        "name" : "유나",
+        "playlist" : [
+          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST" },
+          { "title" : "Sneakers", "artist": "ITZY" },
+          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
+          { "title" : "Mirror", "artist" : "ITZY" },
+          { "title" : "24Hrs", "artist" : "ITZY" },
+          { "title" : " ", "artist" : " " }
+        ]
+      }
+    ]
+  },
+  {
+    "group" : "NMIXX",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "릴리", 
+        "playlist" : [
+          { "title" : "Love Me Like This", "artist": "NMIXX" },
+          { "title" : "Humble", "artist": "Kendrick Lamar" },
+          { "title" : "See You Again", "artist" : "Tyler, The Creator" },
+          { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
+          { "title" : "DASH", "artist" : "NMIXX" },
+          { "title" : "Party OClock", "artist" : "NMIXX" }
+        ]
+      },
+      {
+        "id" : 1,
+        "name" : "해원", 
+        "playlist" : [
+          { "title" : "Demons", "artist": "Imagine Dragons" },
+          { "title" : "DASH", "artist": "NMIXX" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX" },
+          { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
+          { "title" : "Party O'Clock", "artist" : "NMIXX" },
+          { "title" : "Aside (방백)", "artist" : "샤이니" }
+        ]
+      },
+      {
+        "id" : 2,
+        "name" : "설윤",
+        "playlist" : [
+          { "title" : "Love Attack", "artist": "RESCENE" },
+          { "title" : "DASH", "artist": "NMIXX" },
+          { "title" : "Party O'Clock", "artist" : "NMIXX" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX" },
+          { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
+          { "title" : " ", "artist" : " " }
+        ]
+      },
+      {
+        "id" : 3,
+        "name" : "배이", 
+        "playlist" : [
+          { "title" : "Papillon", "artist": "NMIXX" },
+          { "title" : "Break The Wall", "artist": "NMIXX" },
+          { "title" : "Demons", "artist" : "Imagine Dragons" },
+          { "title" : "Love On Top", "artist" : "Beyoncé" },
+          { "title" : "Bohemian Rhapsody", "artist" : "Queen " },
+          { "title" : "Love Me Like This", "artist" : "NMIXX" }
+        ]
+      },
+      {
+        "id" : 4,
+        "name" : "지우", 
+        "playlist" : [
+          { "title" : "DNA", "artist": "Kendrick Lamar" },
+          { "title" : "DASH", "artist": "NMIXX" },
+          { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX" },
+          { "title" : "Party O'Clock", "artist" : "NMIXX" },
+          { "title" : "", "artist" : "" }
+        ]
+      },
+      {
+        "id" : 5,
+        "name" : "규진",
+        "playlist" : [
+          { "title" : "Run For Roses", "artist": "NMIXX" },
+          { "title" : "High Horse", "artist": "NMIXX" },
+          { "title" : "Party OClock", "artist" : "NMIXX" },
+          { "title" : "Dice", "artist" : "NMIXX" },
+          { "title" : "Say So", "artist" : "Doja Cat" },
+          { "title" : "I", "artist" : "태연 (Taeyeon)" }
+        ]
+      }
+    ]
+  },
+  {
+    "group" : "NiziU",
+    "member" : [
+      {
+        "id" : 0,
+        "name" : "마코", 
+        "playlist" : [
+          { "title" : "Need U", "artist": "NiziU" },
+          { "title" : "Press Play (HEARTRIS)", "artist": "NiziU" },
+          { "title" : "LOVE LINE", "artist" : "NiziU" },
+          { "title" : "Paradise", "artist" : "NiziU" },
+          { "title" : "Make You Happy", "artist" : "NiziU" },
+          { "title" : "Step and a Step", "artist" : "NiziU" }
+        ]
+      },
+      {
+        "id" : 1,
+        "name" : "리오",
+        "playlist" : [
+          { "title" : "Always", "artist": "NiziU" },
+          { "title" : "LOVE LINE", "artist": "NiziU" },
+          { "title" : "Make You Happy", "artist" : "NiziU" },
+          { "title" : "Take a Picture", "artist" : "NiziU" },
+          { "title" : "Poppin' Shakin'", "artist" : "NiziU" },
+          { "title" : "Step and a Step", "artist" : "NiziU" }
+        ]
+      },
+      {
+        "id" : 2,
+        "name" : "마야", 
+        "playlist" : [
+          { "title" : "Memories", "artist": "NiziU" },
+          { "title" : "Make You Happy", "artist": "NiziU" },
+          { "title" : "ASOBO", "artist" : "NiziU" },
+          { "title" : "LOVE LINE", "artist" : "NiziU" },
+          { "title" : "Paradise", "artist" : "NiziU" },
+          { "title" : "Step and a Step", "artist" : "NiziU" }
+        ]
+      },
+      {
+        "id" : 3,
+        "name" : "리쿠", 
+        "playlist" : [
+          { "title" : "HEARTRIS", "artist": "NiziU" },
+          { "title" : "LOVE LINE", "artist": "NiziU" },
+          { "title" : "Make You Happy", "artist" : "NiziU" },
+          { "title" : "Coconut", "artist" : "NiziU" },
+          { "title" : "Take a Picture", "artist" : "NiziU" },
+          { "title" : "Step and a Step", "artist" : "NiziU" }
+        ]
+      },
+      {
+        "id" : 4,
+        "name" : "아야카",
+        "playlist" : [
+          { "title" : "Life is Beautiful", "artist": "NiziU" },
+          { "title" : "LOVE LINE", "artist": "NiziU" },
+          { "title" : "Make You Happy", "artist" : "NiziU" },
+          { "title" : "Take a Picture", "artist" : "NiziU" },
+          { "title" : "ASOBO", "artist" : "NiziU" },
+          { "title" : "Step and a Step", "artist" : "NiziU" }
+        ]
+      },
+      {
+        "id" : 5,
+        "name" : "마유카", 
+        "playlist" : [
+          { "title" : "Believe", "artist": "NiziU" },
+          { "title" : "LOVE LINE", "artist": "NiziU" },
+          { "title" : "Make You Happy", "artist" : "NiziU" },
+          { "title" : "CLAP CLAP", "artist" : "NiziU" },
+          { "title" : "ASOBO", "artist" : "NiziU" },
+          { "title" : "Step and a Step", "artist" : "NiziU" }
+        ]
+      },
+      {
+        "id" : 6,
+        "name" : "리마", 
+        "playlist" : [
+          { "title" : "SNF", "artist": "NiziU (SNF 유닛 곡)" },
+          { "title" : "LOVE LINE", "artist": "NiziU" },
+          { "title" : "Make You Happy", "artist" : "NiziU" },
+          { "title" : "ASOBO", "artist" : "NiziU" },
+          { "title" : "Take a Picture", "artist" : "NiziU" },
+          { "title" : "Step and a Step", "artist" : "NiziU" }
+        ]
+      },
+      {
+        "id" : 7,
+        "name" : "미이히", 
+        "playlist" : [
+          { "title" : "LOVE LINE", "artist": "NiziU" },
+          { "title" : "Make You Happy", "artist": "NiziU" },
+          { "title" : "Step and a Step", "artist" : "NiziU" },
+          { "title" : "ASOBO", "artist" : "NiziU" },
+          { "title" : "Take a Picture", "artist" : "NiziU" },
+          { "title" : "Paradise", "artist" : "NiziU" }
+        ]
+      },
+      {
+        "id" : 8,
+        "name" : "니나", 
+        "playlist" : [
+          { "title" : "What If", "artist": "NiziU" },
+          { "title" : "LOVE LINE", "artist": "NiziU" },
+          { "title" : "Make You Happy", "artist" : "NiziU" },
+          { "title" : "Take a Picture", "artist" : "NiziU" },
+          { "title" : "Poppin' Shakin'", "artist" : "NiziU" },
+          { "title" : "Step and a Step", "artist" : "NiziU" }
+        ]
+      }
+    ]
+  }
+]
