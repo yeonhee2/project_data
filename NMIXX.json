@@ -1,0 +1,469 @@
+[
+  {
+    "name" : "Fe3O4: FORWARD",
+    "title" : "KNOW ABOUT ME",
+    "releaseDate" : "2025-03-17",
+    "coverImage" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/NMIXX.jpg",
+    "rankings" : {
+      "Melon" : "#33",
+      "Genie" : "#69",
+      "Bugs" :"#8"
+    },
+    "Youtube" : [
+      {
+        "date" : "2025-02-19",
+        "contentsname" : "Motion Poster",
+        "url" : "https://www.youtube.com/watch?v=wRK7tDpYoUw"
+      },
+      {
+        "date" : "2025-02-24",
+        "contentsname" : "해원 - Fe3O4: FORWARD Visual Film: The Dawn of Departure",
+        "url" : "https://www.youtube.com/watch?v=YGhB9bE3mag"
+      },
+      {
+        "date" : "2025-02-24",
+        "contentsname" : "규진 - Fe3O4: FORWARD Visual Film: The Dawn of Departure",
+        "url" : "https://www.youtube.com/watch?v=k8Ipm56JN-c"
+      },
+      {
+        "date" : "2025-02-25",
+        "contentsname" : "설윤 - Fe3O4: FORWARD Visual Film: The Dawn of Departure",
+        "url" : "https://www.youtube.com/watch?v=BlVflcwO7ps"
+      },
+      {
+        "date" : "2025-02-25",
+        "contentsname" : "배이 - Fe3O4: FORWARD Visual Film: The Dawn of Departure",
+        "url" : "https://www.youtube.com/watch?v=FCkroyygu8M"
+      },
+      {
+        "date" : "2025-02-26",
+        "contentsname" : "릴리 - Fe3O4: FORWARD Visual Film: The Dawn of Departure",
+        "url" : "https://www.youtube.com/watch?v=MqOEek5kdbA"
+      },
+      {
+        "date" : "2025-02-26",
+        "contentsname" : "지우 - Fe3O4: FORWARD Visual Film: The Dawn of Departure",
+        "url" : "https://www.youtube.com/watch?v=DMTwhQvqDsU"
+      },
+      {
+        "date" : "2025-02-27",
+        "contentsname" : "단체 - Fe3O4: FORWARD Visual Film: The Dawn of Departure",
+        "url" : "https://www.youtube.com/watch?v=p_vqK70jZcE"
+      },
+      {
+        "date" : "2025-03-03",
+        "contentsname" : "Fe3O4: FORWARD Story Film Part1: HARDBOILED AND AURORA",
+        "url" : "https://www.youtube.com/watch?v=Jt1COxJ_EvY"
+      },
+      {
+        "date" : "2025-03-04",
+        "contentsname" : "Fe3O4: FORWARD Story Film Part2: High Horse Performance Visualizer",
+        "url" : "https://www.youtube.com/watch?v=vY4lGJJ2ZzI"
+      },
+      {
+        "date" : "2025-03-05",
+        "contentsname" : "Fe3O4: FORWARD Our new ship project: MMU",
+        "url" : "https://www.youtube.com/watch?v=Z2IOOCpewso"
+      },
+      {
+        "date" : "2025-03-05",
+        "contentsname" : "Korean Ver. - Fe3O4: FORWARD MMU Departure Announcement",
+        "url" : "https://www.youtube.com/watch?v=CVkJyoBNByQ"
+      },
+      {
+        "date" : "2025-03-05",
+        "contentsname" : "English Ver. - Fe3O4: FORWARD MMU Departure Announcement",
+        "url" : "https://www.youtube.com/watch?v=JhHnM5LAqog"
+      },
+      {
+        "date" : "2025-03-08",
+        "contentsname" : "Fe3O4: FORWARD Animation Story Film: The Confession of Midas Girl",
+        "url" : "https://www.youtube.com/watch?v=7Jj6R6khBd0"
+      },
+      {
+        "date" : "2025-03-10",
+        "contentsname" : "Fe3O4: FORWARD Commentary Video: The Journey of Fe3O4",
+        "url" : "https://www.youtube.com/watch?v=1vBIvtsuK_w"
+      },
+      {
+        "date" : "2025-03-11",
+        "contentsname" : "채널십오야 - [라이브] 엔믹스와 나나노래방 귀호강 라이브",
+        "url" : "https://www.youtube.com/watch?v=6Djki5e-AFw"
+      },
+      {
+        "date" : "2025-03-12",
+        "contentsname" : "A Cappella Ver. - Highlight Medely",
+        "url" : "https://www.youtube.com/watch?v=Go95r6u2Fyo"
+      },
+      {
+        "date" : "2025-03-13",
+        "contentsname" : "Original Ver. - Highlight Medely",
+        "url" : "https://www.youtube.com/watch?v=KVaL0_4mMDs"
+      },
+      {
+        "date" : "2025-03-14",
+        "contentsname" : "Go Ver. / Ready Ver. - Fe3O4: FORWARD 3D Album Preview",
+        "url" : "https://www.youtube.com/watch?v=cyyjtRSRmzE"
+      },
+      {
+        "date" : "2025-03-14",
+        "contentsname" : "Limited Ver. - Fe3O4: FORWARD 3D Album Preview",
+        "url" : "https://www.youtube.com/watch?v=ICkPyHiByL4"
+      },
+      {
+        "date" : "2025-03-14",
+        "contentsname" : "Platform Album POCAALBUM Ver. - Fe3O4: FORWARD 3D Album Preview",
+        "url" : "https://www.youtube.com/watch?v=DxCTQEtM_bw"
+      },
+      {
+        "date" : "2025-03-14",
+        "contentsname" : "Shell Ver. - Fe3O4: FORWARD 3D Album Preview",
+        "url" : "https://www.youtube.com/watch?v=gYyqLcBJKaw"
+      },
+      {
+        "date" : "2025-03-15",
+        "contentsname" : "KNOW ABOUT ME M/V TEASER #1",
+        "url" : "https://www.youtube.com/watch?v=-mL_v8_WL1E"
+      },
+      {
+        "date" : "2025-03-16",
+        "contentsname" : "KNOW ABOUT ME M/V TEASER #2",
+        "url" : "https://www.youtube.com/watch?v=K2WOml1r6Fk"
+      },
+      {
+        "date" : "2025-03-17",
+        "contentsname" : "Countdown Live",
+        "url" : "https://www.youtube.com/watch?v=9ckVOtZ9cy4"
+      },
+      {
+        "date" : "2025-03-17",
+        "contentsname" : "The 4th EP 〈Fe3O4: FORWARD〉 Release & MV",
+        "url" : "https://www.youtube.com/watch?v=aFrQIJ5cbRc"
+      },
+      {
+        "date" : "2025-03-18",
+        "contentsname" : "KNOW ABOUT ME - Performance Video",
+        "url" : "https://www.youtube.com/watch?v=Juc9F74_sJ8&t=1s"
+      },
+      {
+        "date" : "2025-03-18",
+        "contentsname" : "KNOW ABOUT ME - 응원법",
+        "url" : "https://www.youtube.com/watch?v=ShV1IWoZLOs"
+      },
+      {
+        "date" : "2025-03-18",
+        "contentsname" : "리무진서비스 - EP.157 엔믹스 규진 | NMIXX KYUJIN | KNOW ABOUT ME, Motivation, ONLY",
+        "url" : "https://www.youtube.com/watch?v=RR33cYnd3G4"
+      },
+      {
+        "date" : "2025-03-19",
+        "contentsname" : "KNOW ABOUT ME - Stage Practice",
+        "url" : "https://www.youtube.com/watch?v=nrnx39i0FDs"
+      },
+      {
+        "date" : "2025-03-20",
+        "contentsname" : "KNOW ABOUT ME - Dance Practice",
+        "url" : "https://www.youtube.com/watch?v=RBJvu2AEkHA"
+      },
+      {
+        "date" : "2025-03-20",
+        "contentsname" : "뜬뜬 - 250320 mini핑계고 : 유재석, 엔믹스(해원, 설윤, 배이) @뜬뜬편집실 (OneCam)",
+        "url" : "https://www.youtube.com/watch?v=BfISJCsWAy0"
+      },
+      {
+        "date" : "2025-03-20",
+        "contentsname" : "민주의 핑크 캐비닛 - LOL 여신 민주리나🤭 vs 오버워치 여신 설장군💕 feat. 장카설유밍(?)🤣💕",
+        "url" : "https://www.youtube.com/watch?v=PjYpOIR07YY"
+      },
+      {
+        "date" : "2025-03-21",
+        "contentsname" : "KNOW ABOUT ME - M/V REACTION",
+        "url" : "https://www.youtube.com/watch?v=Fs100XrKy6Y"
+      },
+      {
+        "date" : "2025-03-21",
+        "contentsname" : "it's Live - High Horse & KNOW ABOUT ME (One Take ver.)  Band LIVE",
+        "url" : "https://www.youtube.com/watch?v=OiH0C3JCw_A"
+      },
+      {
+        "date" : "2025-03-21",
+        "contentsname" : "K-Pop ON! Spotify - NMIXX, too funny to the point of puking?",
+        "url" : "https://www.youtube.com/watch?v=xSUfe_aDroY"
+      },
+      {
+        "date" : "2025-03-22",
+        "contentsname" : "SBSKPOP X INKIGAYO - NMIXX 지우 야채탐정 되다 #순간뽀짝세상에이런아이돌이",
+        "url" : "https://www.youtube.com/watch?v=OBdib7F0Ztc"
+      },
+      {
+        "date" : "2025-03-22",
+        "contentsname" : "아이돌 인간극장 - 서로를 너무 잘 아는 엔믹스의 거울 치료 현장😜 | 아이돌 인간극장",
+        "url" : "https://www.youtube.com/watch?v=r4BX6NJmPm0"
+      },
+      {
+        "date" : "2025-03-24",
+        "contentsname" : "RISABAE - 언니 폭격기💥 엔믹스 지우🐶 언니들 심장 부여잡고 오세요💎✨",
+        "url" : "https://www.youtube.com/watch?v=YYwmdj5b0bU"
+      },
+      {
+        "date" : "2025-03-28",
+        "contentsname" : "할명수 - 예능 췍! 하러 온 개그돌 엔믹스(NMIXX)와 새학기 MT 다녀왔습니다 | 할명수 ep.228",
+        "url" : "https://www.youtube.com/watch?v=Jmoqb4srBaU"
+      },
+      {
+        "date" : "2025-03-28",
+        "contentsname" : "별이 부르는 방에 - 자장가 요정이 재워dream(EN/JP/KR) | 별이 부르는 방에 | NMIXX 릴리&배이 | 4K",
+        "url" : "https://www.youtube.com/watch?v=dJRblwCV8QY"
+      },
+      {
+        "date" : "2025-03-30",
+        "contentsname" : "침착맨 - T는 정말 사이코패스일까? (with NMIXX 릴리, 해원, 배이)",
+        "url" : "https://www.youtube.com/watch?v=hQnCHuT9UL0"
+      },
+      {
+        "date" : "2025-04-06",
+        "contentsname" : "Fe3O4: FORWARD wrap-up party with NSWER",
+        "url" : "https://www.youtube.com/watch?v=i-zRXEfJbZA&t=1s"
+      },
+      {
+        "date" : "2025-02-19",
+        "contentsname" : "〈Fe3O4: FORWARD〉 관련 재생목록",
+        "url" : "https://www.youtube.com/watch?v=aFrQIJ5cbRc&list=PLJGupZvqQHAsZ4Mgpa2J2QWz74BVG31U0"
+      }
+    ],
+    "musicbroadcast" : [
+      {
+        "date" : "2025-03-20",
+        "contentsname" : "엠넷 - High Horse",
+        "url" : "https://www.youtube.com/watch?v=5neUFU_Trww"
+      },
+      {
+        "date" : "2025-03-20",
+        "contentsname" : "엠넷 - KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=-pWytfdJmko"
+      },
+      {
+        "date" : "2025-03-21",
+        "contentsname" : "뮤직뱅크 - High Horse",
+        "url" : "https://www.youtube.com/watch?v=vW-d_3ShfXo"
+      },
+      {
+        "date" : "2025-03-21",
+        "contentsname" : "뮤직뱅크 - KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=_2Q4YAO4AZU"
+      },
+      {
+        "date" : "2025-03-23",
+        "contentsname" : "인기가요 - High Horse",
+        "url" : "https://www.youtube.com/watch?v=cmwWjCzNYhM"
+      },
+      {
+        "date" : "2025-03-23",
+        "contentsname" : "인기가요 - KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=a1ssvmj2E9g"
+      },
+      {
+        "date" : "2025-03-26",
+        "contentsname" : "쇼챔피언 - High Horse",
+        "url" : "https://www.youtube.com/watch?v=gc5H26g4JCw"
+      },
+      {
+        "date" : "2025-03-26",
+        "contentsname" : "쇼챔피언 - KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=HEd1P4DD1iI"
+      },
+      {
+        "date" : "2025-03-27",
+        "contentsname" : "엠넷 - KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=sK9BXWUMp2Y"
+      },
+      {
+        "date" : "2025-03-29",
+        "contentsname" : "쇼음악중심 - High Horse",
+        "url" : "https://www.youtube.com/watch?v=0FcKpSrO8oU"
+      },
+      {
+        "date" : "2025-03-29",
+        "contentsname" : "쇼음악중심 - KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=EDl0tNRASus"
+      },
+      {
+        "date" : "2025-03-30",
+        "contentsname" : "인기가요",
+        "url" : "https://www.youtube.com/watch?v=if44aQgFAEA"
+      },
+      {
+        "date" : "2025-04-02",
+        "contentsname" : "쇼챔피언",
+        "url" : "https://www.youtube.com/watch?v=smhKvV0DH14"
+      },
+      {
+        "date" : "2025-04-03",
+        "contentsname" : "엠넷",
+        "url" : "https://www.youtube.com/watch?v=mxswBFJUU18"
+      },
+      {
+        "date" : "2025-04-04",
+        "contentsname" : "뮤직뱅크 (3월 28일 자 녹화 방송) - High Horse",
+        "url" : "https://www.youtube.com/watch?v=oGf8hRfTzFk"
+      },
+      {
+        "date" : "2025-04-04",
+        "contentsname" : "뮤직뱅크 (3월 28일 자 녹화 방송)- KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=soeN7ASgmlE"
+      },
+      {
+        "date" : "2025-04-05",
+        "contentsname" : "쇼음악중심",
+        "url" : "https://www.youtube.com/watch?v=U4RvrLyO-1I"
+      },
+      {
+        "date" : "2025-04-06",
+        "contentsname" : "인기가요",
+        "url" : "https://www.youtube.com/watch?v=KevsI_IPFNc"
+      },
+      {
+        "date" : "2025-04-27",
+        "contentsname" : "인기가요 - 12~13일 양일간 진행됐던 2025 SBS 인기가요 유니콘 in 도쿄돔 녹화 방송 무대.",
+        "url" : "https://www.youtube.com/watch?v=Tplt7w9wzdM"
+      }
+    ],
+    "fancam" : [
+      {
+        "date" : "2025-03-20",
+        "contentsname" : "엠넷 - 직캠 8K KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=3XapxftbFyY"
+      },
+      {
+        "date" : "2025-03-20",
+        "contentsname" : "엠넷 - 직캠 4K High Horse",
+        "url" : "https://www.youtube.com/watch?v=0cMTSwf7jRg"
+      },
+      {
+        "date" : "2025-03-21",
+        "contentsname" : "뮤직뱅크 - 직캠 KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=da-KLSF3N88"
+      },
+      {
+        "date" : "2025-03-21",
+        "contentsname" : "뮤직뱅크 - K-Choreo Tower Cam 4K High Horse",
+        "url" : "https://www.youtube.com/watch?v=5TUNknQJD7A"
+      },
+      {
+        "date" : "2025-03-23",
+        "contentsname" : "인기가요 - 안방1열 풀캠4K KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=yWRXjf7FQuw"
+      },
+      {
+        "date" : "2025-03-23",
+        "contentsname" : "인기가요 - 단독샷캠4K KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=CvN9Ptb65Hg"
+      },
+      {
+        "date" : "2025-03-23",
+        "contentsname" : "인기가요 - 안방1열 풀캠4K High Horse",
+        "url" : "https://www.youtube.com/watch?v=XCpX8qzu8_8"
+      },
+      {
+        "date" : "2025-03-26",
+        "contentsname" : "쇼챔피언 - 쇼챔직캠 4K KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=UmeDwVfOEuE"
+      },
+      {
+        "date" : "2025-03-26",
+        "contentsname" : "쇼챔피언 - 앵콜 Full ver. KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=0rp54oXvJ4o"
+      },
+      {
+        "date" : "2025-03-27",
+        "contentsname" : "엠넷 - 직캠 4K KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=6_GblahU-JA"
+      },
+      {
+        "date" : "2025-03-29",
+        "contentsname" : "쇼음악중심 - 음중풀캠8K KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=VvY9KUkG7Eo"
+      },
+      {
+        "date" : "2025-03-29",
+        "contentsname" : "쇼음악중심 - 음중풀캠 High Horse",
+        "url" : "https://www.youtube.com/watch?v=z3ZZdYKT9Qo"
+      },
+      {
+        "date" : "2025-03-30",
+        "contentsname" : "인기가요 - 안방1열 풀캠4K",
+        "url" : "https://www.youtube.com/watch?v=RUReSf-upp4"
+      },
+      {
+        "date" : "2025-03-30",
+        "contentsname" : "인기가요 - 초고화질 8K",
+        "url" : "https://www.youtube.com/watch?v=TrDwuuHQ0qU"
+      },
+      {
+        "date" : "2025-03-30",
+        "contentsname" : "인기가요 - 앵콜캠4K 1위 앵콜 직캠",
+        "url" : "https://www.youtube.com/watch?v=QRa1-qZg8Z4"
+      },
+      {
+        "date" : "2025-04-02",
+        "contentsname" : "쇼챔피언 - 쇼챔직캠 4K",
+        "url" : "https://www.youtube.com/watch?v=5E289eNfN-k"
+      },
+      {
+        "date" : "2025-04-04",
+        "contentsname" : "뮤직뱅크 - K-Choreo 8K KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=-fNdTe_kqDY"
+      },
+      {
+        "date" : "2025-04-04",
+        "contentsname" : "뮤직뱅크 - K-Choreo Tower Cam 4K High Horse",
+        "url" : "https://www.youtube.com/watch?v=-JRFEmJUScI"
+      },
+      {
+        "date" : "2025-04-04",
+        "contentsname" : "뮤직뱅크 - 1위 앵콜직캠 KNOW ABOUT ME",
+        "url" : "https://www.youtube.com/watch?v=NnIAZy_QaWY"
+      },
+      {
+        "date" : "2025-04-05",
+        "contentsname" : "쇼음악중심 - 음중풀캠",
+        "url" : "https://www.youtube.com/watch?v=J_WRXrpqUpk"
+      },
+      {
+        "date" : "2025-04-06",
+        "contentsname" : "인기가요 - 안방1열 풀캠4K",
+        "url" : "https://www.youtube.com/watch?v=m8SiyR621wk"
+      }
+    ],
+    "radio" : [
+      {
+        "date" : "2025-03-24",
+        "contentsname" : "정오의 희망곡",
+        "url" : "https://www.youtube.com/watch?v=hY8oobP0wq0"
+      },
+      {
+        "date" : "2025-03-24",
+        "contentsname" : "웬디의 영스트리트",
+        "url" : "https://www.youtube.com/watch?v=ig0nQQeCIq8"
+      },
+      {
+        "date" : "2025-04-01",
+        "contentsname" : "이은지의 가요광장",
+        "url" : "https://www.youtube.com/watch?v=wAT2TljqXcM"
+      }
+    ],
+    "tv-show" : [
+      {
+        "date" : "2025-03-23",
+        "contentsname" : "개그콘서트 - 설윤, 규진",
+        "url" : "https://www.youtube.com/watch?v=Hlh7xZ-oyOY"
+      },
+      {
+        "date" : "2025-03-28",
+        "contentsname" : "더 시즌즈 - 전원",
+        "url" : "https://www.youtube.com/watch?v=RHK500whvs0"
+      }
+    ]
+    
+  }
+]
