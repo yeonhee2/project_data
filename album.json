@@ -3,7 +3,7 @@
     "group" : "DAY6",
     "music" : [
       {
-        "group,solo" : "DAY6",
+        "groupsolo" : "DAY6",
         "color" : "#f7c600",
         "fontcolor" : "#000000",
         "musicformats" : "Digital Single",
@@ -16,7 +16,7 @@
     "group" : "TWICE",
     "music" : [
       {
-        "group,solo" : "TWICE",
+        "groupsolo" : "TWICE",
         "color" : "#ff91b6",
         "fontcolor" : "#000000",
         "musicformats" : "ost",
@@ -24,7 +24,7 @@
         "Releasedate" : "2025-06-20"
       },
       {
-        "group,solo" : "TWICE",
+        "groupsolo" : "TWICE",
         "color" : "#ff91b6",
         "fontcolor" : "#000000",
         "musicformats" : "Album",
@@ -37,7 +37,7 @@
     "group" : "StrayKids",
     "music" : [
       {
-        "group,solo" : "StrayKids",
+        "groupsolo" : "StrayKids",
         "color" : "#8b0000",
         "fontcolor" : "#ffffff",
         "musicformats" : "Digital Single",
@@ -50,7 +50,7 @@
     "group" : "ITZY",
     "music" : [
       {       
-        "group,solo" : "예지",
+        "groupsolo" : "예지",
         "musicformats" : "EP",
         "color" : "#fd5d5d",
         "fontcolor" : "#000000",
@@ -58,7 +58,7 @@
         "Releasedate" : "2025-03-10"
       },
       {
-        "group,solo" : "ITZY",
+        "groupsolo" : "ITZY",
         "color" : "#b7b1ff",
        "fontcolor" : "#000000",
         "musicformats" : "EP",
@@ -71,7 +71,7 @@
     "group" : "NMIXX",
     "music" : [
       { 
-        "group,solo" : "NMIXX", 
+        "groupsolo" : "NMIXX", 
         "color" : "#00e2ff",
         "fontcolor" : "#000000",     
         "musicformats" : "Single",
@@ -79,7 +79,7 @@
         "Releasedate" : "2025-03-04"
       },
       {
-        "group,solo" : "NMIXX",
+        "groupsolo" : "NMIXX",
         "color" : "#00e2ff",
         "fontcolor" : "#000000",   
         "musicformats" : "EP",
@@ -92,7 +92,7 @@
     "group" : "NiziU",
     "music" : [
       { 
-        "group,solo" : "NiziU",
+        "groupsolo" : "NiziU",
         "color" : "#ffe600",
         "fontcolor" : "#000000",         
         "musicformats" : "Digital Single",
