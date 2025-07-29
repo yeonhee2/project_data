@@ -30,11 +30,11 @@
         "id" : 2,
         "name" : "원필",  
         "playlist" : [
-          { "title" : "그렇게 됐어 (feat. Young K (DAY6))", "artist": "CHEEZE (치즈)" },
           { "title" : "우리 더 걸을까", "artist": "원필 (DAY6)" },
           { "title" : "사랑, 이게 맞나봐", "artist" : "DAY6 (Even of Ddy)" },
           { "title" : "둘도 아닌 하나", "artist" : "DAY6" },
           { "title" : "문득 (Duet with 송희진)", "artist" : "도운 (DAY6)" },
+          { "title" : "그렇게 됐어 (feat. Young K (DAY6))", "artist": "CHEEZE (치즈)" },
           { "title" : "축가 (Feat. 원필 (DAY6))", "artist" : "그_냥" }
         ]
       },
