@@ -59,46 +59,46 @@
         "id" : 0,
         "name" : "나연", 
         "playlist" : [
-          { "title" : "LOOK AT ME", "artist": "TWICE", "youtube" : "" },
-          { "title" : "SAY SOMETHING", "artist": "TWICE", "youtube" : "" },
-          { "title" : "POP!", "artist" : "나연 (TWICE)", "youtube" : "" },
-          { "title" : "no tears left to cry", "artist" : "Ariana Grande", "youtube" : "" },
-          { "title" : "Blueming", "artist" : "아이유", "youtube" : "" },
-          { "title" : "Happier Than Ever", "artist" : "Billie Eilish", "youtube" : "" }
+          { "title" : "LOOK AT ME", "artist": "TWICE", "youtube" : "https://youtu.be/Q97pvL6GsIA?si=Sf3t8yzNHqpSgKYD" },
+          { "title" : "SAY SOMETHING", "artist": "TWICE", "youtube" : "https://youtu.be/oiVqaZyY0ts?si=cSR7E3HnuSLC0Z1b" },
+          { "title" : "POP!", "artist" : "나연 (TWICE)", "youtube" : "https://youtu.be/f6YDKF0LVWw?si=W9TD-OnKYZUofF-v" },
+          { "title" : "no tears left to cry", "artist" : "Ariana Grande", "youtube" : "https://youtu.be/ffxKSjUwKdU?si=q7nS-u7HMrBXD6e3" },
+          { "title" : "Blueming", "artist" : "아이유", "youtube" : "https://youtu.be/o_nxIQTM_B0?si=5eGmuiUQxFPnOdZq" },
+          { "title" : "Happier Than Ever", "artist" : "Billie Eilish", "youtube" : "https://youtu.be/5GJWxDKyk3A?si=OCQyuLC5nWdJUC-B" }
         ]
       },
       {
         "id" : 1,
         "name" : "정연", 
         "playlist" : [
-          { "title" : "Love Line", "artist": "TWICE", "youtube" : "" },
+          { "title" : "Love Line", "artist": "TWICE", "youtube" : "https://youtu.be/-Q2aX-BBjK8?si=rR_tDUyG0SlEC28a" },
           { "title" : "Zombie", "artist": "Day6", "youtube" : "https://youtu.be/k8gx-C7GCGU?si=qz1fFTPX4T3JhUQo" },
-          { "title" : "Fix You", "artist" : "Coldplay", "youtube" : "" },
-          { "title" : "comethru", "artist" : "Jeremy Zucker", "youtube" : "" },
-          { "title" : "Gurenge", "artist" : "LiSA", "youtube" : "" },
-          { "title" : "Sweet Coffee", "artist" : "Mullally", "youtube" : "" }
+          { "title" : "Fix You", "artist" : "Coldplay", "youtube" : "https://youtu.be/k4V3Mo61fJM?si=fYOKrich07-C2PJm" },
+          { "title" : "comethru", "artist" : "Jeremy Zucker", "youtube" : "https://youtu.be/jO2viLEW-1A?si=Ps2J9gAm0nkXD__2" },
+          { "title" : "Gurenge", "artist" : "LiSA", "youtube" : "https://youtu.be/x1FV6IrjZCY?si=j4MMPztqD9umotar" },
+          { "title" : "Sweet Coffee", "artist" : "Mullally", "youtube" : "https://youtu.be/bOP0RM_tqQE?si=_W7vh9et9oyvSYzR" }
         ]
       },
       {
         "id" : 2,
         "name" : "모모",
         "playlist" : [
-          { "title" : "I CAN'T STOP ME", "artist": "TWICE", "youtube" : "" },
-          { "title" : "Queen of Hearts", "artist" : "TWICE", "youtube" : "" },
-          { "title" : "Warm On A Cold Night", "artist": "HONNE", "youtube" : "" },
-          { "title" : "I Do", "artist" : "Rain", "youtube" : "" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
-          { "title" : "Say So", "artist" : "Doja Cat", "youtube" : "" }
+          { "title" : "I CAN'T STOP ME", "artist": "TWICE", "youtube" : "https://youtu.be/CM4CkVFmTds?si=_vaF4B8uEhqPeRHz" },
+          { "title" : "Queen of Hearts", "artist" : "TWICE", "youtube" : "https://youtu.be/Q4Rb5_kjS2M?si=R_42jIgFq9rEQMkq" },
+          { "title" : "Warm On A Cold Night", "artist": "HONNE", "youtube" : "https://youtu.be/CX5f0NcqlMs?si=b2Clw8akLdnPlnLG" },
+          { "title" : "I Do", "artist" : "Rain", "youtube" : "https://youtu.be/bTYAJabnXlU?si=aus-KR2pyPCLusl5" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "https://youtu.be/EDnwWcFpObo?si=qX6HnvSJ0u_s3iqq" },
+          { "title" : "Say So", "artist" : "Doja Cat", "youtube" : "https://youtu.be/pok8H_KF1FA?si=RktLY1GvDeUUIPPn" }
         ]
       },
       {
         "id" : 3,
         "name" : "사나",
         "playlist" : [
-          { "title" : "Baby Blue Love", "artist": "TWICE", "youtube" : "" },
-          { "title" : "Get Loud", "artist" : "TWICE", "youtube" : ""},
-          { "title" : "So Sick", "artist": "Ne-Yo", "youtube" : "" },
-          { "title" : "You Are Not Alone", "artist" : "Michael Jackson", "youtube" : "" },
+          { "title" : "Baby Blue Love", "artist": "TWICE", "youtube" : "https://youtu.be/KRE5FpVxZVQ?si=ykTE8hcPdaaH-FNn" },
+          { "title" : "Get Loud", "artist" : "TWICE", "youtube" : "https://youtu.be/Kt80per7teY?si=Qn0C__bu9oTP3H8r"},
+          { "title" : "So Sick", "artist": "Ne-Yo", "youtube" : "https://youtu.be/IxszlJppRQI?si=wSiFJq7ns0ZaEA8A" },
+          { "title" : "You Are Not Alone", "artist" : "Michael Jackson", "youtube" : "https://youtu.be/pAyKJAtDNCw?si=zl7Wdgymrzu9uEpd" },
           { "title" : "Palette", "artist" : "아이유", "youtube" : "" },
           { "title" : "D (half moon)", "artist" : "DEAN", "youtube" : "" }
         ]
@@ -278,7 +278,7 @@
           { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY", "youtube" : "" },
           { "title" : "Mirror", "artist" : "ITZY", "youtube" : "" },
           { "title" : "24Hrs", "artist" : "ITZY", "youtube" : "" },
-          { "title" : "POP!", "artist": "나연 (TWICE)", "youtube" : "" }
+          { "title" : "POP!", "artist": "나연 (TWICE)", "youtube" : "https://youtu.be/f6YDKF0LVWw?si=W9TD-OnKYZUofF-v" }
         ]
       },
       {
@@ -290,7 +290,7 @@
           { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY", "youtube" : "" },
           { "title" : "Sneakers", "artist" : "ITZY", "youtube" : "" },
           { "title" : "Dalla Dalla", "artist" : "ITZY", "youtube" : "" },
-          { "title" : "POP!", "artist" : "나연 (TWICE)", "youtube" : "" }
+          { "title" : "POP!", "artist" : "나연 (TWICE)", "youtube" : "https://youtu.be/f6YDKF0LVWw?si=W9TD-OnKYZUofF-v" }
         ]
       },
       {
@@ -314,7 +314,7 @@
           { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY", "youtube" : "" },
           { "title" : "Sneakers", "artist" : "ITZY", "youtube" : "" },
           { "title" : "24Hrs", "artist" : "ITZY", "youtube" : "" },
-          { "title" : "POP!", "artist" : "나연 (TWICE)", "youtube" : "" }
+          { "title" : "POP!", "artist" : "나연 (TWICE)", "youtube" : "https://youtu.be/f6YDKF0LVWw?si=W9TD-OnKYZUofF-v" }
         ]
       },
       {
@@ -338,7 +338,7 @@
         "id" : 0,
         "name" : "릴리", 
         "playlist" : [
-          { "title" : "Love Me Like This", "artist": "NMIXX", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist": "NMIXX", "youtube" : "https://youtu.be/EDnwWcFpObo?si=qX6HnvSJ0u_s3iqq" },
           { "title" : "Soñar (Breaker)", "artist" : "NMIXX", "youtube" : ""},
           { "title" : "DASH", "artist" : "NMIXX", "youtube" : "" },
           { "title" : "Party OClock", "artist" : "NMIXX", "youtube" : "" },
@@ -351,7 +351,7 @@
         "name" : "해원", 
         "playlist" : [
           { "title" : "DASH", "artist": "NMIXX", "youtube" : "" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "https://youtu.be/EDnwWcFpObo?si=qX6HnvSJ0u_s3iqq" },
           { "title" : "Soñar (Breaker)", "artist" : "NMIXX", "youtube" : "" },
           { "title" : "Party O'Clock", "artist" : "NMIXX", "youtube" : "" },
           { "title" : "Demons", "artist": "Imagine Dragons", "youtube" : "" },
@@ -364,7 +364,7 @@
         "playlist" : [
           { "title" : "DASH", "artist": "NMIXX", "youtube" : "" },
           { "title" : "Party O'Clock", "artist" : "NMIXX", "youtube" : "" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "https://youtu.be/EDnwWcFpObo?si=qX6HnvSJ0u_s3iqq" },
           { "title" : "Soñar (Breaker)", "artist" : "NMIXX", "youtube" : "" },
           { "title" : "Love Attack", "artist": "RESCENE", "youtube" : "" },
           { "title" : " ", "artist" : " ", "youtube" : "" }
@@ -376,7 +376,7 @@
         "playlist" : [
           { "title" : "Papillon", "artist": "NMIXX", "youtube" : "" },
           { "title" : "Break The Wall", "artist": "NMIXX", "youtube" : "" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "https://youtu.be/EDnwWcFpObo?si=qX6HnvSJ0u_s3iqq" },
           { "title" : "Demons", "artist" : "Imagine Dragons", "youtube" : "" },
           { "title" : "Love On Top", "artist" : "Beyoncé", "youtube" : ""},
           { "title" : "Bohemian Rhapsody", "artist" : "Queen ", "youtube" : "" }
@@ -388,7 +388,7 @@
         "playlist" : [
           { "title" : "DASH", "artist": "NMIXX", "youtube" : "" },
           { "title" : "Soñar (Breaker)", "artist" : "NMIXX", "youtube" : "" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "https://youtu.be/EDnwWcFpObo?si=qX6HnvSJ0u_s3iqq" },
           { "title" : "Party O'Clock", "artist" : "NMIXX", "youtube" : "" },
           { "title" : "DNA", "artist": "Kendrick Lamar", "youtube" : "" },
           { "title" : "", "artist" : "" }
