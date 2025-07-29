@@ -6,48 +6,48 @@
         "id" : 0,
         "name" : "성진", 
         "playlist" : [
-          { "title" : "Zombie", "artist": "DAY6" },
-          { "title" : "그렇더라고요", "artist": "DAY6" },
-          { "title" : "Check Pattern", "artist": "성진 (DAY6)" },
-          { "title" : "나를 좋아하지 않는 그대에게", "artist": "박원" },
-          { "title" : "놓지 않을게", "artist": "LUCY" },
-          { "title" : "맞짱 (with 잔나비 최정훈)", "artist": "AKMU (악뮤)" }
+          { "title" : "Zombie", "artist": "DAY6", "youtube" : "https://youtu.be/k8gx-C7GCGU?si=qz1fFTPX4T3JhUQo" },
+          { "title" : "그렇더라고요", "artist": "DAY6", "youtube" : "https://youtu.be/qWQ1xOfUNYQ?si=a-A2OxFl_FJA3K0f" },
+          { "title" : "Check Pattern", "artist": "성진 (DAY6)", "youtube" : "https://youtu.be/3qcX_kz84bo?si=BrKxtm7_QvsN44KU" },
+          { "title" : "나를 좋아하지 않는 그대에게", "artist": "박원", "youtube" : "https://youtu.be/mSe5byXoCWw?si=E7srUsClpA_D1yoJ" },
+          { "title" : "놓지 않을게", "artist": "LUCY", "youtube" : "https://youtu.be/IXwKddztdtE?si=1j3vh8dcIfAxdk0e" },
+          { "title" : "맞짱 (with 잔나비 최정훈)", "artist": "AKMU (악뮤)", "youtube" : "https://youtu.be/pKE7NJGxyDI?si=5cvWA59hyvxNab3I" }
         ]
       },
       {
         "id" : 1,
         "name" : "Young K", 
         "playlist" : [
-          { "title" : "바래", "artist": "DAY6" },
-          { "title" : "let it be summer", "artist" : "Young K (DAY6)" },
-          { "title" : "Journey", "artist": "WOODZ" },
-          { "title" : "쉼표 (Rest)", "artist" : "도영 (DOYOUNG)" },
-          { "title" : "Youth", "artist" : "기현" },
-          { "title" : "33", "artist" : "이창섭" }
+          { "title" : "바래", "artist": "DAY6", "youtube" : "https://youtu.be/agNEwhiVj7Y?si=672CevILKUXkXPNZ" },
+          { "title" : "let it be summer", "artist" : "Young K (DAY6)", "youtube" : "https://youtu.be/uTxtBbO8Psw?si=LSwSn83okmnJhXN1" },
+          { "title" : "Journey", "artist": "WOODZ", "youtube" : "https://youtu.be/4fqSK1wvhbs?si=J2LPlJYsMxZhgj0L" },
+          { "title" : "쉼표 (Rest)", "artist" : "도영 (DOYOUNG)", "youtube" : "https://youtu.be/oaj531BuP0E?si=zBsp2tXNhrFOYthH" },
+          { "title" : "Youth", "artist" : "기현", "youtube" : "https://youtu.be/0OliiOgXlJI?si=gqJkGxNQe1FDzQci" },
+          { "title" : "33", "artist" : "이창섭", "youtube" : "https://youtu.be/RBRFhmZpKjU?si=UQ48_gYMfopUDdvA" }
         ]
       },
       {
         "id" : 2,
         "name" : "원필",  
         "playlist" : [
-          { "title" : "우리 더 걸을까", "artist": "원필 (DAY6)" },
-          { "title" : "사랑, 이게 맞나봐", "artist" : "DAY6 (Even of Ddy)" },
-          { "title" : "둘도 아닌 하나", "artist" : "DAY6" },
-          { "title" : "문득 (Duet with 송희진)", "artist" : "도운 (DAY6)" },
-          { "title" : "그렇게 됐어 (feat. Young K (DAY6))", "artist": "CHEEZE (치즈)" },
-          { "title" : "축가 (Feat. 원필 (DAY6))", "artist" : "그_냥" }
+          { "title" : "우리 더 걸을까", "artist": "원필 (DAY6)", "youtube" : "https://youtu.be/7Jlaocpfm60?si=UrfYmmrNOVjhE7xJ" },
+          { "title" : "사랑, 이게 맞나봐", "artist" : "DAY6 (Even of Ddy)", "youtube" : "https://youtu.be/k1SaWQO0_fM?si=Uy2pQLE4dhRn5KR-" },
+          { "title" : "둘도 아닌 하나", "artist" : "DAY6", "youtube" : "https://youtu.be/HIDranJqHLQ?si=1nkCznj7NoP0BTdd" },
+          { "title" : "문득 (Duet with 송희진)", "artist" : "도운 (DAY6)", "youtube" : "https://youtu.be/8xg7h1OTrsc?si=z3GGQbLRWtFwolQS" },
+          { "title" : "그렇게 됐어 (feat. Young K (DAY6))", "artist": "CHEEZE (치즈)", "youtube" : "https://youtu.be/wiagiJo9BPg?si=sgbLPNkwKcpkBHTl" },
+          { "title" : "축가 (Feat. 원필 (DAY6))", "artist" : "그_냥", "youtube" : "https://youtu.be/T2ULRXjaKZk?si=z2TnzAYRC0APHQnT" }
         ]
       },
       {
         "id" : 3,
         "name" : "도운", 
         "playlist" : [
-          { "title" : "행운을 빌어 줘", "artist": "원필 (DAY6)" },
-          { "title" : "어쩌다 보니", "artist" : "DAY6" },
-          { "title" : "관객이 될게 (I stan U)", "artist": "아이유" },
-          { "title" : "포인트 니모", "artist" : "윤하" },
-          { "title" : "네 번째 봄", "artist" : "뎁트" },
-          { "title" : "SHINING", "artist" : "김한겸" }
+          { "title" : "행운을 빌어 줘", "artist": "원필 (DAY6)", "youtube" : "https://youtu.be/5gR8kqgv9oc?si=HLHy9R8JEQLK5R99" },
+          { "title" : "어쩌다 보니", "artist" : "DAY6", "youtube" : "https://youtu.be/S8bQtknSNW0?si=S9Saywyset_DnKgb"},
+          { "title" : "관객이 될게 (I stan U)", "artist": "아이유", "youtube" : "https://youtu.be/_ZfT3M6ZKEM?si=Ww0GhVq-3oPDwD1s" },
+          { "title" : "포인트 니모", "artist" : "윤하", "youtube" : "https://youtu.be/GCKSrC6XVOk?si=s0-8rkeR0TaOQnOb" },
+          { "title" : "네 번째 봄", "artist" : "뎁트", "youtube" : "https://youtu.be/kEjULoB3mLs?si=ozDWahh7IjbNnNZu" },
+          { "title" : "SHINING", "artist" : "김한겸", "youtube" : "https://youtu.be/Jb2ZrZl-rVU?si=F0y6eEonu84Q8R-y" }
         ]
       }
     ]
@@ -59,108 +59,108 @@
         "id" : 0,
         "name" : "나연", 
         "playlist" : [
-          { "title" : "LOOK AT ME", "artist": "TWICE" },
-          { "title" : "SAY SOMETHING", "artist": "TWICE" },
-          { "title" : "POP!", "artist" : "나연 (TWICE)" },
-          { "title" : "no tears left to cry", "artist" : "Ariana Grande" },
-          { "title" : "Blueming", "artist" : "아이유" },
-          { "title" : "Happier Than Ever", "artist" : "Billie Eilish" }
+          { "title" : "LOOK AT ME", "artist": "TWICE", "youtube" : "" },
+          { "title" : "SAY SOMETHING", "artist": "TWICE", "youtube" : "" },
+          { "title" : "POP!", "artist" : "나연 (TWICE)", "youtube" : "" },
+          { "title" : "no tears left to cry", "artist" : "Ariana Grande", "youtube" : "" },
+          { "title" : "Blueming", "artist" : "아이유", "youtube" : "" },
+          { "title" : "Happier Than Ever", "artist" : "Billie Eilish", "youtube" : "" }
         ]
       },
       {
         "id" : 1,
         "name" : "정연", 
         "playlist" : [
-          { "title" : "Love Line", "artist": "TWICE" },
-          { "title" : "Zombie", "artist": "Day6" },
-          { "title" : "Fix You", "artist" : "Coldplay" },
-          { "title" : "comethru", "artist" : "Jeremy Zucker" },
-          { "title" : "Gurenge", "artist" : "LiSA" },
-          { "title" : "Sweet Coffee", "artist" : "Mullally" }
+          { "title" : "Love Line", "artist": "TWICE", "youtube" : "" },
+          { "title" : "Zombie", "artist": "Day6", "youtube" : "https://youtu.be/k8gx-C7GCGU?si=qz1fFTPX4T3JhUQo" },
+          { "title" : "Fix You", "artist" : "Coldplay", "youtube" : "" },
+          { "title" : "comethru", "artist" : "Jeremy Zucker", "youtube" : "" },
+          { "title" : "Gurenge", "artist" : "LiSA", "youtube" : "" },
+          { "title" : "Sweet Coffee", "artist" : "Mullally", "youtube" : "" }
         ]
       },
       {
         "id" : 2,
         "name" : "모모",
         "playlist" : [
-          { "title" : "I CAN'T STOP ME", "artist": "TWICE" },
-          { "title" : "Queen of Hearts", "artist" : "TWICE" },
-          { "title" : "Warm On A Cold Night", "artist": "HONNE" },
-          { "title" : "I Do", "artist" : "Rain" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX" },
-          { "title" : "Say So", "artist" : "Doja Cat" }
+          { "title" : "I CAN'T STOP ME", "artist": "TWICE", "youtube" : "" },
+          { "title" : "Queen of Hearts", "artist" : "TWICE", "youtube" : "" },
+          { "title" : "Warm On A Cold Night", "artist": "HONNE", "youtube" : "" },
+          { "title" : "I Do", "artist" : "Rain", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Say So", "artist" : "Doja Cat", "youtube" : "" }
         ]
       },
       {
         "id" : 3,
         "name" : "사나",
         "playlist" : [
-          { "title" : "Baby Blue Love", "artist": "TWICE" },
-          { "title" : "Get Loud", "artist" : "TWICE" },
-          { "title" : "So Sick", "artist": "Ne-Yo" },
-          { "title" : "You Are Not Alone", "artist" : "Michael Jackson" },
-          { "title" : "Palette", "artist" : "아이유" },
-          { "title" : "D (half moon)", "artist" : "DEAN" }
+          { "title" : "Baby Blue Love", "artist": "TWICE", "youtube" : "" },
+          { "title" : "Get Loud", "artist" : "TWICE", "youtube" : ""},
+          { "title" : "So Sick", "artist": "Ne-Yo", "youtube" : "" },
+          { "title" : "You Are Not Alone", "artist" : "Michael Jackson", "youtube" : "" },
+          { "title" : "Palette", "artist" : "아이유", "youtube" : "" },
+          { "title" : "D (half moon)", "artist" : "DEAN", "youtube" : "" }
         ]
       },
       {
         "id" : 4,
         "name" : "지효",  
         "playlist" : [
-          { "title" : "Feel Special", "artist": "TWICE" },
-          { "title" : "First Time", "artist": "TWICE" },
-          { "title" : "Killin' Me Good", "artist" : "지효 (TWICE)" },
-          { "title" : "Time of Our Life", "artist" : "Day6" },
-          { "title" : "Good Days", "artist" : "SZA" },
-          { "title" : "Blinding Lights", "artist" : "The Weeknd" }
+          { "title" : "Feel Special", "artist": "TWICE", "youtube" : "" },
+          { "title" : "First Time", "artist": "TWICE", "youtube" : "" },
+          { "title" : "Killin' Me Good", "artist" : "지효 (TWICE)", "youtube" : "" },
+          { "title" : "Time of Our Life", "artist" : "Day6", "youtube" : "" },
+          { "title" : "Good Days", "artist" : "SZA", "youtube" : "" },
+          { "title" : "Blinding Lights", "artist" : "The Weeknd", "youtube" : "" }
         ]
       },
       {
         "id" : 5,
         "name" : "미나", 
         "playlist" : [
-          { "title" : "Moonlight", "artist" : "TWICE" },
-          { "title" : "Hikoutei", "artist": "King Gnu" },
-          { "title" : "Doron", "artist": "King Gnu" },
-          { "title" : "Malibu Nights", "artist" : "LANY" },
-          { "title" : "11:11", "artist" : "태연 (Taeyeon)" },
-          { "title" : "Through the Night", "artist" : "아이유" }
+          { "title" : "Moonlight", "artist" : "TWICE", "youtube" : "" },
+          { "title" : "Hikoutei", "artist": "King Gnu", "youtube" : "" },
+          { "title" : "Doron", "artist": "King Gnu", "youtube" : "" },
+          { "title" : "Malibu Nights", "artist" : "LANY", "youtube" : ""},
+          { "title" : "11:11", "artist" : "태연 (Taeyeon)", "youtube" : "" },
+          { "title" : "Through the Night", "artist" : "아이유", "youtube" : "" }
         ]
       },
       {
         "id" : 6,
         "name" : "다현",  
         "playlist" : [
-          { "title" : "What Is Love?", "artist": "TWICE" },
-          { "title" : "Cheer Up", "artist": "TWICE" },
-          { "title" : "One in a Million", "artist" : "TWICE" },
-          { "title" : "Shake It Off", "artist" : "Taylor Swift" },
-          { "title" : "Dynamite", "artist" : "BTS" },
-          { "title" : "INVU", "artist" : "태연 (Taeyeon)" }
+          { "title" : "What Is Love?", "artist": "TWICE", "youtube" : "" },
+          { "title" : "Cheer Up", "artist": "TWICE", "youtube" : "" },
+          { "title" : "One in a Million", "artist" : "TWICE", "youtube" : "" },
+          { "title" : "Shake It Off", "artist" : "Taylor Swift", "youtube" : "" },
+          { "title" : "Dynamite", "artist" : "BTS", "youtube" : "" },
+          { "title" : "INVU", "artist" : "태연 (Taeyeon)", "youtube" : "" }
         ]
       },
       {
         "id" : 7,
         "name" : "채영", 
         "playlist" : [
-          { "title" : "Mystery of Love", "artist": "Sufjan Stevens" },
-          { "title" : "At Your Best", "artist": "Aaliyah" },
-          { "title" : "Changes", "artist" : "Justin Bieber" },
-          { "title" : "like i need u", "artist" : "Keshi" },
-          { "title" : "Ivy", "artist" : "Frank Ocean" },
-          { "title" : "Jasmine", "artist" : "DPR LIVE" }
+          { "title" : "Mystery of Love", "artist": "Sufjan Stevens", "youtube" : "" },
+          { "title" : "At Your Best", "artist": "Aaliyah", "youtube" : "" },
+          { "title" : "Changes", "artist" : "Justin Bieber", "youtube" : "" },
+          { "title" : "like i need u", "artist" : "Keshi", "youtube" : "" },
+          { "title" : "Ivy", "artist" : "Frank Ocean", "youtube" : "" },
+          { "title" : "Jasmine", "artist" : "DPR LIVE", "youtube" : "" }
         ]
       },
       {
         "id" : 8,
         "name" : "쯔위", 
         "playlist" : [
-          { "title" : "Behind The Mask", "artist" : "TWICE" },
-          { "title" : "Across The Universe", "artist": "백예린" },
-          { "title" : "Memories", "artist": "Maroon 5" },
-          { "title" : "Say a Little Prayer", "artist" : "Lianne La Havas" },
-          { "title" : "All I Ask", "artist" : "Adele" },
-          { "title" : "Love Poem", "artist" : "아이유" }
+          { "title" : "Behind The Mask", "artist" : "TWICE", "youtube" : "" },
+          { "title" : "Across The Universe", "artist": "백예린", "youtube" : "" },
+          { "title" : "Memories", "artist": "Maroon 5", "youtube" : "" },
+          { "title" : "Say a Little Prayer", "artist" : "Lianne La Havas", "youtube" : "" },
+          { "title" : "All I Ask", "artist" : "Adele", "youtube" : "" },
+          { "title" : "Love Poem", "artist" : "아이유", "youtube" : "" }
         ]
       }
     ]
@@ -172,96 +172,96 @@
         "id" : 0,
         "name" : "방찬", 
         "playlist" : [
-          { "title" : "God's Menu", "artist": "StrayKids" },
-          { "title" : "TOP", "artist": "StrayKids" },
-          { "title" : "Memories", "artist" : "Maroon5" },
-          { "title" : "Talking To The Moon", "artist" : "Bruno mars" },
-          { "title" : "Counting Stars", "artist" : "OneRepublic" },
-          { "title" : "Sleepless Night (Feat. Punch)", "artist" : "Crush" }
+          { "title" : "God's Menu", "artist": "StrayKids", "youtube" : "" },
+          { "title" : "TOP", "artist": "StrayKids", "youtube" : "" },
+          { "title" : "Memories", "artist" : "Maroon5", "youtube" : "" },
+          { "title" : "Talking To The Moon", "artist" : "Bruno mars", "youtube" : "" },
+          { "title" : "Counting Stars", "artist" : "OneRepublic", "youtube" : "" },
+          { "title" : "Sleepless Night (Feat. Punch)", "artist" : "Crush", "youtube" : "" }
         ]
       },
       {
         "id" : 1,
         "name" : "리노",  
         "playlist" : [
-          { "title" : "CINEMA", "artist": "StrayKids" },
-          { "title" : "レオ", "artist": "유우리" },
-          { "title" : "夢花火", "artist" : "Novelbright" },
-          { "title" : "Mean It", "artist" : "Gracie Abrams" },
-          { "title" : "야생화", "artist" : "박효신" },
-          { "title" : "Snowman", "artist" : "Sia" }
+          { "title" : "CINEMA", "artist": "StrayKids", "youtube" : "" },
+          { "title" : "レオ", "artist": "유우리", "youtube" : "" },
+          { "title" : "夢花火", "artist" : "Novelbright", "youtube" : "" },
+          { "title" : "Mean It", "artist" : "Gracie Abrams", "youtube" : "" },
+          { "title" : "야생화", "artist" : "박효신" , "youtube" : ""},
+          { "title" : "Snowman", "artist" : "Sia", "youtube" : "" }
         ]
       },
       {
         "id" : 2,
         "name" : "창빈",  
         "playlist" : [
-          { "title" : "God's Menu", "artist": "StrayKids" },
-          { "title" : "Booster", "artist": "StrayKids" },
-          { "title" : "281.31km ( From. )", "artist" : "김뮤지엄" },
-          { "title" : "괜찮아도 괜찮아", "artist" : "디오" },
-          { "title" : "So Beautiful", "artist" : "DPR IAN" },
-          { "title" : "Stay", "artist" : "Zedd, Alessia Cara " }
+          { "title" : "God's Menu", "artist": "StrayKids", "youtube" : "" },
+          { "title" : "Booster", "artist": "StrayKids", "youtube" : "" },
+          { "title" : "281.31km ( From. )", "artist" : "김뮤지엄", "youtube" : "" },
+          { "title" : "괜찮아도 괜찮아", "artist" : "디오", "youtube" : "" },
+          { "title" : "So Beautiful", "artist" : "DPR IAN", "youtube" : "" },
+          { "title" : "Stay", "artist" : "Zedd, Alessia Cara ", "youtube" : "" }
         ]
       },
       {
         "id" : 3,
         "name" : "현진", 
         "playlist" : [
-          { "title" : "부작용", "artist" : "StrayKids" },
-          { "title" : "Young and Beautiful", "artist": "Lana Del Rey" },
-          { "title" : "traitor", "artist": "Olivia Rodrigo" },
-          { "title" : "Dear Moon", "artist" : "제휘" },
-          { "title" : "Drowning", "artist" : "Wave to Earth" },
-          { "title" : "눈, 코, 입", "artist" : "태양" }
+          { "title" : "부작용", "artist" : "StrayKids" , "youtube" : ""},
+          { "title" : "Young and Beautiful", "artist": "Lana Del Rey", "youtube" : "" },
+          { "title" : "traitor", "artist": "Olivia Rodrigo", "youtube" : "" },
+          { "title" : "Dear Moon", "artist" : "제휘", "youtube" : "" },
+          { "title" : "Drowning", "artist" : "Wave to Earth" , "youtube" : ""},
+          { "title" : "눈, 코, 입", "artist" : "태양" , "youtube" : ""}
         ]
       },
       {
         "id" : 4,
         "name" : "한", 
         "playlist" : [
-          { "title" : "미로", "artist": "StrayKids" },
-          { "title" : "Slump", "artist": "Stray Kids" },
-          { "title" : "Winter Falls", "artist" : "Stray Kids" },
-          { "title" : "Apt", "artist" : "ROSÉ & Bruno Mars" },
-          { "title" : "잘 부탁드립니다", "artist" : "익스(Ex)" },
-          { "title" : "피아니시모", "artist" : "체리필터(Cherry filter)" }
+          { "title" : "미로", "artist": "StrayKids", "youtube" : "" },
+          { "title" : "Slump", "artist": "Stray Kids", "youtube" : ""},
+          { "title" : "Winter Falls", "artist" : "Stray Kids", "youtube" : "" },
+          { "title" : "Apt", "artist" : "ROSÉ & Bruno Mars", "youtube" : "" },
+          { "title" : "잘 부탁드립니다", "artist" : "익스(Ex)", "youtube" : "" },
+          { "title" : "피아니시모", "artist" : "체리필터(Cherry filter)", "youtube" : "" }
         ]
       },
       {
         "id" : 5,
         "name" : "필릭스", 
         "playlist" : [
-          { "title" : "Youtiful", "artist": "StrayKids" },
-          { "title" : "Levanter", "artist" : "Stray Kids" },
-          { "title" : "Up All Night", "artist" : "Stray Kids" },
-          { "title" : "Side Effects", "artist" : "Stray Kids" },
-          { "title" : "Dog Days Are Over", "artist": "Florence + The Machine" },
-          { "title" : "traitor", "artist" : "Olivia Rodrigo" }
+          { "title" : "Youtiful", "artist": "StrayKids", "youtube" : "" },
+          { "title" : "Levanter", "artist" : "Stray Kids", "youtube" : "" },
+          { "title" : "Up All Night", "artist" : "Stray Kids", "youtube" : "" },
+          { "title" : "Side Effects", "artist" : "Stray Kids", "youtube" : "" },
+          { "title" : "Dog Days Are Over", "artist": "Florence + The Machine", "youtube" : "" },
+          { "title" : "traitor", "artist" : "Olivia Rodrigo", "youtube" : "" }
         ]
       },
       {
         "id" : 6,
         "name" : "승민", 
         "playlist" : [
-          { "title" : "나 너 좋아하나봐", "artist": "StrayKids" },
-          { "title" : "Another Day", "artist": "Stray Kids" },
-          { "title" : "Secret Secret", "artist" : "Stray Kids" },
-          { "title" : "Here Always ", "artist" : "승민 (Stray Kids)" },
-          { "title" : "Hold On", "artist" : "한X승민 (Stray Kids)" },
-          { "title" : "Stars and Raindrops", "artist" : "승민 (Stray Kids)" }
+          { "title" : "나 너 좋아하나봐", "artist": "StrayKids", "youtube" : "" },
+          { "title" : "Another Day", "artist": "Stray Kids", "youtube" : "" },
+          { "title" : "Secret Secret", "artist" : "Stray Kids", "youtube" : "" },
+          { "title" : "Here Always ", "artist" : "승민 (Stray Kids)", "youtube" : "" },
+          { "title" : "Hold On", "artist" : "한X승민 (Stray Kids)", "youtube" : "" },
+          { "title" : "Stars and Raindrops", "artist" : "승민 (Stray Kids)", "youtube" : "" }
         ]
       },
       {
         "id" : 7,
         "name" : "아이엔",
         "playlist" : [
-          { "title" : "청사진", "artist": "StrayKids" },
-          { "title" : "Maknae on Top", "artist": "Stray Kids" },
-          { "title" : "Chk Chk Boom", "artist" : "Stray Kids" },
-          { "title" : "Mixtape: OH", "artist" : "Stray Kids" },
-          { "title" : "Your Eyes", "artist" : "Stray Kids" },
-          { "title" : "S-Class", "artist" : "Stray Kids" }
+          { "title" : "청사진", "artist": "StrayKids", "youtube" : "" },
+          { "title" : "Maknae on Top", "artist": "Stray Kids", "youtube" : "" },
+          { "title" : "Chk Chk Boom", "artist" : "Stray Kids", "youtube" : "" },
+          { "title" : "Mixtape: OH", "artist" : "Stray Kids", "youtube" : "" },
+          { "title" : "Your Eyes", "artist" : "Stray Kids", "youtube" : "" },
+          { "title" : "S-Class", "artist" : "Stray Kids", "youtube" : "" }
         ]
       }
     ]
@@ -273,60 +273,60 @@
         "id" : 0,
         "name" : "예지", 
         "playlist" : [
-          { "title" : "Dalla Dalla", "artist": "ITZY" },
-          { "title" : "Sneakers", "artist" : "ITZY" },
-          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
-          { "title" : "Mirror", "artist" : "ITZY" },
-          { "title" : "24Hrs", "artist" : "ITZY" },
-          { "title" : "POP!", "artist": "나연 (TWICE)" }
+          { "title" : "Dalla Dalla", "artist": "ITZY", "youtube" : "" },
+          { "title" : "Sneakers", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "Mirror", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "24Hrs", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "POP!", "artist": "나연 (TWICE)", "youtube" : "" }
         ]
       },
       {
         "id" : 1,
         "name" : "리아", 
         "playlist" : [
-          { "title" : "Mirror", "artist": "ITZY" },
-          { "title" : "24Hrs", "artist": "ITZY" },
-          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
-          { "title" : "Sneakers", "artist" : "ITZY" },
-          { "title" : "Dalla Dalla", "artist" : "ITZY" },
-          { "title" : "POP!", "artist" : "나연 (TWICE)" }
+          { "title" : "Mirror", "artist": "ITZY", "youtube" : "" },
+          { "title" : "24Hrs", "artist": "ITZY", "youtube" : "" },
+          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "Sneakers", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "Dalla Dalla", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "POP!", "artist" : "나연 (TWICE)", "youtube" : "" }
         ]
       },
       {
         "id" : 2,
         "name" : "류진",
         "playlist" : [
-          { "title" : "Dalla Dalla", "artist" : "ITZY" },
-          { "title" : "Sneakers", "artist" : "ITZY" },
-          { "title" : "Mirror", "artist" : "ITZY" },
-          { "title" : "24Hrs", "artist" : "ITZY" },
-          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST" },
-          { "title" : "No Problem", "artist": "TWICE & Stray Kids Felix" }
+          { "title" : "Dalla Dalla", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "Sneakers", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "Mirror", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "24Hrs", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST", "youtube" : "" },
+          { "title" : "No Problem", "artist": "TWICE & Stray Kids Felix", "youtube" : "" }
         ]
       },
       {
         "id" : 3,
         "name" : "채령", 
         "playlist" : [
-          { "title" : "Dalla Dalla", "artist": "ITZY" },
-          { "title" : "Mirror", "artist": "ITZY" },
-          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
-          { "title" : "Sneakers", "artist" : "ITZY" },
-          { "title" : "24Hrs", "artist" : "ITZY" },
-          { "title" : "POP!", "artist" : "나연 (TWICE)" }
+          { "title" : "Dalla Dalla", "artist": "ITZY", "youtube" : "" },
+          { "title" : "Mirror", "artist": "ITZY", "youtube" : "" },
+          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "Sneakers", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "24Hrs", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "POP!", "artist" : "나연 (TWICE)", "youtube" : "" }
         ]
       },
       {
         "id" : 4,
         "name" : "유나",
         "playlist" : [
-          { "title" : "Sneakers", "artist": "ITZY" },
-          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
-          { "title" : "Mirror", "artist" : "ITZY" },
-          { "title" : "24Hrs", "artist" : "ITZY" },
-          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST" },
-          { "title" : " ", "artist" : " " }
+          { "title" : "Sneakers", "artist": "ITZY", "youtube" : "" },
+          { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "Mirror", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "24Hrs", "artist" : "ITZY", "youtube" : "" },
+          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST", "youtube" : "" },
+          { "title" : " ", "artist" : " ", "youtube" : "" }
         ]
       }
     ]
@@ -338,59 +338,59 @@
         "id" : 0,
         "name" : "릴리", 
         "playlist" : [
-          { "title" : "Love Me Like This", "artist": "NMIXX" },
-          { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
-          { "title" : "DASH", "artist" : "NMIXX" },
-          { "title" : "Party OClock", "artist" : "NMIXX" },
-          { "title" : "Humble", "artist": "Kendrick Lamar" },
-          { "title" : "See You Again", "artist" : "Tyler, The Creator" }
+          { "title" : "Love Me Like This", "artist": "NMIXX", "youtube" : "" },
+          { "title" : "Soñar (Breaker)", "artist" : "NMIXX", "youtube" : ""},
+          { "title" : "DASH", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Party OClock", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Humble", "artist": "Kendrick Lamar", "youtube" : "" },
+          { "title" : "See You Again", "artist" : "Tyler, The Creator", "youtube" : "" }
         ]
       },
       {
         "id" : 1,
         "name" : "해원", 
         "playlist" : [
-          { "title" : "DASH", "artist": "NMIXX" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX" },
-          { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
-          { "title" : "Party O'Clock", "artist" : "NMIXX" },
-          { "title" : "Demons", "artist": "Imagine Dragons" },
-          { "title" : "Aside (방백)", "artist" : "샤이니" }
+          { "title" : "DASH", "artist": "NMIXX", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Soñar (Breaker)", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Party O'Clock", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Demons", "artist": "Imagine Dragons", "youtube" : "" },
+          { "title" : "Aside (방백)", "artist" : "샤이니", "youtube" : "" }
         ]
       },
       {
         "id" : 2,
         "name" : "설윤",
         "playlist" : [
-          { "title" : "DASH", "artist": "NMIXX" },
-          { "title" : "Party O'Clock", "artist" : "NMIXX" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX" },
-          { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
-          { "title" : "Love Attack", "artist": "RESCENE" },
-          { "title" : " ", "artist" : " " }
+          { "title" : "DASH", "artist": "NMIXX", "youtube" : "" },
+          { "title" : "Party O'Clock", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Soñar (Breaker)", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Love Attack", "artist": "RESCENE", "youtube" : "" },
+          { "title" : " ", "artist" : " ", "youtube" : "" }
         ]
       },
       {
         "id" : 3,
         "name" : "배이", 
         "playlist" : [
-          { "title" : "Papillon", "artist": "NMIXX" },
-          { "title" : "Break The Wall", "artist": "NMIXX" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX" },
-          { "title" : "Demons", "artist" : "Imagine Dragons" },
-          { "title" : "Love On Top", "artist" : "Beyoncé" },
-          { "title" : "Bohemian Rhapsody", "artist" : "Queen " }
+          { "title" : "Papillon", "artist": "NMIXX", "youtube" : "" },
+          { "title" : "Break The Wall", "artist": "NMIXX", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Demons", "artist" : "Imagine Dragons", "youtube" : "" },
+          { "title" : "Love On Top", "artist" : "Beyoncé", "youtube" : ""},
+          { "title" : "Bohemian Rhapsody", "artist" : "Queen ", "youtube" : "" }
         ]
       },
       {
         "id" : 4,
         "name" : "지우", 
         "playlist" : [
-          { "title" : "DASH", "artist": "NMIXX" },
-          { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
-          { "title" : "Love Me Like This", "artist" : "NMIXX" },
-          { "title" : "Party O'Clock", "artist" : "NMIXX" },
-          { "title" : "DNA", "artist": "Kendrick Lamar" },
+          { "title" : "DASH", "artist": "NMIXX", "youtube" : "" },
+          { "title" : "Soñar (Breaker)", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Party O'Clock", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "DNA", "artist": "Kendrick Lamar", "youtube" : "" },
           { "title" : "", "artist" : "" }
         ]
       },
@@ -398,12 +398,12 @@
         "id" : 5,
         "name" : "규진",
         "playlist" : [
-          { "title" : "Run For Roses", "artist": "NMIXX" },
-          { "title" : "High Horse", "artist": "NMIXX" },
-          { "title" : "Party OClock", "artist" : "NMIXX" },
-          { "title" : "Dice", "artist" : "NMIXX" },
-          { "title" : "Say So", "artist" : "Doja Cat" },
-          { "title" : "I", "artist" : "태연 (Taeyeon)" }
+          { "title" : "Run For Roses", "artist": "NMIXX", "youtube" : "" },
+          { "title" : "High Horse", "artist": "NMIXX", "youtube" : "" },
+          { "title" : "Party OClock", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Dice", "artist" : "NMIXX", "youtube" : "" },
+          { "title" : "Say So", "artist" : "Doja Cat", "youtube" : "" },
+          { "title" : "I", "artist" : "태연 (Taeyeon)", "youtube" : "" }
         ]
       }
     ]
@@ -415,108 +415,108 @@
         "id" : 0,
         "name" : "마코", 
         "playlist" : [
-          { "title" : "Need U", "artist": "NiziU" },
-          { "title" : "Press Play (HEARTRIS)", "artist": "NiziU" },
-          { "title" : "LOVE LINE", "artist" : "NiziU" },
-          { "title" : "Paradise", "artist" : "NiziU" },
-          { "title" : "Make You Happy", "artist" : "NiziU" },
-          { "title" : "Step and a Step", "artist" : "NiziU" }
+          { "title" : "Need U", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Press Play (HEARTRIS)", "artist": "NiziU", "youtube" : "" },
+          { "title" : "LOVE LINE", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Paradise", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Make You Happy", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Step and a Step", "artist" : "NiziU", "youtube" : "" }
         ]
       },
       {
         "id" : 1,
         "name" : "리오",
         "playlist" : [
-          { "title" : "Always", "artist": "NiziU" },
-          { "title" : "LOVE LINE", "artist": "NiziU" },
-          { "title" : "Make You Happy", "artist" : "NiziU" },
-          { "title" : "Take a Picture", "artist" : "NiziU" },
-          { "title" : "Poppin' Shakin'", "artist" : "NiziU" },
-          { "title" : "Step and a Step", "artist" : "NiziU" }
+          { "title" : "Always", "artist": "NiziU", "youtube" : "" },
+          { "title" : "LOVE LINE", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Make You Happy", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Take a Picture", "artist" : "NiziU", "youtube" : ""},
+          { "title" : "Poppin' Shakin'", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Step and a Step", "artist" : "NiziU", "youtube" : "" }
         ]
       },
       {
         "id" : 2,
         "name" : "마야", 
         "playlist" : [
-          { "title" : "Memories", "artist": "NiziU" },
-          { "title" : "Make You Happy", "artist": "NiziU" },
-          { "title" : "ASOBO", "artist" : "NiziU" },
-          { "title" : "LOVE LINE", "artist" : "NiziU" },
-          { "title" : "Paradise", "artist" : "NiziU" },
-          { "title" : "Step and a Step", "artist" : "NiziU" }
+          { "title" : "Memories", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Make You Happy", "artist": "NiziU", "youtube" : "" },
+          { "title" : "ASOBO", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "LOVE LINE", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Paradise", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Step and a Step", "artist" : "NiziU", "youtube" : "" }
         ]
       },
       {
         "id" : 3,
         "name" : "리쿠", 
         "playlist" : [
-          { "title" : "HEARTRIS", "artist": "NiziU" },
-          { "title" : "LOVE LINE", "artist": "NiziU" },
-          { "title" : "Make You Happy", "artist" : "NiziU" },
-          { "title" : "Coconut", "artist" : "NiziU" },
-          { "title" : "Take a Picture", "artist" : "NiziU" },
-          { "title" : "Step and a Step", "artist" : "NiziU" }
+          { "title" : "HEARTRIS", "artist": "NiziU", "youtube" : "" },
+          { "title" : "LOVE LINE", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Make You Happy", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Coconut", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Take a Picture", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Step and a Step", "artist" : "NiziU", "youtube" : "" }
         ]
       },
       {
         "id" : 4,
         "name" : "아야카",
         "playlist" : [
-          { "title" : "Life is Beautiful", "artist": "NiziU" },
-          { "title" : "LOVE LINE", "artist": "NiziU" },
-          { "title" : "Make You Happy", "artist" : "NiziU" },
-          { "title" : "Take a Picture", "artist" : "NiziU" },
-          { "title" : "ASOBO", "artist" : "NiziU" },
-          { "title" : "Step and a Step", "artist" : "NiziU" }
+          { "title" : "Life is Beautiful", "artist": "NiziU", "youtube" : "" },
+          { "title" : "LOVE LINE", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Make You Happy", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Take a Picture", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "ASOBO", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Step and a Step", "artist" : "NiziU", "youtube" : "" }
         ]
       },
       {
         "id" : 5,
         "name" : "마유카", 
         "playlist" : [
-          { "title" : "Believe", "artist": "NiziU" },
-          { "title" : "LOVE LINE", "artist": "NiziU" },
-          { "title" : "Make You Happy", "artist" : "NiziU" },
-          { "title" : "CLAP CLAP", "artist" : "NiziU" },
-          { "title" : "ASOBO", "artist" : "NiziU" },
-          { "title" : "Step and a Step", "artist" : "NiziU" }
+          { "title" : "Believe", "artist": "NiziU", "youtube" : "" },
+          { "title" : "LOVE LINE", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Make You Happy", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "CLAP CLAP", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "ASOBO", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Step and a Step", "artist" : "NiziU", "youtube" : "" }
         ]
       },
       {
         "id" : 6,
         "name" : "리마", 
         "playlist" : [
-          { "title" : "SNF", "artist": "NiziU (SNF 유닛 곡)" },
-          { "title" : "LOVE LINE", "artist": "NiziU" },
-          { "title" : "Make You Happy", "artist" : "NiziU" },
-          { "title" : "ASOBO", "artist" : "NiziU" },
-          { "title" : "Take a Picture", "artist" : "NiziU" },
-          { "title" : "Step and a Step", "artist" : "NiziU" }
+          { "title" : "SNF", "artist": "NiziU (SNF 유닛 곡)", "youtube" : "" },
+          { "title" : "LOVE LINE", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Make You Happy", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "ASOBO", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Take a Picture", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Step and a Step", "artist" : "NiziU", "youtube" : "" }
         ]
       },
       {
         "id" : 7,
         "name" : "미이히", 
         "playlist" : [
-          { "title" : "LOVE LINE", "artist": "NiziU" },
-          { "title" : "Make You Happy", "artist": "NiziU" },
-          { "title" : "Step and a Step", "artist" : "NiziU" },
-          { "title" : "ASOBO", "artist" : "NiziU" },
-          { "title" : "Take a Picture", "artist" : "NiziU" },
-          { "title" : "Paradise", "artist" : "NiziU" }
+          { "title" : "LOVE LINE", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Make You Happy", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Step and a Step", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "ASOBO", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Take a Picture", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Paradise", "artist" : "NiziU", "youtube" : "" }
         ]
       },
       {
         "id" : 8,
         "name" : "니나", 
         "playlist" : [
-          { "title" : "What If", "artist": "NiziU" },
-          { "title" : "LOVE LINE", "artist": "NiziU" },
-          { "title" : "Make You Happy", "artist" : "NiziU" },
-          { "title" : "Take a Picture", "artist" : "NiziU" },
-          { "title" : "Poppin' Shakin'", "artist" : "NiziU" },
-          { "title" : "Step and a Step", "artist" : "NiziU" }
+          { "title" : "What If", "artist": "NiziU", "youtube" : "" },
+          { "title" : "LOVE LINE", "artist": "NiziU", "youtube" : "" },
+          { "title" : "Make You Happy", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Take a Picture", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Poppin' Shakin'", "artist" : "NiziU", "youtube" : "" },
+          { "title" : "Step and a Step", "artist" : "NiziU", "youtube" : "" }
         ]
       }
     ]
