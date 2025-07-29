@@ -3,448 +3,308 @@
     "group" : "DAY6",
     "color" : "#f7c600",
     "fontcolor" : "#000000",
-    "country" : "대만",
-    "start" : "2025-01-18",
-    "end" : "2025-01-20"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "홍콩",
-    "start" : "2025-01-25",
-    "end" : "2025-01-27"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "부산",
-    "start" : "2025-02-01",
-    "end" : "2025-02-03"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "오사카",
-    "start" : "2025-02-12",
-    "end" : "2025-02-14"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "도쿄",
-    "start" : "2025-02-15",
-    "end" : "2025-02-17"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "마닐라",
-    "start" : "2025-02-22",
-    "end" : "2025-02-23"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "대전",
-    "start" : "2025-03-02",
-    "end" : "2025-03-04"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "광주",
-    "start" : "2025-03-15",
-    "end" : "2025-03-17"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "대구",
-    "start" : "2025-03-29",
-    "end" : "2025-03-31"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "시드니",
-    "start" : "2025-04-06",
-    "end" : "2025-04-08"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "멜버른",
-    "start" : "2025-04-09",
-    "end" : "2025-04-10"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "오클랜드",
-    "start" : "2025-04-12",
-    "end" : "2025-04-13"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "로스앤젤레스",
-    "start" : "2025-04-16",
-    "end" : "2025-04-18"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "뉴욕",
-    "start" : "2025-04-19",
-    "end" : "2025-04-20"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "요코하마",
-    "start" : "2025-04-26",
-    "end" : "2025-04-28"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "자카르타",
-    "start" : "2025-05-03",
-    "end" : "2025-05-04"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "서울",
-    "start" : "2025-05-09",
-    "end" : "2025-05-12"
-  },
-  {
-    "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "country" : "서울",
-    "start" : "2025-05-16",
-    "end" : "2025-05-19"
+    "concertdate" : [
+      {
+        "country" : "대만",
+        "start" : "2025-01-18",
+        "end" : "2025-01-20"
+      },
+      {
+        "country" : "홍콩",
+        "start" : "2025-01-25",
+        "end" : "2025-01-27"
+      },
+      {  
+        "country" : "부산",
+        "start" : "2025-02-01",
+        "end" : "2025-02-03"
+      },
+      {
+        "country" : "오사카",
+        "start" : "2025-02-12",
+        "end" : "2025-02-14"
+      },
+      {
+        "country" : "도쿄",
+        "start" : "2025-02-15",
+        "end" : "2025-02-17"
+      },
+      {
+        "country" : "마닐라",
+        "start" : "2025-02-22",
+        "end" : "2025-02-23"
+      },
+      {
+        "country" : "대전",
+        "start" : "2025-03-02",
+        "end" : "2025-03-04"
+      },
+      {
+        "country" : "광주",
+        "start" : "2025-03-15",
+        "end" : "2025-03-17"
+      },
+      {
+        "country" : "대구",
+        "start" : "2025-03-29",
+        "end" : "2025-03-31"
+      },
+      {
+        "country" : "시드니",
+        "start" : "2025-04-06",
+        "end" : "2025-04-08"
+      },
+      {
+        "country" : "멜버른",
+        "start" : "2025-04-09",
+        "end" : "2025-04-10"
+      },
+      {
+        "country" : "오클랜드",
+        "start" : "2025-04-12",
+        "end" : "2025-04-13"
+      },
+      {
+        "country" : "로스앤젤레스",
+        "start" : "2025-04-16",
+        "end" : "2025-04-18"
+      },
+      {
+        "country" : "뉴욕",
+        "start" : "2025-04-19",
+        "end" : "2025-04-20"
+      },
+      {
+        "country" : "요코하마",
+        "start" : "2025-04-26",
+        "end" : "2025-04-28"
+      },
+      {
+        "country" : "자카르타",
+        "start" : "2025-05-03",
+        "end" : "2025-05-04"
+      },
+      {
+        "country" : "서울",
+        "start" : "2025-05-09",
+        "end" : "2025-05-12"
+      },
+      {
+        "country" : "서울",
+        "start" : "2025-05-16",
+        "end" : "2025-05-19"
+      }
+    ]
   },
   {
     "group" : "TWICE",
     "color" : "#ff91b6",
     "fontcolor" : "#000000",
-    "country" : "인천",
-    "start" : "2025-07-19",
-    "end" : "2025-07-21"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "오사카",
-    "start" : "2025-07-26",
-    "end" : "2025-07-28"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "아이치",
-    "start" : "2025-08-23",
-    "end" : "2025-08-25"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "후쿠오카",
-    "start" : "2025-08-30",
-    "end" : "2025-09-01"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "도쿄",
-    "start" : "2025-09-16",
-    "end" : "2025-09-18"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "마카오",
-    "start" : "2025-09-27",
-    "end" : "2025-09-29"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "필리핀",
-    "start" : "2025-10-04",
-    "end" : "2025-10-05"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "싱가포르",
-    "start" : "2025-10-11",
-    "end" : "2025-10-13"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "시드니",
-    "start" : "2025-11-01",
-    "end" : "2025-11-03"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "멜버른",
-    "start" : "2025-11-08",
-    "end" : "2025-11-10"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "대만",
-    "start" : "2025-11-22",
-    "end" : "2025-11-23"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "홍콩",
-    "start" : "2025-12-06",
-    "end" : "2025-12-07"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "country" : "방콕",
-    "start" : "2025-12-13",
-    "end" : "2025-12-15"
+    "concertdate" : [
+      {
+        "country" : "인천",
+        "start" : "2025-07-19",
+        "end" : "2025-07-21"
+      },
+      {
+        "country" : "오사카",
+        "start" : "2025-07-26",
+        "end" : "2025-07-28"
+      },
+      {
+        "country" : "아이치",
+        "start" : "2025-08-23",
+        "end" : "2025-08-25"
+      },
+      {
+        "country" : "후쿠오카",
+        "start" : "2025-08-30",
+        "end" : "2025-09-01"
+      },
+      {
+        "country" : "도쿄",
+        "start" : "2025-09-16",
+        "end" : "2025-09-18"
+      },
+      {
+        "country" : "마카오",
+        "start" : "2025-09-27",
+        "end" : "2025-09-29"
+      },
+      {
+        "country" : "필리핀",
+        "start" : "2025-10-04",
+        "end" : "2025-10-05"
+      },
+      {
+        "country" : "싱가포르",
+        "start" : "2025-10-11",
+        "end" : "2025-10-13"
+      },
+      {
+        "country" : "시드니",
+        "start" : "2025-11-01",
+        "end" : "2025-11-03"
+      },
+      {
+        "country" : "멜버른",
+        "start" : "2025-11-08",
+        "end" : "2025-11-10"
+      },
+      {
+        "country" : "대만",
+        "start" : "2025-11-22",
+        "end" : "2025-11-23"
+      },
+      {
+        "country" : "홍콩",
+        "start" : "2025-12-06",
+        "end" : "2025-12-07"
+      },
+      {
+        "country" : "방콕",
+        "start" : "2025-12-13",
+        "end" : "2025-12-15"
+      }
+    ]
   },
   {
     "group" : "StrayKids",
     "color" : "#8b0000",
     "fontcolor" : "#ffffff",
-    "country" : "홍콩",
-    "start" : "2025-01-18",
-    "end" : "2025-01-20"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "칠레",
-    "start" : "2025-03-27",
-    "end" : "2025-03-29"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "리우데자네이루",
-    "start" : "2025-04-01",
-    "end" : "2025-04-02"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "상파울루",
-    "start" : "2025-04-05",
-    "end" : "2025-04-07"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "페루",
-    "start" : "2025-04-09",
-    "end" : "2025-04-10"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "멕시코",
-    "start" : "2025-04-12",
-    "end" : "2025-04-14"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "시즈오카",
-    "start" : "2025-05-10",
-    "end" : "2025-05-12"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "시즈오카",
-    "start" : "2025-05-17",
-    "end" : "2025-05-19"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "시애틀",
-    "start" : "2025-05-24",
-    "end" : "2025-05-25"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "샌프란시스코",
-    "start" : "2025-05-28",
-    "end" : "2025-05-29"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "로스앤젤레스",
-    "start" : "2025-05-31",
-    "end" : "2025-06-02"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "알링턴",
-    "start" : "2025-06-06",
-    "end" : "2025-06-08"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "애틀랜타",
-    "start" : "2025-06-10",
-    "end" : "2025-06-11"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "올랜도",
-    "start" : "2025-06-14",
-    "end" : "2025-06-15"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "뉴욕",
-    "start" : "2025-06-18",
-    "end" : "2025-06-20"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "워싱턴 D.C.",
-    "start" : "2025-06-23",
-    "end" : "2025-06-24"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "시카고",
-    "start" : "2025-06-26",
-    "end" : "2025-06-27"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "토론토",
-    "start" : "2025-06-29",
-    "end" : "2025-06-30"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "네덜란드",
-    "start" : "2025-07-11",
-    "end" : "2025-07-12"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "독일",
-    "start" : "2025-07-15",
-    "end" : "2025-07-16"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "영국",
-    "start" : "2025-07-18",
-    "end" : "2025-07-20"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "스페인",
-    "start" : "2025-07-22",
-    "end" : "2025-07-24"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "프랑스",
-    "start" : "2025-07-26",
-    "end" : "2025-07-28"
-  },
-  {
-    "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "country" : "이탈리아",
-    "start" : "2025-07-30",
-    "end" : "2025-07-31"
+    "concertdate" : [
+      {
+        "country" : "홍콩",
+        "start" : "2025-01-18",
+        "end" : "2025-01-20"
+      },
+      {
+        "country" : "칠레",
+        "start" : "2025-03-27",
+        "end" : "2025-03-29"
+      },
+      {
+        "country" : "리우데자네이루",
+        "start" : "2025-04-01",
+        "end" : "2025-04-02"
+      },
+      {
+        "country" : "상파울루",
+        "start" : "2025-04-05",
+        "end" : "2025-04-07"
+      },
+      {
+        "country" : "페루",
+        "start" : "2025-04-09",
+        "end" : "2025-04-10"
+      },
+      {
+        "country" : "멕시코",
+        "start" : "2025-04-12",
+        "end" : "2025-04-14"
+      },
+      {
+        "country" : "시즈오카",
+        "start" : "2025-05-10",
+        "end" : "2025-05-12"
+      },
+      {
+        "country" : "시즈오카",
+        "start" : "2025-05-17",
+        "end" : "2025-05-19"
+      },
+      {
+        "country" : "시애틀",
+        "start" : "2025-05-24",
+        "end" : "2025-05-25"
+      },
+      {
+        "country" : "샌프란시스코",
+        "start" : "2025-05-28",
+        "end" : "2025-05-29"
+      },
+      {
+        "country" : "로스앤젤레스",
+        "start" : "2025-05-31",
+        "end" : "2025-06-02"
+      },
+      {
+        "country" : "알링턴",
+        "start" : "2025-06-06",
+        "end" : "2025-06-08"
+      },
+      {
+        "country" : "애틀랜타",
+        "start" : "2025-06-10",
+        "end" : "2025-06-11"
+      },
+      {
+        "country" : "올랜도",
+        "start" : "2025-06-14",
+        "end" : "2025-06-15"
+      },
+      {
+        "country" : "뉴욕",
+        "start" : "2025-06-18",
+        "end" : "2025-06-20"
+      },
+      {
+        "country" : "워싱턴 D.C.",
+        "start" : "2025-06-23",
+        "end" : "2025-06-24"
+      },
+      {
+        "country" : "시카고",
+        "start" : "2025-06-26",
+        "end" : "2025-06-27"
+      },
+      {
+        "country" : "토론토",
+        "start" : "2025-06-29",
+        "end" : "2025-06-30"
+      },
+      {
+        "country" : "네덜란드",
+        "start" : "2025-07-11",
+        "end" : "2025-07-12"
+      },
+      {
+        "country" : "독일",
+        "start" : "2025-07-15",
+        "end" : "2025-07-16"
+      },
+      {
+        "country" : "영국",
+        "start" : "2025-07-18",
+        "end" : "2025-07-20"
+      },
+      {
+        "country" : "스페인",
+        "start" : "2025-07-22",
+        "end" : "2025-07-24"
+      },
+      {
+        "country" : "프랑스",
+        "start" : "2025-07-26",
+        "end" : "2025-07-28"
+      },
+      {
+        "country" : "이탈리아",
+        "start" : "2025-07-30",
+        "end" : "2025-07-31"
+      }
+    ]
   },
   {
     "group" : "NMIXX",
     "color" : "#00e2ff",
     "fontcolor" : "#000000",
-    "country" : "서울",
-    "start" : "2025-07-12",
-    "end" : "2025-07-13"
+    "concertdate" : [
+      {
+        "country" : "서울",
+        "start" : "2025-07-12",
+        "end" : "2025-07-13"
+      }
+    ]
   }
 ]
