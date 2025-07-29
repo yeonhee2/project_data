@@ -19,10 +19,10 @@
         "name" : "Young K", 
         "playlist" : [
           { "title" : "바래", "artist": "DAY6" },
+          { "title" : "let it be summer", "artist" : "Young K (DAY6)" },
           { "title" : "Journey", "artist": "WOODZ" },
           { "title" : "쉼표 (Rest)", "artist" : "도영 (DOYOUNG)" },
           { "title" : "Youth", "artist" : "기현" },
-          { "title" : "let it be summer", "artist" : "Young K (DAY6)" },
           { "title" : "33", "artist" : "이창섭" }
         ]
       },
@@ -33,9 +33,9 @@
           { "title" : "그렇게 됐어 (feat. Young K (DAY6))", "artist": "CHEEZE (치즈)" },
           { "title" : "우리 더 걸을까", "artist": "원필 (DAY6)" },
           { "title" : "사랑, 이게 맞나봐", "artist" : "DAY6 (Even of Ddy)" },
-          { "title" : "축가 (Feat. 원필 (DAY6))", "artist" : "그_냥" },
           { "title" : "둘도 아닌 하나", "artist" : "DAY6" },
-          { "title" : "문득 (Duet with 송희진)", "artist" : "도운 (DAY6)" }
+          { "title" : "문득 (Duet with 송희진)", "artist" : "도운 (DAY6)" },
+          { "title" : "축가 (Feat. 원필 (DAY6))", "artist" : "그_냥" }
         ]
       },
       {
@@ -43,9 +43,9 @@
         "name" : "도운", 
         "playlist" : [
           { "title" : "행운을 빌어 줘", "artist": "원필 (DAY6)" },
+          { "title" : "어쩌다 보니", "artist" : "DAY6" },
           { "title" : "관객이 될게 (I stan U)", "artist": "아이유" },
           { "title" : "포인트 니모", "artist" : "윤하" },
-          { "title" : "어쩌다 보니", "artist" : "DAY6" },
           { "title" : "네 번째 봄", "artist" : "뎁트" },
           { "title" : "SHINING", "artist" : "김한겸" }
         ]
@@ -84,9 +84,9 @@
         "name" : "모모",
         "playlist" : [
           { "title" : "I CAN'T STOP ME", "artist": "TWICE" },
+          { "title" : "Queen of Hearts", "artist" : "TWICE" },
           { "title" : "Warm On A Cold Night", "artist": "HONNE" },
           { "title" : "I Do", "artist" : "Rain" },
-          { "title" : "Queen of Hearts", "artist" : "TWICE" },
           { "title" : "Love Me Like This", "artist" : "NMIXX" },
           { "title" : "Say So", "artist" : "Doja Cat" }
         ]
@@ -96,9 +96,9 @@
         "name" : "사나",
         "playlist" : [
           { "title" : "Baby Blue Love", "artist": "TWICE" },
+          { "title" : "Get Loud", "artist" : "TWICE" },
           { "title" : "So Sick", "artist": "Ne-Yo" },
           { "title" : "You Are Not Alone", "artist" : "Michael Jackson" },
-          { "title" : "Get Loud", "artist" : "TWICE" },
           { "title" : "Palette", "artist" : "아이유" },
           { "title" : "D (half moon)", "artist" : "DEAN" }
         ]
@@ -119,12 +119,12 @@
         "id" : 5,
         "name" : "미나", 
         "playlist" : [
+          { "title" : "Moonlight", "artist" : "TWICE" },
           { "title" : "Hikoutei", "artist": "King Gnu" },
           { "title" : "Doron", "artist": "King Gnu" },
           { "title" : "Malibu Nights", "artist" : "LANY" },
           { "title" : "11:11", "artist" : "태연 (Taeyeon)" },
-          { "title" : "Through the Night", "artist" : "아이유" },
-          { "title" : "Moonlight", "artist" : "TWICE" }
+          { "title" : "Through the Night", "artist" : "아이유" }
         ]
       },
       {
@@ -155,12 +155,12 @@
         "id" : 8,
         "name" : "쯔위", 
         "playlist" : [
+          { "title" : "Behind The Mask", "artist" : "TWICE" },
           { "title" : "Across The Universe", "artist": "백예린" },
           { "title" : "Memories", "artist": "Maroon 5" },
           { "title" : "Say a Little Prayer", "artist" : "Lianne La Havas" },
           { "title" : "All I Ask", "artist" : "Adele" },
-          { "title" : "Love Poem", "artist" : "아이유" },
-          { "title" : "Behind The Mask", "artist" : "TWICE" }
+          { "title" : "Love Poem", "artist" : "아이유" }
         ]
       }
     ]
@@ -184,8 +184,8 @@
         "id" : 1,
         "name" : "리노",  
         "playlist" : [
-          { "title" : "レオ", "artist": "유우리" },
           { "title" : "CINEMA", "artist": "StrayKids" },
+          { "title" : "レオ", "artist": "유우리" },
           { "title" : "夢花火", "artist" : "Novelbright" },
           { "title" : "Mean It", "artist" : "Gracie Abrams" },
           { "title" : "야생화", "artist" : "박효신" },
@@ -208,9 +208,9 @@
         "id" : 3,
         "name" : "현진", 
         "playlist" : [
+          { "title" : "부작용", "artist" : "StrayKids" },
           { "title" : "Young and Beautiful", "artist": "Lana Del Rey" },
           { "title" : "traitor", "artist": "Olivia Rodrigo" },
-          { "title" : "부작용", "artist" : "StrayKids" },
           { "title" : "Dear Moon", "artist" : "제휘" },
           { "title" : "Drowning", "artist" : "Wave to Earth" },
           { "title" : "눈, 코, 입", "artist" : "태양" }
@@ -233,11 +233,11 @@
         "name" : "필릭스", 
         "playlist" : [
           { "title" : "Youtiful", "artist": "StrayKids" },
-          { "title" : "Dog Days Are Over", "artist": "Florence + The Machine" },
-          { "title" : "traitor", "artist" : "Olivia Rodrigo" },
           { "title" : "Levanter", "artist" : "Stray Kids" },
           { "title" : "Up All Night", "artist" : "Stray Kids" },
-          { "title" : "Side Effects", "artist" : "Stray Kids" }
+          { "title" : "Side Effects", "artist" : "Stray Kids" },
+          { "title" : "Dog Days Are Over", "artist": "Florence + The Machine" },
+          { "title" : "traitor", "artist" : "Olivia Rodrigo" }
         ]
       },
       {
@@ -273,12 +273,12 @@
         "id" : 0,
         "name" : "예지", 
         "playlist" : [
-          { "title" : "POP!", "artist": "나연 (TWICE)" },
           { "title" : "Dalla Dalla", "artist": "ITZY" },
           { "title" : "Sneakers", "artist" : "ITZY" },
           { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
           { "title" : "Mirror", "artist" : "ITZY" },
-          { "title" : "24Hrs", "artist" : "ITZY" }
+          { "title" : "24Hrs", "artist" : "ITZY" },
+          { "title" : "POP!", "artist": "나연 (TWICE)" }
         ]
       },
       {
@@ -297,12 +297,12 @@
         "id" : 2,
         "name" : "류진",
         "playlist" : [
-          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST" },
-          { "title" : "No Problem", "artist": "TWICE & Stray Kids Felix" },
           { "title" : "Dalla Dalla", "artist" : "ITZY" },
           { "title" : "Sneakers", "artist" : "ITZY" },
           { "title" : "Mirror", "artist" : "ITZY" },
-          { "title" : "24Hrs", "artist" : "ITZY" }
+          { "title" : "24Hrs", "artist" : "ITZY" },
+          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST" },
+          { "title" : "No Problem", "artist": "TWICE & Stray Kids Felix" }
         ]
       },
       {
@@ -321,11 +321,11 @@
         "id" : 4,
         "name" : "유나",
         "playlist" : [
-          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST" },
           { "title" : "Sneakers", "artist": "ITZY" },
           { "title" : "(Ma.Fi.A) in the Morning", "artist" : "ITZY" },
           { "title" : "Mirror", "artist" : "ITZY" },
           { "title" : "24Hrs", "artist" : "ITZY" },
+          { "title" : "When She Loved Me", "artist": "Toy Story 2 OST" },
           { "title" : " ", "artist" : " " }
         ]
       }
@@ -339,22 +339,22 @@
         "name" : "릴리", 
         "playlist" : [
           { "title" : "Love Me Like This", "artist": "NMIXX" },
-          { "title" : "Humble", "artist": "Kendrick Lamar" },
-          { "title" : "See You Again", "artist" : "Tyler, The Creator" },
           { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
           { "title" : "DASH", "artist" : "NMIXX" },
-          { "title" : "Party OClock", "artist" : "NMIXX" }
+          { "title" : "Party OClock", "artist" : "NMIXX" },
+          { "title" : "Humble", "artist": "Kendrick Lamar" },
+          { "title" : "See You Again", "artist" : "Tyler, The Creator" }
         ]
       },
       {
         "id" : 1,
         "name" : "해원", 
         "playlist" : [
-          { "title" : "Demons", "artist": "Imagine Dragons" },
           { "title" : "DASH", "artist": "NMIXX" },
           { "title" : "Love Me Like This", "artist" : "NMIXX" },
           { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
           { "title" : "Party O'Clock", "artist" : "NMIXX" },
+          { "title" : "Demons", "artist": "Imagine Dragons" },
           { "title" : "Aside (방백)", "artist" : "샤이니" }
         ]
       },
@@ -362,11 +362,11 @@
         "id" : 2,
         "name" : "설윤",
         "playlist" : [
-          { "title" : "Love Attack", "artist": "RESCENE" },
           { "title" : "DASH", "artist": "NMIXX" },
           { "title" : "Party O'Clock", "artist" : "NMIXX" },
           { "title" : "Love Me Like This", "artist" : "NMIXX" },
           { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
+          { "title" : "Love Attack", "artist": "RESCENE" },
           { "title" : " ", "artist" : " " }
         ]
       },
@@ -376,21 +376,21 @@
         "playlist" : [
           { "title" : "Papillon", "artist": "NMIXX" },
           { "title" : "Break The Wall", "artist": "NMIXX" },
+          { "title" : "Love Me Like This", "artist" : "NMIXX" },
           { "title" : "Demons", "artist" : "Imagine Dragons" },
           { "title" : "Love On Top", "artist" : "Beyoncé" },
-          { "title" : "Bohemian Rhapsody", "artist" : "Queen " },
-          { "title" : "Love Me Like This", "artist" : "NMIXX" }
+          { "title" : "Bohemian Rhapsody", "artist" : "Queen " }
         ]
       },
       {
         "id" : 4,
         "name" : "지우", 
         "playlist" : [
-          { "title" : "DNA", "artist": "Kendrick Lamar" },
           { "title" : "DASH", "artist": "NMIXX" },
           { "title" : "Soñar (Breaker)", "artist" : "NMIXX" },
           { "title" : "Love Me Like This", "artist" : "NMIXX" },
           { "title" : "Party O'Clock", "artist" : "NMIXX" },
+          { "title" : "DNA", "artist": "Kendrick Lamar" },
           { "title" : "", "artist" : "" }
         ]
       },
