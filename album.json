@@ -1,74 +1,105 @@
 [
   {
     "group" : "DAY6",
-    "color" : "#f7c600",
-    "fontcolor" : "#000000",
-    "musicformats" : "Digital Single",
-    "albumname" : "Maybe Tomorrow",
-    "Releasedate" : "2025-05-07"
+    "music" : [
+      {
+        "group,solo" : "DAY6",
+        "color" : "#f7c600",
+        "fontcolor" : "#000000",
+        "musicformats" : "Digital Single",
+        "albumname" : "Maybe Tomorrow",
+        "Releasedate" : "2025-05-07"
+      }
+    ]
   },
   {
     "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
-    "musicformats" : "ost",
-    "albumname" : "Takedown",
-    "Releasedate" : "2025-06-20"
-  },
-  {
-    "group" : "TWICE",
-    "color" : "#fea0b0",
-    "musicformats" : "Album",
-    "albumname" : "This Is For",
-    "Releasedate" : "2025-07-11"
-  },
+    "music" : [
+      {
+        "group,solo" : "TWICE",
+        "color" : "#ff91b6",
+        "fontcolor" : "#000000",
+        "musicformats" : "ost",
+        "albumname" : "Takedown",
+        "Releasedate" : "2025-06-20"
+      },
+      {
+        "group,solo" : "TWICE",
+        "color" : "#ff91b6",
+        "fontcolor" : "#000000",
+        "musicformats" : "Album",
+        "albumname" : "This Is For",
+        "Releasedate" : "2025-07-11"
+      }
+    ]
+  }, 
   {
     "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
-    "musicformats" : "Digital Single",
-    "albumname" : "Mixtape: dominATE",
-    "Releasedate" : "2025-03-21"
-  },
-  {
-    "group" : "예지",
-    "color" : "#fd5d5d",
-    "fontcolor" : "#000000",
-    "musicformats" : "EP",
-    "albumname" : "AIR",
-    "Releasedate" : "2025-03-10"
+    "music" : [
+      {
+        "group,solo" : "StrayKids",
+        "color" : "#8b0000",
+        "fontcolor" : "#ffffff",
+        "musicformats" : "Digital Single",
+        "albumname" : "Mixtape: dominATE",
+        "Releasedate" : "2025-03-21"
+      }
+    ] 
   },
   {
     "group" : "ITZY",
-    "color" : "#b7b1ff",
-    "fontcolor" : "#000000",
-    "musicformats" : "EP",
-    "albumname" : "Girls Will Be Girls",
-    "Releasedate" : "2025-06-09"
+    "music" : [
+      {       
+        "group,solo" : "예지",
+        "musicformats" : "EP",
+        "color" : "#fd5d5d",
+        "fontcolor" : "#000000",
+        "albumname" : "AIR",
+        "Releasedate" : "2025-03-10"
+      },
+      {
+        "group,solo" : "ITZY",
+        "color" : "#b7b1ff",
+       "fontcolor" : "#000000",
+        "musicformats" : "EP",
+        "albumname" : "Girls Will Be Girls",
+        "Releasedate" : "2025-06-09"      
+      }
+    ]  
   },
   {
     "group" : "NMIXX",
-    "color" : "#00e2ff",
-    "fontcolor" : "#000000",
-    "musicformats" : "Single",
-    "albumname" : "High Horse",
-    "Releasedate" : "2025-03-04"
-  },
-  {
-    "group" : "NMIXX",
-    "color" : "#00e2ff",
-    "fontcolor" : "#000000",
-    "musicformats" : "EP",
-    "albumname" : "Fe3O4: FORWARD",
-    "Releasedate" : "2025-03-17"
+    "music" : [
+      { 
+        "group,solo" : "NMIXX", 
+        "color" : "#00e2ff",
+        "fontcolor" : "#000000",     
+        "musicformats" : "Single",
+        "albumname" : "High Horse",
+        "Releasedate" : "2025-03-04"
+      },
+      {
+        "group,solo" : "NMIXX",
+        "color" : "#00e2ff",
+        "fontcolor" : "#000000",   
+        "musicformats" : "EP",
+        "albumname" : "Fe3O4: FORWARD",
+        "Releasedate" : "2025-03-17"       
+      }
+    ] 
   },
   {
     "group" : "NiziU",
-    "color" : "#ffe600",
-    "fontcolor" : "#000000",
-    "musicformats" : "Digital Single",
-    "albumname" : "LOVE LINE",
-    "Releasedate" : "2025-03-31"
+    "music" : [
+      { 
+        "group,solo" : "NiziU",
+        "color" : "#ffe600",
+        "fontcolor" : "#000000",         
+        "musicformats" : "Digital Single",
+        "albumname" : "LOVE LINE",
+        "Releasedate" : "2025-03-31"
+      }
+    ] 
   }
 
 ]
