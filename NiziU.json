@@ -11,69 +11,14 @@
     ],
     "Youtube" : [
       {
-        "date" : "2025-03-10",
-        "contentsname" : "Where To?🧶",
-        "url" : "https://www.youtube.com/watch?v=KU9W-Ediiu0"
-      },
-      {
-        "date" : "2025-03-17",
-        "contentsname" : "Prologue",
-        "url" : "https://www.youtube.com/watch?v=gRPWgXdQGd4"
-      },
-      {
-        "date" : "2025-03-18",
-        "contentsname" : "Visual Film #1",
-        "url" : "https://www.youtube.com/watch?v=ssRu0r1jxhg"
-      },
-      {
-        "date" : "2025-03-18",
-        "contentsname" : "Visual Film #2",
-        "url" : "https://www.youtube.com/watch?v=o4GIgDofsTU"
-      },
-      {
-        "date" : "2025-03-18",
-        "contentsname" : "Visual Film #3",
-        "url" : "https://www.youtube.com/watch?v=OVVo6dUnPao"
-      },
-      {
-        "date" : "2025-03-25",
-        "contentsname" : "만약이라는 건 없어 (What if) Track Video Teaser",
-        "url" : "https://www.youtube.com/watch?v=Y_ezbiTRdiI"
-      },
-      {
-        "date" : "2025-03-27",
-        "contentsname" : "Welcome to NiziU Club!",
-        "url" : "https://www.youtube.com/watch?v=q19kqrblI1o"
-      },
-      {
-        "date" : "2025-03-28",
-        "contentsname" : "LOVE LINE (운명선) M/V Teaser 1",
-        "url" : "https://www.youtube.com/watch?v=bQysV7VNMVs"
-      },
-      {
-        "date" : "2025-03-30",
-        "contentsname" : "LOVE LINE (운명선) M/V Teaser 2",
-        "url" : "https://www.youtube.com/watch?v=AQPtD8EeEeM"
-      },
-      {
         "date" : "2025-03-31",
         "contentsname" : "Countdown Live",
         "url" : "https://www.youtube.com/watch?v=3FBxD92bn74"
       },
       {
         "date" : "2025-03-31",
-        "contentsname" : "LOVE LINE (운명선) M/V",
-        "url" : "https://www.youtube.com/watch?v=RkPj6AnKm0Y"
-      },
-      {
-        "date" : "2025-03-31",
         "contentsname" : "hello82 - 친 자매처럼 치고받고 싸우기만 하다 간 아이돌이 있다?!🤪 | SMARTY-PANTS! | NiziU ",
         "url" : "https://www.youtube.com/watch?v=wnKMdblRh7I"
-      },
-      {
-        "date" : "2025-04-01",
-        "contentsname" : "LOVE LINE (운명선) 응원법 (Cheering Guide)",
-        "url" : "https://www.youtube.com/watch?v=0D7ToXF_Q-g"
       },
       {
         "date" : "2025-04-01",
@@ -87,13 +32,8 @@
       },
       {
         "date" : "2025-04-03",
-        "contentsname" : "LOVE LINE (운명선) Band LIVE",
+        "contentsname" : "잇츠라이브 - LOVE LINE (운명선) Band LIVE",
         "url" : "https://www.youtube.com/watch?v=pykmdBjDi24"
-      },
-      {
-        "date" : "2025-04-04",
-        "contentsname" : "LOVE LINE (운명선) M/V Reaction",
-        "url" : "https://www.youtube.com/watch?v=T_Nj62rStSU"
       },
       {
         "date" : "2025-04-05",
@@ -102,18 +42,8 @@
       },
       {
         "date" : "2025-04-06",
-        "contentsname" : "LOVE LINE (운명선) Dance Practice",
-        "url" : "https://www.youtube.com/watch?v=ac2XInKp_po"
-      },
-      {
-        "date" : "2025-04-06",
         "contentsname" : "LOVE LINE (운명선) 릴레이 댄스",
         "url" : "https://www.youtube.com/watch?v=1_--cU5HU2g&t=1s"
-      },
-      {
-        "date" : "2025-04-07",
-        "contentsname" : "LOVE LINE (운명선) Performance Video",
-        "url" : "https://www.youtube.com/watch?v=jxzftUXz5RM"
       },
       {
         "date" : "2025-04-07",
@@ -141,25 +71,20 @@
         "url" : "https://www.youtube.com/watch?v=ZnygL0KpDCs"
       },
       {
-        "date" : "2025-04-14",
-        "contentsname" : "만약이라는 건 없어 (What if) Track Video",
-        "url" : "https://www.youtube.com/watch?v=bmBoo1t1XE0&t=1s"
-      },
-      {
         "date" : "2025-04-19",
         "contentsname" : "LOVE LINE (운명선) BE ORIGINAL 비하인드",
         "url" : "https://www.youtube.com/watch?v=dbTp3afxPuk"
       },
       {
         "date" : "2025-03-10",
-        "contentsname" : "LOVE LINE 관련 재생목록",
+        "contentsname" : "LOVE LINE 관련 공식 유튜브 재생목록",
         "url" : "https://www.youtube.com/watch?v=gRPWgXdQGd4&list=PLO4OTyhCf291Zhgac26zmJXm_xPJZ2pA4"
       }
     ],
     "musicbroadcast" : [
       {
         "date" : "2025-04-03",
-        "contentsname" : "엠넷",
+        "contentsname" : "엠카운트다운",
         "url" : "https://www.youtube.com/watch?v=FpqScbFdGx8"
       },
       {
@@ -184,7 +109,7 @@
       },
       {
         "date" : "2025-04-10",
-        "contentsname" : "엠넷",
+        "contentsname" : "엠카운트다운",
         "url" : "https://www.youtube.com/watch?v=oyWfHE_nwe0"
       },
       {
@@ -206,7 +131,7 @@
     "fancam" : [
       {
         "date" : "2025-04-03",
-        "contentsname" : "엠넷 - 직캠 8K",
+        "contentsname" : "엠카운트다운 - 직캠 8K",
         "url" : "https://www.youtube.com/watch?v=tKYTNHdRXEU"
       },
       {
@@ -236,7 +161,7 @@
       },
       {
         "date" : "2025-04-10",
-        "contentsname" : "엠넷 - 직캠 4K",
+        "contentsname" : "엠카운트다운 - 직캠 4K",
         "url" : "https://www.youtube.com/watch?v=tgsxxjOjcRQ"
       },
       {
