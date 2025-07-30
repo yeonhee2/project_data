@@ -4,12 +4,11 @@
     "title" : "Chk Chk Boom",
     "releaseDate" : "2024-07-19",
     "images" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/StrayKids.jpg",
-    "rankings" : {
-      "Melon" : "#34",
-      "Genie" : "#2",
-      "Flo" : "#26",
-      "Bugs" :"#1"
-    },
+    "rankings" : [
+      {"Melon" : "#34"},
+      {"Genie" : "#2"},
+      {"Bugs" :"#1"}
+    ],
     "Youtube" : " ",
     "fancam" : "",
     "radio" : " ",

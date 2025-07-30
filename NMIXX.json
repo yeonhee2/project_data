@@ -4,11 +4,11 @@
     "title" : "KNOW ABOUT ME",
     "releaseDate" : "2025-03-17",
     "images" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/NMIXX.jpg",
-    "rankings" : {
-      "Melon" : "#33",
-      "Genie" : "#69",
-      "Bugs" :"#8"
-    },
+    "rankings" : [
+      {"Melon" : "#33"},
+      {"Genie" : "#69"},
+      {"Bugs" :"#8"}
+    ],
     "Youtube" : [
       {
         "date" : "2025-02-19",
