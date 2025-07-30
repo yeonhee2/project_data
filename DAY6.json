@@ -3,10 +3,10 @@
     "name" : "Band Aid",
     "title" : "녹아내려요",
     "releaseDate" : "2024-09-02",
+    "images" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/DAY6.jpg",
     "rankings" : {
       "Melon" : "#1",
       "Genie" : "#1",
-      "Flo" : "#1",
       "Bugs" :"#1"
     },
     "Youtube" : [
