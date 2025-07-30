@@ -13,7 +13,28 @@
     "musicbroadcast" : " ",
     "fancam" : " ",
     "radio" : " ",
-    "tvshow" : " "
+    "tvshow" : [
+      {
+        "date" : "2024-07-07",
+        "contentsname" : "미스터리 음악쇼 복면가왕 - 아이엔",
+        "url" : "https://www.youtube.com/watch?v=rBM3-4F0RZ8&list=RDrBM3-4F0RZ8&start_radio=1"
+      },
+      {
+        "date" : "2024-07-14",
+        "contentsname" : "미스터리 음악쇼 복면가왕 - 아이엔",
+        "url" : "https://www.youtube.com/watch?v=FIzSQdb22VA"
+      },
+      {
+        "date" : "2024-07-17",
+        "contentsname" : "라디오 스타 - 필릭스",
+        "url" : "https://www.youtube.com/watch?v=O_kDNEwi4C0"
+      },
+      {
+        "date" : "2024-07-20",
+        "contentsname" : "놀라운 토요일 - 리노, 필릭스, 승민",
+        "url" : "https://www.youtube.com/watch?v=4eFO0x29Mak"
+      }
+    ]
     
   }
 ]
