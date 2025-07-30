@@ -10,6 +10,7 @@
     "instagram" :"https://www.instagram.com/day6kilogram",
     "shop" : "https://app.fans/shop/day6",
     "fans" : "https://app.fans/community/day6/artist",
+    "src" : "https://www.youtube.com/embed/0fyZqS0N19o?si=e1qrElflhE0W8vzq",
     "member" : [
       {
         "id" : 0,
@@ -73,6 +74,7 @@
     "instagram" :"https://www.instagram.com/twicetagram",
     "shop" : "https://app.fans/shop/twice",
     "fans" : "https://app.fans/community/twice/artist",
+    "src" : "https://www.youtube.com/embed/eHHQaoEW30Q?si=0EkRWHklgwcWe9fZ",
     "member" : [
       {
         "id" : 0,
@@ -196,6 +198,7 @@
     "instagram" :"https://www.instagram.com/realstraykids",
     "shop" : "https://app.fans/shop/StrayKids",
     "fans" : "https://app.fans/community/StrayKids/artist",
+    "src" : "https://www.youtube.com/embed/ovHoY8UBIu8?si=BXNShbjMedSP0d5j" ,
     "member" : [
       {
         "id" : 0,
@@ -309,6 +312,7 @@
     "instagram" :"https://www.instagram.com/itzy.all.in.us",
     "shop" : "https://app.fans/shop/itzy",
     "fans" : "https://app.fans/community/itzy/artist",
+    "src" : "https://www.youtube.com/embed/1KhOhW_O8-k?si=ngzA3yhQeeGyeN0K" ,
     "member" : [
       {
         "id" : 0,
@@ -384,6 +388,7 @@
     "instagram" :"https://www.instagram.com/nmixx_official",
     "shop" : "https://app.fans/shop/nmixx",
     "fans" : "https://app.fans/community/nmixx/artist",
+    "src" : "https://www.youtube.com/embed/aFrQIJ5cbRc?si=FiRr6ubzHYR6eGZI",
     "member" : [
       {
         "id" : 0,
@@ -472,6 +477,7 @@
     "instagram" :"https://www.instagram.com/niziu_info_official",
     "shop" : "https://app.fans/shop/NiziU",
     "fans" : "https://app.fans/community/NiziU/artist",
+    "src" : "https://www.youtube.com/embed/RkPj6AnKm0Y?si=MkOWUDSyW68SWbyW",
     "member" : [
       {
         "id" : 0,
