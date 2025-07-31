@@ -5,11 +5,8 @@
     "group" : "DAY6",
     "color" : "#0F2B66",
     "fontcolor" : "#FFFFFF",
-    "fanclup" : 
-      {
-        "name" : "My Day♡",
-        "date" :"2017-06-07"
-      },
+    "fanclupname" : "My Day♡",
+    "fanclupdate" : "2017-06-07",
     "yutube" : "https://www.youtube.com/c/DAY6Official",
     "x": "https://x.com/DAY6Official",
     "instagram" :"https://www.instagram.com/day6kilogram",
@@ -74,11 +71,8 @@
     "group" : "TWICE",
     "color" : "#ff91b6",
     "fontcolor" : "#000000",
-    "fanclup" : 
-      {
-        "name" : "ONCE♡",
-        "date" :"2015-11-03"
-      },
+    "fanclupname" : "ONCE♡",
+    "fanclupdate" : "2015-11-03",
     "yutube" : "https://www.youtube.com/@TWICE",
     "x": "https://x.com/JYPETWICE",
     "instagram" :"https://www.instagram.com/twicetagram",
@@ -203,11 +197,8 @@
     "group" : "StrayKids",
     "color" : "#8b0000",
     "fontcolor" : "#ffffff",
-    "fanclup" : 
-      {
-        "name" : "STAY♡",
-        "date" :"2018-08-01"
-      },
+    "fanclupname" : "STAY♡",
+    "fanclupdate" : "2018-08-01",
     "yutube" : "https://www.youtube.com/@StrayKids",
     "x": "https://x.com/Stray_Kids",
     "instagram" :"https://www.instagram.com/realstraykids",
@@ -321,11 +312,8 @@
     "group" : "ITZY",
     "color" : "#b7b1ff",
     "fontcolor" : "#000000",
-    "fanclup" : 
-      {
-        "name" : "MIDZY♡",
-        "date" :"2019-07-08"
-      },
+    "fanclupname" : "MIDZY♡",
+    "fanclupdate" : "2019-07-08",
     "yutube" : "https://www.youtube.com/@ITZY",
     "x": "https://x.com/ITZYOfficial",
     "instagram" :"https://www.instagram.com/itzy.all.in.us",
@@ -402,11 +390,8 @@
     "group" : "NMIXX",
     "color" : "#00e2ff",
     "fontcolor" : "#000000",
-    "fanclup" : 
-      {
-        "name" : "NSWER♡",
-        "date" :"2022-03-01"
-      },
+    "fanclupname" : "NSWER♡",
+    "fanclupdate" : "2022-03-01",
     "yutube" : "https://www.youtube.com/@NMIXXOfficial",
     "x": "https://x.com/NMIXX_official",
     "instagram" :"https://www.instagram.com/nmixx_official",
@@ -496,11 +481,8 @@
     "group" : "NiziU",
     "color" : "#ffe600",
     "fontcolor" : "#000000",
-    "fanclup" : 
-      {
-        "name" : "WithU♡",
-        "date" :"2020-06-30"
-      },
+    "fanclupname" : "WithU♡",
+    "fanclupdate" : "2020-06-30",
     "yutube" : "https://www.youtube.com/@NiziUOfficial",
     "x": "https://x.com/NiziU__official",
     "instagram" :"https://www.instagram.com/niziu_info_official",
