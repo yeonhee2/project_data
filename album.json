@@ -43,6 +43,14 @@
         "musicformats" : "Digital Single",
         "albumname" : "Mixtape: dominATE",
         "Releasedate" : "2025-03-21"
+      },
+      {
+        "groupsolo" : "StrayKids",
+        "color" : "#8b0000",
+        "fontcolor" : "#ffffff",
+        "musicformats" : "Album",
+        "albumname" : "KARMA",
+        "Releasedate" : "2025-08-22"
       }
     ] 
   },
