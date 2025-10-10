@@ -1,8 +1,8 @@
 [
   {
-    "name" : "THIS IS FOR",
-    "title" : "THIS IS FOR",
-    "releaseDate" : "2025-07-11",
+    "name" : "TEN: The Story Goes On",
+    "title" : "ME+YOU",
+    "releaseDate" : "2025-10-10",
     "images" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/TWICE.jpg",
     "rankings" : [
       {"Melon" : "#2"},
@@ -11,94 +11,14 @@
     ],
     "Youtube" : [
       {
-        "date" : "2025-07-09",
-        "contentsname" : "감별사 - 기쁘다 트와이스 오셨네🎉감별사에 놀러 온 찐친들의 역대급 애장품 기부?!",
-        "url" : "https://www.youtube.com/watch?v=j8OlebPfmA4"
-      },
-      {
-        "date" : "2025-07-09",
-        "contentsname" : "단순노동 - 또 도망갈까봐... 트와이스 대표 내향인 채영씨를 모셨습니다",
-        "url" : "https://www.youtube.com/watch?v=9-83WeCsOSg"
-      },
-      {
-        "date" : "2025-07-11",
-        "contentsname" : "안고독한 소식가 - 첫 평냉 도전! 트와이스 나연&지효와 함께하는 안고독한 소식가🍜",
-        "url" : "https://www.youtube.com/watch?v=RciU7CskzaQ"
-      },
-      {
-        "date" : "2025-07-12",
-        "contentsname" : "핑계고 - 홈캉스는 핑계고 | EP.82 (나연,정연,사나,지효)",
-        "url" : "https://www.youtube.com/watch?v=uxEa_VhvfIs"
-      }, 
-      {
-        "date" : "2025-07-17",
-        "contentsname" : "민주의 핑크 캐비닛 - 아이돌의 아이도루⭐️ 민주의 롤모델 사나 여신💘 드디어 만나다🎉",
-        "url" : "https://www.youtube.com/watch?v=6Qc87_vrJ6M"
-      },
-      {
-        "date" : "2025-07-18",
-        "contentsname" : "K-Pop ON! Video Podcas - 트와이스랑 10주년 하우스 파티",
-        "url" : "https://www.youtube.com/watch?v=QQNGyws-OAw"
-      },
-      {
-        "date" : "2025-07-25",
-        "contentsname" : "매점가요 - THIS IS FOR ⋆ ·˚ ONCE ༘ * 데뷔 10주년 기념파티에 초대합니다 ✧｡٩(•ᴗ•)و✧*｡ EP.13#TWICE",
-        "url" : "https://www.youtube.com/watch?v=8Jjzn8Y7x9U"
-      },
-      {
         "date" : "2025-05-19",
-        "contentsname" : "THIS IS FOR 관련 공식 유튜브 재생목록",
-        "url" : "https://www.youtube.com/watch?v=eHHQaoEW30Q&list=PLyo6W3g1j4Qazz9TrE3pkGcJEnNWbv2Al"
+        "contentsname" : "TEN: The Story Goes On 공식 유튜브 재생목록",
+        "url" : "https://youtube.com/playlist?list=PLyo6W3g1j4Qb_1RAROb1wTGJXGP3Psxmt&si=8avcvZlOPV0m7Bfj"
       }
     ],
-    "musicbroadcast" : [
-      {
-        "date" : "2025-07-11",
-        "contentsname" : "뮤직뱅크",
-        "url" : "https://www.youtube.com/watch?v=mh_4SYlP-tY"
-      },
-      {
-        "date" : "2025-07-12",
-        "contentsname" : "쇼음악중심",
-        "url" : "https://www.youtube.com/watch?v=DnZ3O9g_zHc"
-      },
-      {
-        "date" : "2025-07-13",
-        "contentsname" : "인기가요",
-        "url" : "https://www.youtube.com/watch?v=YR1mVK6nqKI"
-      }
-    ],
-    "fancam" : [
-      {
-        "date" : "2025-07-11",
-        "contentsname" : "뮤직뱅크-풀캠",
-        "url" : "https://www.youtube.com/watch?v=aAmajD-DzTY"
-      },
-      {
-        "date" : "2025-07-12",
-        "contentsname" : "음악중심-풀캠",
-        "url" : "https://www.youtube.com/watch?v=2CtLmbA50rw"
-      },
-      {
-        "date" : "2025-07-12",
-        "contentsname" : "음악중심 - 직캠보고서: 사녹 비하인드",
-        "url" : "https://www.youtube.com/watch?v=ihn-j3eJz34"
-      },
-      {
-        "date" : "2025-07-13",
-        "contentsname" : "인기가요-풀캠",
-        "url" : "https://www.youtube.com/watch?v=Mr0CnzXdeHQ"
-      }
-    ],
+    "musicbroadcast" : "",
+    "fancam" : "",
     "radio" : " ",
-    "tvshow" : [
-      
-      {
-        "date" : "2025-07-12",
-        "contentsname" : "SBS 8 뉴스 - 나연, 정연, 지효",
-        "url" : "https://www.youtube.com/watch?v=r6TylmOM0VY"
-      }
-      
-    ]
+    "tvshow" : ""
   }
 ]
