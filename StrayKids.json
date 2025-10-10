@@ -1,216 +1,114 @@
 [
   {
-    "name" : "ATE",
-    "title" : "Chk Chk Boom",
-    "releaseDate" : "2024-07-19",
+    "name" : "KARMA",
+    "title" : "CEREMONY",
+    "releaseDate" : "2025-08-22",
     "images" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/StrayKids.jpg",
-    "rankings" : [
-      {"Melon" : "#34"},
-      {"Genie" : "#2"},
-      {"Bugs" :"#1"}
-    ],
     "Youtube" : [
       {
-        "date" : "2024-07-16",
-        "contentsname" : "리무진서비스 (리노) - 또 다시 밤, 그대 내게 다시, Only One, 가질 수 없는 너",
-        "url" : "https://www.youtube.com/watch?v=MVKXCY5lx0s"
+        "date" : "2025-08-19",
+        "contentsname" : "난 너가 줏대있게 영상을 끝까지 다 봤으면 좋겠어 | EP. 104 스트레이 키즈 창빈 필릭스 | 살롱드립2",
+        "url" : "https://www.youtube.com/watch?v=r7N6iFXbv0M"
       },
       {
-        "date" : "2024-07-16",
-        "contentsname" : "홍석천의 보석함 시즌 2 - 천사 탈을 쓴 휴먼 💎필릭스 용복 리💎",
-        "url" : "https://www.youtube.com/watch?v=dcQmYOwC_7E"
+        "date" : "2025-08-21",
+        "contentsname" : "Stray Kids Reveal Uncomfortable Truths in the Hot Seat",
+        "url" : "https://www.youtube.com/watch?v=JGFBAvHNvGI"
       },
       {
-        "date" : "2024-07-19",
-        "contentsname" : "데드풀과 울버린 - 내·친·소 🌟with 스트레이 키즈 방찬&필릭스🌟",
-        "url" : "https://www.youtube.com/watch?v=tvBpFTKy2Ho"
+        "date" : "2025-08-21",
+        "contentsname" : "Stray Kids Reply To More Fans Online | Actually Us",
+        "url" : "https://www.youtube.com/watch?v=Z913OSGFKiI"
       },
       {
-        "date" : "2024-07-20",
-        "contentsname" : "아이돌 인간극장 - 예능신이 돕는 스트레이키즈의 복불복 장기자랑 🕺🏻",
-        "url" : "https://www.youtube.com/watch?v=EKQT8IP1TeU"
+        "date" : "2025-08-22",
+        "contentsname" : "멤버별 타이틀곡 최애 벌스 한 소절부터💙 [KARMA] 집중 포인트까지🔍 | Spotlight 인터뷰",
+        "url" : "https://www.youtube.com/watch?v=adZNoIf32SU"
       },
       {
-        "date" : "2024-07-20",
-        "contentsname" : "꼰대희 - [밥묵자] 스트레이 키즈 vs 스트레스 아재(feat.승민,아이엔)",
-        "url" : "https://www.youtube.com/watch?v=W67t4chfq9o"
+        "date" : "2025-08-22",
+        "contentsname" : "스트레이 키즈 긴급 기자회견 개최… 그런데 기자의 정체가..?! | Road to Spotify STAYdium",
+        "url" : "https://www.youtube.com/watch?v=WT20n4EEAu8"
       },
       {
-        "date" : "2024-07-22",
-        "contentsname" : "사내뷰공업 (현진,한) - 대성리로 동아리 MT가는 15학번 박세은",
-        "url" : "https://www.youtube.com/shorts/xri2i_aBS98"
+        "date" : "2025-08-22",
+        "contentsname" : "Stray Kids React To MORE Stray Kids Memes (Part 2!) | Meme, Myself & I",
+        "url" : "https://www.youtube.com/watch?v=I9CQnbZJV78"
       },
       {
-        "date" : "2024-07-24",
-        "contentsname" : "밥사효 - 끼 부리는 창빈",
-        "url" : "https://www.youtube.com/watch?v=hDwUcNRgIE0"
+        "date" : "2025-08-23",
+        "contentsname" : "내향인이지만 파티는 하고 싶어🥳 게임과 벌칙에 진심인 스트레이 키즈🔥 | 아이돌 인간극장 | 리노, 한, 승민, 아이엔",
+        "url" : "https://www.youtube.com/watch?v=zauXziYI3dM"
       },
       {
-        "date" : "2024-07-24",
-        "contentsname" : "이사배 - 드디어 최애를 만났는데요…🥹 스테이가 해주는 필릭스 메이크업💖",
-        "url" : "https://www.youtube.com/watch?v=tdrNkhv5Hws"
+        "date" : "2025-08-24",
+        "contentsname" : "정상 회담 | 노포기 EP.23 | 방찬, 현진",
+        "url" : "https://www.youtube.com/watch?v=bI3uWzRAz8Y"
       },
       {
-        "date" : "2024-07-25",
-        "contentsname" : "The MMTG SHOW (리노, 창빈, 현진, 한) - 스트레이 키즈의 전원 재계약 비결을 알아보았다",
-        "url" : "https://www.youtube.com/watch?v=3DOTu8db64Q"
+        "date" : "2025-08-25",
+        "contentsname" : "[고매요리] ✨필릭스가 알려주는대로 만드는 전설의 브라우니 ✨ | 해쭈",
+        "url" : "https://www.youtube.com/watch?v=NVJ0luH0SGY"
       },
       {
-        "date" : "2024-07-25",
-        "contentsname" : "The MMTG SHOW (리노, 창빈, 현진, 한) - 스트레이 키즈와 하루 만에 전국 투어를 돌아보았다",
-        "url" : "https://www.youtube.com/watch?v=mJJSyhV9eCY"
+        "date" : "2025-08-25",
+        "contentsname" : "저희 곡 다 분석해주세요ㅣEP.7 스트레이 키즈(방찬, 창빈)ㅣ미미미누의 방구석 분석",
+        "url" : "https://www.youtube.com/watch?v=IezzxZpyvCQ"
       },
       {
-        "date" : "2024-07-25",
-        "contentsname" : "오늘의 주우재 (창빈, 아이엔) - 🐰🦊이렇게까지 글로벌 해져도 되나요..?",
-        "url" : "https://www.youtube.com/watch?v=8bWbes6T7R0"
+        "date" : "2025-08-26",
+        "contentsname" : "Stray Kids Catch Each Other's Lies | Teen Vogue",
+        "url" : "https://www.youtube.com/watch?v=KzEHTavu1U8"
       },
       {
-        "date" : "2024-07-25",
-        "contentsname" : "재친구 시즌 3 (방찬, 한) - 아낌없이 다 주고간 TMI 토크",
-        "url" : "https://www.youtube.com/watch?v=R_y-i5dcEWQ"
+        "date" : "2025-08-26",
+        "contentsname" : "Stray Kids(스트레이 키즈)의 킬링보이스를 라이브로! - 神메뉴, MANIAC, 소리꾼, MIROH, 미친 놈, 특, CEREMONY | 딩고뮤직 | Dingo Music",
+        "url" : "https://www.youtube.com/watch?v=ND2znH4KgPo"
       },
       {
-        "date" : "2024-07-26",
-        "contentsname" : "광구석 1열 - 비투비 광냥이와 스트레이 키즈 승멍이🐱💞🐶",
-        "url" : "https://www.youtube.com/watch?v=B6HwCQswd_U"
+        "date" : "2025-08-27",
+        "contentsname" : "Stray Kids Answer 20 Questions for 2025 | MTV",
+        "url" : "https://www.youtube.com/watch?v=ZJSACc1s-WA"
       },
       {
-        "date" : "2024-07-30",
-        "contentsname" : "채령이 배불렁 친구불렁 - JYP 가족이자 찐친 내 친구 창빈",
-        "url" : "https://www.youtube.com/watch?v=55VD-T_cIco"
+        "date" : "2025-08-28",
+        "contentsname" : "스트레이 키즈한테 박진영한테 불만있는지 물어봤다 | EPIKASE | 방찬, 창빈, 한",
+        "url" : "https://www.youtube.com/watch?v=tV-UB9MQjN4"
       },
       {
-        "date" : "2024-06-19",
-        "contentsname" : "Chk Chk Boom 관련 공식 유튜브 재생목록",
-        "url" : "https://youtube.com/playlist?list=PL2HLJ87twWI1kQ_2r481trBGnwQc5o6aO&feature=shared"
+        "date" : "2025-08-31",
+        "contentsname" : "Stray Kids 아이엔 눈 떴다 #순간뽀짝세상에이런아이돌이",
+        "url" : "https://www.youtube.com/watch?v=Uif6Rk9w1g0"
+      },
+      {
+        "date" : "2025-09-01",
+        "contentsname" : "Stray Kids SOHU KOREA interview 인터뷰 （아이돌 출근한다 爱豆上班啦",
+        "url" : "https://www.youtube.com/watch?v=Q9K_tMZKSgE"
+      },
+      {
+        "date" : "2025-09-04",
+        "contentsname" : "오해원 후배 추천 알바 다녀왔는데….ㅣ인테리어 알바ㅣ워크돌ㅣ스트레이키즈 창빈, 현진",
+        "url" : "https://www.youtube.com/watch?v=tmL5gKP5uYg"
+      },
+      {
+        "date" : "2025-08-22",
+        "contentsname" : "Album Special KARMA 공식 유튜브 재생목록",
+        "url" : "https://youtube.com/playlist?list=PL2HLJ87twWI32A8VVH2QfofrbMdIPRu9M&si=jcdybDvNSlUlRehh"
       }
     ],
-    "musicbroadcast" : [
-      {
-        "date" : "2024-07-19",
-        "contentsname" : "뮤직뱅크",
-        "url" : "https://www.youtube.com/watch?v=j7-kJAPZ9go"
-      },
-      {
-        "date" : "2024-07-20",
-        "contentsname" : "쇼음악중심",
-        "url" : "https://www.youtube.com/watch?v=ybudblddpps"
-      },
-      {
-        "date" : "2024-07-26",
-        "contentsname" : "뮤직뱅크",
-        "url" : "https://www.youtube.com/watch?v=v4e3W1yMryc"
-      },
-      {
-        "date" : "2024-08-08",
-        "contentsname" : "엠카운트다운 - Chk Chk Boom",
-        "url" : "https://www.youtube.com/watch?v=BUBXqVlPMks"
-      },
-      {
-        "date" : "2024-08-08",
-        "contentsname" : "엠카운트다운 - JJAM",
-        "url" : "https://www.youtube.com/watch?v=WOFg2WQrTjM"
-      },
-      {
-        "date" : "2024-08-10",
-        "contentsname" : "쇼음악중심 - Chk Chk Boom",
-        "url" : "https://www.youtube.com/watch?v=NQ6Zf6tYzY8"
-      },
-      {
-        "date" : "2024-08-10",
-        "contentsname" : "쇼음악중심 - JJAM",
-        "url" : "https://www.youtube.com/watch?v=svlLy7Ujym4"
-      },
-      {
-        "date" : "2024-08-11",
-        "contentsname" : "인기가요 - Chk Chk Boom",
-        "url" : "https://tv.naver.com/v/59100777"
-      },
-      {
-        "date" : "2024-08-11",
-        "contentsname" : "인기가요 - JJAM",
-        "url" : "https://tv.naver.com/v/59100967"
-      }
-    ],
-    "fancam" : [
-      {
-        "date" : "2024-07-19",
-        "contentsname" : "뮤직뱅크 - K-Choreo 8K HDR",
-        "url" : "https://www.youtube.com/watch?v=4I4X0VjUeOw"
-      },
-      {
-        "date" : "2024-07-20",
-        "contentsname" : "쇼음악중심 - 음중직캠8K",
-        "url" : "https://www.youtube.com/watch?v=kg_T3ujtlgE"
-      },
-      {
-        "date" : "2024-07-26",
-        "contentsname" : "뮤직뱅크 - K-Choreo 8K HDR",
-        "url" : "https://www.youtube.com/watch?v=FSNu3wW0vsk"
-      },
-      {
-        "date" : "2024-07-26",
-        "contentsname" : "뮤직뱅크 - 1위 앵콜직캠",
-        "url" : "https://www.youtube.com/watch?v=bfjxsBTRDNU"
-      },
-      {
-        "date" : "2024-08-08",
-        "contentsname" : "엠카운트다운 - MPD직캠 8K Chk Chk Boom",
-        "url" : "https://www.youtube.com/watch?v=ln2dxEN7WvY"
-      },
-      {
-        "date" : "2024-08-08",
-        "contentsname" : "엠카운트다운 - MPD직캠 8K JJAM",
-        "url" : "https://www.youtube.com/watch?v=cWS_7a1JTuw"
-      },
-      {
-        "date" : "2024-08-10",
-        "contentsname" : "쇼음악중심 - 음중직캠8K JJAM",
-        "url" : "https://www.youtube.com/watch?v=uruQty_busc"
-      },
-      {
-        "date" : "2024-08-10",
-        "contentsname" : "쇼음악중심 - [직캠보고서🔍] 칙칙붐+쨈🍓+막방🔫 스키즈 종합선물세트 가보자고 #StrayKids 사전녹화 비하인드",
-        "url" : "https://www.youtube.com/watch?v=8OyOAJqIVf8"
-      },
-      {
-        "date" : "2024-08-11",
-        "contentsname" : "인기가요 - 안방1열 풀캠4K JJAM",
-        "url" : "https://www.youtube.com/watch?v=J8thKCqQZ6Y"
-      },
-      {
-        "date" : "2024-08-11",
-        "contentsname" : "인기가요 - 항공캠4K JJAM",
-        "url" : "https://www.youtube.com/watch?v=lzBu5Mb--rw"
-      },
-      {
-        "date" : "2024-08-11",
-        "contentsname" : "인기가요 - 안방1열 풀캠4K Chk Chk Boom",
-        "url" : "https://www.youtube.com/watch?v=oxwrbhPYvTo"
-      }
-    ],
+    "musicbroadcast" : " ",
+    "fancam" : " ",
     "radio" : " ",
     "tvshow" : [
       {
-        "date" : "2024-07-07",
-        "contentsname" : "미스터리 음악쇼 복면가왕 - 아이엔",
-        "url" : "https://www.youtube.com/watch?v=rBM3-4F0RZ8&list=RDrBM3-4F0RZ8&start_radio=1"
+        "date" : "2025-08-19",
+        "contentsname" : "SBS 나이트라인 - 방찬, 창빈, 필릭스",
+        "url" : "https://www.youtube.com/watch?v=M4OMJuGla5Q"
       },
       {
-        "date" : "2024-07-14",
-        "contentsname" : "미스터리 음악쇼 복면가왕 - 아이엔",
-        "url" : "https://www.youtube.com/watch?v=FIzSQdb22VA"
-      },
-      {
-        "date" : "2024-07-17",
-        "contentsname" : "라디오 스타 - 필릭스",
-        "url" : "https://www.youtube.com/watch?v=O_kDNEwi4C0"
-      },
-      {
-        "date" : "2024-07-20",
-        "contentsname" : "놀라운 토요일 - 리노, 필릭스, 승민",
-        "url" : "https://www.youtube.com/watch?v=4eFO0x29Mak"
+        "date" : "2025-09-01",
+        "contentsname" : "톡파원 25시",
+        "url" : "https://www.youtube.com/watch?v=Px9RbQd5Ie8"
       }
     ]
     

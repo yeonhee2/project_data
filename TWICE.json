@@ -4,11 +4,6 @@
     "title" : "ME+YOU",
     "releaseDate" : "2025-10-10",
     "images" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/TWICE.jpg",
-    "rankings" : [
-      {"Melon" : "#2"},
-      {"Genie" : "#55"},
-      {"Bugs" :"#23"}
-    ],
     "Youtube" : [
       {
         "date" : "2025-05-19",
