@@ -9,6 +9,14 @@
         "musicformats" : "Digital Single",
         "albumname" : "Maybe Tomorrow",
         "Releasedate" : "2025-05-07"
+      },
+      {
+        "groupsolo" : "DAY6",
+        "color" : "#0F2B66",
+        "fontcolor" : "#FFFFFF",
+        "musicformats" : "Album",
+        "albumname" : "The DECADE",
+        "Releasedate" : "2025-09-05"
       }
     ]
   },
@@ -30,6 +38,30 @@
         "musicformats" : "Album",
         "albumname" : "This Is For",
         "Releasedate" : "2025-07-11"
+      },
+      {
+        "groupsolo" : "TWICE",
+        "color" : "#ff91b6",
+        "fontcolor" : "#000000",
+        "musicformats" : "Album Deluxe",
+        "albumname" : "THIS IS FOR DELUXE",
+        "Releasedate" : "2025-07-14"
+      },
+      {
+        "groupsolo" : "채영",
+        "color" : "#dc143c",
+        "fontcolor" : "#ffffff",
+        "musicformats" : "Album",
+        "albumname" : "LIL FANTASY vol.1",
+        "Releasedate" : "2025-09-12"
+      },
+      {
+        "groupsolo" : "TWICE",
+        "color" : "#ff91b6",
+        "fontcolor" : "#000000",
+        "musicformats" : "SPECIAL ALBUM",
+        "albumname" : "TEN: The Story Goes On",
+        "Releasedate" : "2025-10-10"
       }
     ]
   }, 
@@ -93,6 +125,14 @@
         "musicformats" : "EP",
         "albumname" : "Fe3O4: FORWARD",
         "Releasedate" : "2025-03-17"       
+      },
+      {
+        "groupsolo" : "NMIXX",
+        "color" : "#00e2ff",
+        "fontcolor" : "#000000",   
+        "musicformats" : "Album",
+        "albumname" : "Blue Valentine",
+        "Releasedate" : "2025-10-13"       
       }
     ] 
   },
