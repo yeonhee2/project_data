@@ -17,7 +17,6 @@
       {
         "id" : 0,
         "name" : "성진", 
-        "age" : 32, 
         "birthday" : "1993-01-16",
         "color" : "#009393",
         "fontcolor" : "#ffffff",
@@ -28,8 +27,7 @@
       },
       {
         "id" : 1,
-        "name" : "Young K", 
-        "age" : 31, 
+        "name" : "Young K",  
         "birthday" : "1993-12-19",
         "color" : "#ff69b4",
         "fontcolor" : "#000000",
@@ -41,7 +39,6 @@
       {
         "id" : 2,
         "name" : "원필", 
-        "age" : 31, 
         "birthday" : "1994-04-28",
         "color" : "#8a2be2",
         "fontcolor" : "#ffffff",
@@ -53,7 +50,6 @@
       {
         "id" : 3,
         "name" : "도운", 
-        "age" : 29, 
         "birthday" : "1995-08-25",
         "color" : "#ff4500",
         "fontcolor" : "#ffffff",
@@ -83,7 +79,6 @@
       {
         "id" : 0,
         "name" : "나연", 
-        "age" : 29, 
         "birthday" : "1995-09-22",
         "color" : "#ffe600",
         "fontcolor" : "#000000",
@@ -95,7 +90,6 @@
       {
         "id" : 1,
         "name" : "정연", 
-        "age" : 28, 
         "birthday" : "1996-11-01",
         "color" : "#32cd32",
         "fontcolor" : "#000000",
@@ -107,7 +101,6 @@
       {
         "id" : 2,
         "name" : "모모", 
-        "age" : 28, 
         "birthday" : "1996-11-09",
         "color" : "#ff8c00",
         "fontcolor" : "#000000",
@@ -119,7 +112,6 @@
       {
         "id" : 3,
         "name" : "사나", 
-        "age" : 28, 
         "birthday" : "1996-12-29",
         "color" : "#ffb6c1",
         "fontcolor" : "#000000",
@@ -131,7 +123,6 @@
       {
         "id" : 4,
         "name" : "지효", 
-        "age" : 28, 
         "birthday" : "1997-02-01",
         "color" : "#ff1493",
         "fontcolor" : "#ffffff",
@@ -143,7 +134,6 @@
       {
         "id" : 5,
         "name" : "미나", 
-        "age" : 28, 
         "birthday" : "1997-03-24",
         "color" : "#00ced1",
         "fontcolor" : "#000000",
@@ -154,8 +144,7 @@
       },
       {
         "id" : 6,
-        "name" : "다현", 
-        "age" : 27, 
+        "name" : "다현",
         "birthday" : "1998-05-28",
         "color" : "#FDEEF4",
         "fontcolor" : "#000000",
@@ -166,8 +155,7 @@
       },
       {
         "id" : 7,
-        "name" : "채영", 
-        "age" : 26, 
+        "name" : "채영",
         "birthday" : "1999-04-23",
         "color" : "#dc143c",
         "fontcolor" : "#ffffff",
@@ -178,8 +166,7 @@
       },
       {
         "id" : 8,
-        "name" : "쯔위", 
-        "age" : 26, 
+        "name" : "쯔위",
         "birthday" : "1999-06-14",
         "color" : "#4169e1",
         "fontcolor" : "#ffffff",
@@ -208,8 +195,7 @@
     "member" : [
       {
         "id" : 0,
-        "name" : "방찬", 
-        "age" : 27, 
+        "name" : "방찬",
         "birthday" : "1997-10-03",
         "color" : "#ff474c",
         "fontcolor" : "#000000",
@@ -220,8 +206,7 @@
       },
       {
         "id" : 1,
-        "name" : "리노", 
-        "age" : 26, 
+        "name" : "리노",
         "birthday" : "1998-10-25",
         "color" : "#c3b091",
         "fontcolor" : "#000000",
@@ -232,8 +217,7 @@
       },
       {
         "id" : 2,
-        "name" : "창빈", 
-        "age" : 25, 
+        "name" : "창빈",
         "birthday" : "1999-08-11",
         "color" : "#444444",
         "fontcolor" : "#ffffff",
@@ -244,8 +228,7 @@
       },
       {
         "id" : 3,
-        "name" : "현진", 
-        "age" : 25, 
+        "name" : "현진",
         "birthday" : "2000-03-20",
         "color" : "#4169e1",
         "fontcolor" : "#ffffff",
@@ -257,8 +240,7 @@
 
       {
         "id" : 4,
-        "name" : "한", 
-        "age" : 24, 
+        "name" : "한",
         "birthday" : "2000-09-14",
         "color" : "#e97451",
         "fontcolor" : "#000000",
@@ -269,8 +251,7 @@
       },
       {
         "id" : 5,
-        "name" : "필릭스", 
-        "age" : 24, 
+        "name" : "필릭스",
         "birthday" : "2000-09-15",
         "color" : "#EDEDED",
         "fontcolor" : "#000000",
@@ -281,8 +262,7 @@
       },
       {
         "id" : 6,
-        "name" : "승민", 
-        "age" : 24, 
+        "name" : "승민",
         "birthday" : "2000-09-22",
         "color" : "#228b22",
         "fontcolor" : "#ffffff",
@@ -293,8 +273,7 @@
       },
       {
         "id" : 7,
-        "name" : "아이엔", 
-        "age" : 24, 
+        "name" : "아이엔",
         "birthday" : "2001-02-08",
         "color" : "#9370db",
         "fontcolor" : "#ffffff",
@@ -323,8 +302,7 @@
     "member" : [
       {
         "id" : 0,
-        "name" : "예지", 
-        "age" : 25, 
+        "name" : "예지",
         "birthday" : "2000-05-26",
         "color" : "#fd5d5d",
         "fontcolor" : "#000000",
@@ -335,8 +313,7 @@
       },
       {
         "id" : 1,
-        "name" : "리아", 
-        "age" : 25, 
+        "name" : "리아",
         "birthday" : "2000-07-21",
         "color" : "#fcb1d4",
         "fontcolor" : "#000000",
@@ -347,8 +324,7 @@
       },
       {
         "id" : 2,
-        "name" : "류진", 
-        "age" : 24, 
+        "name" : "류진",
         "birthday" :" 2001-04-17",
         "color" : "#b5ead7",
         "fontcolor" : "#000000",
@@ -359,8 +335,7 @@
       },
       {
         "id" : 3,
-        "name" : "채령", 
-        "age" : 24, 
+        "name" : "채령",
         "birthday" : "2001-06-25",
         "color" : "#c7ceea",
         "fontcolor" : "#000000",
@@ -371,8 +346,7 @@
       },
       {
         "id" : 4,
-        "name" : "유나", 
-        "age" : 21, 
+        "name" : "유나",
         "birthday" : "2003-12-09",
         "color" : "#ffdac1",
         "fontcolor" : "#000000",
@@ -401,8 +375,7 @@
     "member" : [
       {
         "id" : 0,
-        "name" : "릴리", 
-        "age" : 22, 
+        "name" : "릴리",
         "birthday" : "2002-10-17",
         "color" : "#ffc9e1",
         "fontcolor" : "#000000",
@@ -413,8 +386,7 @@
       },
       {
         "id" : 1,
-        "name" : "해원", 
-        "age" : 22, 
+        "name" : "해원",
         "birthday" : "2003-02-25",
         "color" : "#f9c5d1",
         "fontcolor" : "#000000",
@@ -425,8 +397,7 @@
       },
       {
         "id" : 2,
-        "name" : "설윤", 
-        "age" : 21, 
+        "name" : "설윤",
         "birthday" : "2004-01-26",
         "color" : "#d4c2fc",
         "fontcolor" : "#000000",
@@ -437,8 +408,7 @@
       },
       {
         "id" : 3,
-        "name" : "배이", 
-        "age" : 20, 
+        "name" : "배이",
         "birthday" : "2004-12-28",
         "color" : "#a0e7e5",
         "fontcolor" : "#000000",
@@ -449,8 +419,7 @@
       },
       {
         "id" : 4,
-        "name" : "지우", 
-        "age" : 20, 
+        "name" : "지우",
         "birthday" : "2005-04-13",
         "color" : "#ffb7ce",
         "fontcolor" : "#000000",
@@ -461,8 +430,7 @@
       },
       {
         "id" : 5,
-        "name" : "규진", 
-        "age" : 19, 
+        "name" : "규진",
         "birthday" : "2006-05-26",
         "color" : "#ffdac1",
         "fontcolor" : "#000000",
@@ -492,8 +460,7 @@
     "member" : [
       {
         "id" : 0,
-        "name" : "마코", 
-        "age" : 24, 
+        "name" : "마코",
         "birthday" : "2001-04-04",
         "color" : "#e57373",
         "fontcolor" : "#000000",
@@ -504,8 +471,7 @@
       },
       {
         "id" : 1,
-        "name" : "리오", 
-        "age" : 23, 
+        "name" : "리오",
         "birthday" : "2002-02-04",
         "color" : "#9575cd",
         "fontcolor" : "#ffffff",
@@ -516,8 +482,7 @@
       },
       {
         "id" : 2,
-        "name" : "마야", 
-        "age" : 23, 
+        "name" : "마야",
         "birthday" : "2002-04-08",
         "color" : "#4dd0e1",
         "fontcolor" : "#000000",
@@ -528,8 +493,7 @@
       },
       {
         "id" : 3,
-        "name" : "리쿠", 
-        "age" : 22, 
+        "name" : "리쿠",
         "birthday" : "2002-10-26",
         "color" : "#ffb74d",
         "fontcolor" : "#000000",
@@ -540,8 +504,7 @@
       },
       {
         "id" : 4,
-        "name" : "아야카", 
-        "age" : 22, 
+        "name" : "아야카",
         "birthday" : "2003-06-20",
         "color" : "#ba68c8",
         "fontcolor" : "#ffffff",
@@ -552,8 +515,7 @@
       },
       {
         "id" : 5,
-        "name" : "마유카", 
-        "age" : 21, 
+        "name" : "마유카",
         "birthday" : "2003-11-13",
         "color" : "#81c784",
         "fontcolor" : "#000000",
@@ -564,8 +526,7 @@
       },
       {
         "id" : 6,
-        "name" : "리마", 
-        "age" : 21, 
+        "name" : "리마",
         "birthday" : "2004-03-26",
         "color" : "#4fc3f7",
         "fontcolor" : "#000000",
@@ -576,8 +537,7 @@
       },
       {
         "id" : 7,
-        "name" : "미이히", 
-        "age" : 20, 
+        "name" : "미이히",
         "birthday" : "2004-08-12",
         "color" : "#f06292",
         "fontcolor" : "#000000",
@@ -588,8 +548,7 @@
       },
       {
         "id" : 8,
-        "name" : "니나", 
-        "age" : 20, 
+        "name" : "니나",
         "birthday" : "2005-02-27",
         "color" : "#7986cb",
         "fontcolor" : "#ffffff",
