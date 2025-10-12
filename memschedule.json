@@ -6,7 +6,15 @@
         "memname" : "성진",
         "color" : "#009393",
         "skddate" : "2025-07-12",
-        "title" : "2025 KBO 리그 올스타전 특별 해설"
+        "title" : "2025 KBO 리그 올스타전 특별 해설",
+        "type": "E"
+      },
+      {
+        "memname" : "Young K",
+        "color" : "#ff69b4",
+        "skddate" : "2025-09-26",
+        "title" : "KBS2 더 시즌즈 - 10CM의 쓰담쓰담",
+        "type": "S"
       }
     ]
   },
@@ -17,13 +25,15 @@
         "memname" : "채영",
         "color" : "#dc143c",
         "skddate" : "2025-07-09",
-        "title" : "단순노동"
+        "title" : "단순노동",
+        "type": "S"
       },
       {
         "memname" : "사나",
         "color" : "#ffb6c1",
         "skddate" : "2025-07-17",
-        "title" : "민주의 핑크 캐비닛"
+        "title" : "민주의 핑크 캐비닛",
+        "type": "S"
       }
     ]
   },
@@ -34,7 +44,8 @@
         "memname" : "리노",
         "color" : "#c3b091",
         "skddate" : "2025-05-16",
-        "title" : "MBC 나 혼자 산다"
+        "title" : "MBC 나 혼자 산다",
+        "type": "S"
       }
     ]
   },
@@ -45,361 +56,435 @@
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-01-27",
-        "title" : "KBS Cool FM 이은지의 가요광장"
+        "title" : "KBS Cool FM 이은지의 가요광장",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-01-28",
-        "title" : "KBS Cool FM 이은지의 가요광장"
+        "title" : "KBS Cool FM 이은지의 가요광장",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-01-22",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-01-29",
-        "title" : "KBS Cool FM 이은지의 가요광장"
+        "title" : "KBS Cool FM 이은지의 가요광장",
+        "type": "S"
       },
       {
         "memname" : "류진",
         "color" : "#b5ead7",
         "skddate" : "2025-02-05",
-        "title" : "스타!요리방 (Youtube)"
+        "title" : "스타!요리방 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-02-05",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-02-12",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "류진",
         "color" : "#b5ead7",
         "skddate" : "2025-02-14",
-        "title" : "MBC FM4U 친한친구 방송반"
+        "title" : "MBC FM4U 친한친구 방송반",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-02-19",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "류진",
         "color" : "#b5ead7",
         "skddate" : "2025-02-21",
-        "title" : "MBC FM4U 친한친구 방송반"
+        "title" : "MBC FM4U 친한친구 방송반",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-02-26",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "류진",
         "color" : "#b5ead7",
         "skddate" : "2025-02-28",
-        "title" : "MBC FM4U 친한친구 방송반"
+        "title" : "MBC FM4U 친한친구 방송반",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-03-05",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-07",
-        "title" : "띠집 (Youtube)"
+        "title" : "띠집 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "류진",
         "color" : "#b5ead7",
         "skddate" : "2025-03-07",
-        "title" : "MBC FM4U 친한친구 방송반"
+        "title" : "MBC FM4U 친한친구 방송반",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-10",
-        "title" : "SBS 파워FM 웬디의 영스트리트"
+        "title" : "SBS 파워FM 웬디의 영스트리트",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-13",
-        "title" : "Mnet 엠카운트다운"
+        "title" : "Mnet 엠카운트다운",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-13",
-        "title" : "KBS Cool FM 이은지의 가요광장"
+        "title" : "KBS Cool FM 이은지의 가요광장",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-14",
-        "title" : "KBS 뮤직뱅크"
+        "title" : "KBS 뮤직뱅크",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-14",
-        "title" : "it's Live (Youtube)"
+        "title" : "it's Live (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-15",
-        "title" : "MBC 쇼! 음악중심"
+        "title" : "MBC 쇼! 음악중심",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-15",
-        "title" : "마이리틀데이 (Youtube)"
+        "title" : "마이리틀데이 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-16",
-        "title" : "SBS 파워FM 두시탈출 컬투쇼"
+        "title" : "SBS 파워FM 두시탈출 컬투쇼",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-16",
-        "title" : "SBS 인기가요"
+        "title" : "SBS 인기가요",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-19",
-        "title" : "MBC FM4U 정오의 희망곡 김신영입니다"
+        "title" : "MBC FM4U 정오의 희망곡 김신영입니다",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-03-19",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-20",
-        "title" : "Mnet 엠카운트다운"
+        "title" : "Mnet 엠카운트다운",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-03-21",
-        "title" : "MUSINSA TV 현생님들 (Youtube)"
+        "title" : "MUSINSA TV 현생님들 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-21",
-        "title" : "하이슬기 (Youtube)"
+        "title" : "하이슬기 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-21",
-        "title" : "KBS 뮤직뱅크"
+        "title" : "KBS 뮤직뱅크",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-23",
-        "title" : "SBS 인기가요"
+        "title" : "SBS 인기가요",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-03-23",
-        "title" : "SBS 파워FM 박소현의 러브게임"
+        "title" : "SBS 파워FM 박소현의 러브게임",
+        "type": "S"
       },
       {
         "memname" : "리아",
         "color" : "#fcb1d4",
         "skddate" : "2025-03-24",
-        "title" : "트릭KODE (Youtube)"
+        "title" : "트릭KODE (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-03-26",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-03-28",
-        "title" : "MUSINSA TV 현생님들 (Youtube)"
+        "title" : "MUSINSA TV 현생님들 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-04-04",
-        "title" : "MUSINSA TV 현생님들 (Youtube)"
+        "title" : "MUSINSA TV 현생님들 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-04-09",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-04-11",
-        "title" : "MUSINSA TV 현생님들 (Youtube)"
+        "title" : "MUSINSA TV 현생님들 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-04-16",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-04-18",
-        "title" : "MUSINSA TV 현생님들 (Youtube)"
+        "title" : "MUSINSA TV 현생님들 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-04-23",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-04-25",
-        "title" : "MUSINSA TV 현생님들 (Youtube)"
+        "title" : "MUSINSA TV 현생님들 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-04-30",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-05-02",
-        "title" : "MUSINSA TV 현생님들 (Youtube)"
+        "title" : "MUSINSA TV 현생님들 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-05-07",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-05-09",
-        "title" : "MUSINSA TV 현생님들 (Youtube)"
+        "title" : "MUSINSA TV 현생님들 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-05-14",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-05-21",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-05-28",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-06-04",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "리아",
         "color" : "#fcb1d4",
         "skddate" : "2025-06-11",
-        "title" : "용타로 (Youtube)"
+        "title" : "용타로 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "유나",
         "color" : "#ffdac1",
         "skddate" : "2025-06-11",
-        "title" : "유난히빛이나 (Youtube)"
+        "title" : "유난히빛이나 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-06-12",
-        "title" : "SBS 꼬리에 꼬리를 무는 그날 이야기"
+        "title" : "SBS 꼬리에 꼬리를 무는 그날 이야기",
+        "type": "S"
       },
       {
         "memname" : "류진",
         "color" : "#b5ead7",
         "skddate" : "2025-06-13",
-        "title" : "띠집 (Youtube)"
+        "title" : "띠집 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "채령",
         "color" : "#c7ceea",
         "skddate" : "2025-06-15",
-        "title" : "딱대 (Youtube)"
+        "title" : "딱대 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "리아",
         "color" : "#fcb1d4",
         "skddate" : "2025-06-20",
-        "title" : "BYOB Season 3 (Youtube)"
+        "title" : "BYOB Season 3 (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "류진",
         "color" : "#b5ead7",
         "skddate" : "2025-06-25",
-        "title" : "셀폰KODE (Youtube)"
+        "title" : "셀폰KODE (Youtube)",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-07-11",
-        "title" : "KBS2 신상출시 편스토랑"
+        "title" : "KBS2 신상출시 편스토랑",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-07-25",
-        "title" : "KBS2 신상출시 편스토랑"
+        "title" : "KBS2 신상출시 편스토랑",
+        "type": "S"
       },
       {
         "memname" : "예지",
         "color" : "#fd5d5d",
         "skddate" : "2025-08-01",
-        "title" : "KBS2 신상출시 편스토랑"
+        "title" : "KBS2 신상출시 편스토랑",
+        "type": "S"
+      },
+      {
+        "memname" : "예지",
+        "color" : "#fd5d5d",
+        "skddate" : "2025-08-30",
+        "title" : "a-nation 2025",
+        "type": "E"
+      },
+      {
+        "memname" : "채령",
+        "color" : "#c7ceea",
+        "skddate" : "2025-09-05",
+        "title" : "으랏차차 밥차차 (Youtube)",
+        "type": "S"
       }
     ]
   },
@@ -410,79 +495,106 @@
         "memname" : "해원",
         "color" : "#f9c5d1",
         "skddate" : "2025-01-11",
-        "title" : "MBC 놀면 뭐하니?"
+        "title" : "MBC 놀면 뭐하니?",
+        "type": "S"
       },
       {
         "memname" : "설윤",
         "color" : "#d4c2fc",
         "skddate" : "2025-01-18",
-        "title" : "MBC 쇼!음악중심 MC"
+        "title" : "MBC 쇼!음악중심 MC",
+        "type": "S"
       },
       {
         "memname" : "해원",
         "color" : "#f9c5d1",
         "skddate" : "2025-01-18",
-        "title" : "MBC 놀면 뭐하니?"
+        "title" : "MBC 놀면 뭐하니?",
+        "type": "S"
       },
       {
         "memname" : "설윤",
         "color" : "#d4c2fc",
         "skddate" : "2025-01-25",
-        "title" : "MBC 쇼!음악중심 MC"
+        "title" : "MBC 쇼!음악중심 MC",
+        "type": "S"
       },
       {
         "memname" : "해원",
         "color" : "#f9c5d1",
         "skddate" : "2025-01-25",
-        "title" : "MBC 놀면 뭐하니?"
+        "title" : "MBC 놀면 뭐하니?",
+        "type": "S"
       },
       {
         "memname" : "설윤",
         "color" : "#d4c2fc",
         "skddate" : "2025-02-08",
-        "title" : "MBC 쇼!음악중심 MC"
+        "title" : "MBC 쇼!음악중심 MC",
+        "type": "S"
       },
       {
         "memname" : "설윤",
         "color" : "#d4c2fc",
         "skddate" : "2025-02-15",
-        "title" : "MBC 쇼!음악중심 MC"
+        "title" : "MBC 쇼!음악중심 MC",
+        "type": "S"
       },
       {
         "memname" : "해원",
         "color" : "#f9c5d1",
         "skddate" : "2025-03-07",
-        "title" : "KBS2 뮤직뱅크 MC"
+        "title" : "KBS2 뮤직뱅크 MC",
+        "type": "S"
       },
       {
         "memname" : "해원",
         "color" : "#f9c5d1",
         "skddate" : "2025-03-13",
-        "title" : "tvN 식스센스: 시티투어"
+        "title" : "tvN 식스센스: 시티투어",
+        "type": "S"
       },
       {
         "memname" : "해원",
         "color" : "#f9c5d1",
         "skddate" : "2025-03-22",
-        "title" : "KBS2 살림하는 남자들 시즌2"
+        "title" : "KBS2 살림하는 남자들 시즌2",
+        "type": "S"
       },
       {
         "memname" : "해원",
         "color" : "#f9c5d1",
         "skddate" : "2025-03-29",
-        "title" : "KBS2 살림하는 남자들 시즌2"
+        "title" : "KBS2 살림하는 남자들 시즌2",
+        "type": "S"
       },
       {
         "memname" : "규진",
         "color" : "#ffdac1",
         "skddate" : "2025-04-17",
-        "title" : "Mnet M COUNTDOWN MC"
+        "title" : "Mnet M COUNTDOWN MC",
+        "type": "S"
       },
       {
         "memname" : "해원",
         "color" : "#f9c5d1",
         "skddate" : "2025-05-05",
-        "title" : "JTBC 제61회 백상예술대상 with 구찌"
+        "title" : "JTBC 제61회 백상예술대상 with 구찌",
+        "type": "S"
+      },
+      {
+        "memname" : "해원",
+        "color" : "#f9c5d1",
+        "skddate" : "2025-08-20",
+        "title" : "2025 KBO리그 LG 트윈스 vs 롯데 자이언츠 - LG 트윈스 해원 시구",
+        "type": "E"
+      },
+      {
+        "memname" : "설윤",
+        "color" : "#d4c2fc",
+        "skddate" : "2025-09-27",
+        "title" : "2025 KBO리그 한화 이글스 vs LG 트윈스 - 한화 이글스 설윤 시구",
+        "type": "E"
       }
     ]
   },
@@ -493,7 +605,8 @@
         "memname" : "니나",
         "color" : "#7986cb",
         "skddate" : "2025-04-08",
-        "title" : "리무진서비스"
+        "title" : "리무진서비스",
+        "type": "S"
       }
     ]
   }

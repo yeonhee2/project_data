@@ -6,23 +6,53 @@
     "sd" : [
       {
         "name" : "제 39회 골든디스크 어워즈",
-        "start" : "2025-01-06",
-        "end" : "2025-01-07"
+        "gpsdate" : "2025-01-06",
+        "type": "E"
       },
       {
         "name" : "2024 MBC 가요대제전",
-        "start" : "2025-01-29",
-        "end" : "2025-01-31"
+        "gpsdate" : "2025-01-29",
+        "type": "S"
+      },
+      {
+        "name" : "2024 MBC 가요대제전",
+        "gpsdate" : "2025-01-30",
+        "type": "S"
       },
       {
         "name" : "MBC 굿데이",
-        "start" : "2025-04-06",
-        "end" : "2025-04-07"
+        "gpsdate" : "2025-04-06",
+        "type": "S"
       },
       {
         "name" : "2025 K-WONDER CONCERT IN TAIPEI",
-        "start" : "2025-06-14",
-        "end" : "2025-06-15"
+        "gpsdate" : "2025-06-14",
+        "type": "E"
+      },
+      {
+        "name" : "KBS2 1박 2일",
+        "gpsdate" : "2025-08-24",
+        "type": "S"
+      },
+      {
+        "name" : "KBS2 1박 2일",
+        "gpsdate" : "2025-08-31",
+        "type": "S"
+      },
+      {
+        "name" : "tvN 놀라운 토요일",
+        "gpsdate" : "2025-09-06",
+        "type": "S"
+      },
+      {
+        "name" : "KBS2 1박 2일",
+        "gpsdate" : "2025-09-07",
+        "type": "S"
+      },
+      {
+        "name" : "tvN 유 퀴즈 온 더 블럭",
+        "gpsdate" : "2025-09-10",
+        "type": "S"
       }
     ]
   },
@@ -33,58 +63,58 @@
     "sd" : [
       {
         "name" : "ONCE 5TH GENERATION RECRUITMENT Begins",
-        "start" : "2025-04-14",
-        "end" : "2025-04-15"
+        "gpsdate" : "2025-04-14",
+        "type": "R"
       },
       {
         "name" : "ONCE 5TH GENERATION RECRUITMENT Ends",
-        "start" : "2025-04-20",
-        "end" : "2025-04-21"
+        "gpsdate" : "2025-04-20",
+        "type": "R"
       },
       {
         "name" : "감별사 - 정연, 미나, 사나, 모모",
-        "start" : "2025-07-09",
-        "end" : "2025-07-10"
+        "gpsdate" : "2025-07-09",
+        "type": "S"
       },
       {
         "name" : "안고독한 소식가 - 나연, 지효",
-        "start" : "2025-07-11",
-        "end" : "2025-07-12"
+        "gpsdate" : "2025-07-11",
+        "type": "S"
       },
       {
         "name" : "뮤직뱅크",
-        "start" : "2025-07-11",
-        "end" : "2025-07-12"
+        "gpsdate" : "2025-07-11",
+        "type": "S"
       },
       {
         "name" : "핑계고 - 나연, 정연, 사나, 지효",
-        "start" : "2025-07-12",
-        "end" : "2025-07-13"
+        "gpsdate" : "2025-07-12",
+        "type": "S"
       },
       {
         "name" : "SBS 8 뉴스 - 나연, 정연, 지효",
-        "start" : "2025-07-12",
-        "end" : "2025-07-13"
+        "gpsdate" : "2025-07-12",
+        "type": "S"
       },
       {
         "name" : "쇼음악중심",
-        "start" : "2025-07-12",
-        "end" : "2025-07-13"
+        "gpsdate" : "2025-07-12",
+        "type": "S"
       },
       {
         "name" : "인기가요",
-        "start" : "2025-07-13",
-        "end" : "2025-07-14"
+        "gpsdate" : "2025-07-13",
+        "type": "S"
       },
       {
         "name" : "K-Pop ON! Video Podcas",
-        "start" : "2025-07-18",
-        "end" : "2025-07-19"
+        "gpsdate" : "2025-07-18",
+        "type": "S"
       },
       {
         "name" : "매점가요",
-        "start" : "2025-07-25",
-        "end" : "2025-07-26"
+        "gpsdate" : "2025-07-25",
+        "type": "S"
       }
     ]
   },
@@ -95,18 +125,118 @@
     "sd" : [
       {
         "name" : "2024 MBC 가요대제전",
-        "start" : "2025-01-30",
-        "end" : "2025-01-31"
+        "gpsdate" : "2025-01-30",
+        "type": "S"
+      },
+      {
+        "name" : "<KARMA SPORTS> PRE-LISTENING CEREMONY",
+        "gpsdate" : "2025-08-20",
+        "type": "E"
       },
       {
         "name" : "2025 K-WORLD DREAM AWARDS",
-        "start" : "2025-08-21",
-        "end" : "2025-08-22"
+        "gpsdate" : "2025-08-21",
+        "type": "E"
+      },
+      {
+        "name" : "KBS2 뮤직뱅크",
+        "gpsdate" : "2025-08-22",
+        "type": "S"
+      },
+      {
+        "name" : "MBC 쇼! 음악중심",
+        "gpsdate" : "2025-08-23",
+        "type": "S"
+      },
+      {
+        "name" : "SBS 인기가요",
+        "gpsdate" : "2025-08-24",
+        "type": "S"
+      },
+      {
+        "name" : "Mnet 엠카운트다운",
+        "gpsdate" : "2025-08-28",
+        "type": "S"
+      },
+      {
+        "name" : "Stray Kids(스트레이 키즈) 'KARMA' 발매 기념 VIDEO CALL & FANSIGN EVENT [뮤직플랜트]",
+        "gpsdate" : "2025-08-29",
+        "type": "E"
+      },
+      {
+        "name" : "KBS2 뮤직뱅크",
+        "gpsdate" : "2025-08-29",
+        "type": "S"
+      },
+      {
+        "name" : "Stray Kids(스트레이 키즈) 'KARMA' 발매 기념 VIDEO CALL & FANSIGN EVENT [뮤직코리아]",
+        "gpsdate" : "2025-08-30",
+        "type": "E"
+      },
+      {
+        "name" : "MBC 쇼! 음악중심",
+        "gpsdate" : "2025-08-30",
+        "type": "S"
+      },
+      {
+        "name" : "Stray Kids(스트레이 키즈) 'KARMA' 발매 기념 VIDEO CALL & FANSIGN EVENT [블루드림미디어]",
+        "gpsdate" : "2025-08-31",
+        "type": "E"
+      },
+      {
+        "name" : "SBS 인기가요",
+        "gpsdate" : "2025-08-31",
+        "type": "S"
+      },
+      {
+        "name" : "JTBC 톡파원 25시",
+        "gpsdate" : "2025-09-01",
+        "type": "S"
+      },
+      {
+        "name" : "Stray Kids(스트레이 키즈) 'KARMA' 발매 기념 VIDEO CALL & FANSIGN EVENT [애플뮤직]",
+        "gpsdate" : "2025-09-06",
+        "type": "E"
+      },
+      {
+        "name" : "Stray Kids(스트레이 키즈) 'KARMA' 발매 기념 VIDEO CALL & FANSIGN EVENT (국내 마지막) [사운드웨이브]",
+        "gpsdate" : "2025-09-07",
+        "type": "E"
+      },
+      {
+        "name" : "MBC 2시 뉴스 외전 (방찬, 리노, 한, 승민)",
+        "gpsdate" : "2025-09-12",
+        "type": "S"
+      },
+      {
+        "name" : "JTBC 냉장고를 부탁해 since 2014 (리노, 필릭스)",
+        "gpsdate" : "2025-09-14",
+        "type": "S"
       },
       {
         "name" : "2025 더팩트 뮤직 어워즈",
-        "start" : "2025-09-20",
-        "end" : "2025-09-21"
+        "gpsdate" : "2025-09-20",
+        "type": "E"
+      },
+      {
+        "name" : "JTBC 냉장고를 부탁해 since 2014 (리노, 필릭스)",
+        "gpsdate" : "2025-09-21",
+        "type": "S"
+      },
+      {
+        "name" : "대중문화교류위원회 출범식",
+        "gpsdate" : "2025-10-01",
+        "type": "E"
+      },
+      {
+        "name" : "ENA 2025 코리아 그랜드 뮤직 어워즈 (KGMA)",
+        "gpsdate" : "2025-11-15",
+        "type": "S"
+      },
+      {
+        "name" : "2025 Asia Artist Awards",
+        "gpsdate" : "2025-12-06",
+        "type": "E"
       }
     ]
   },
@@ -117,168 +247,168 @@
     "sd" : [
       {
         "name" : "2024 MBC 가요대제전",
-        "start" : "2025-01-30",
-        "end" : "2025-01-31"
+        "gpsdate" : "2025-01-30",
+        "type": "S"
       },
       {
         "name" : "유난히빛이나 (Youtube) - 예지, 유나",
-        "start" : "2025-03-12",
-        "end" : "2025-03-13"
+        "gpsdate" : "2025-03-12",
+        "type": "S"
       },
       {
         "name" : "아소전문학교그룹 presents TGC 쿠마모토 2025",
-        "start" : "2025-04-12",
-        "end" : "2025-04-13"
+        "gpsdate" : "2025-04-12",
+        "type": "E"
       },
       {
         "name" : "K-FLOW3 CONCERT",
-        "start" : "2025-04-26",
-        "end" : "2025-04-27"
+        "gpsdate" : "2025-04-26",
+        "type": "E"
       },
       {
         "name" : "UTO FEST GIRLS",
-        "start" : "2025-04-27",
-        "end" : "2025-04-28"
+        "gpsdate" : "2025-04-27",
+        "type": "E"
       },
       {
-        "name" : "서경대학교 대동제 (Blooming!)",
-        "start" : "2025-05-09",
-        "end" : "2025-05-10"
+        "name" : "서경대학교 대동제 'Blooming!'",
+        "gpsdate" : "2025-05-09",
+        "type": "E"
       },
       {
         "name" : "인하대학교 비룡제",
-        "start" : "2025-05-14",
-        "end" : "2025-05-15"
+        "gpsdate" : "2025-05-14",
+        "type": "E"
       },
       {
         "name" : "경희대학교 봄대동제 MASTERPEACE : 청춘",
-        "start" : "2025-05-16",
-        "end" : "2025-05-17"
+        "gpsdate" : "2025-05-16",
+        "type": "E"
       },
       {
         "name" : "서울과학기술대학교 2025 어의대동제",
-        "start" : "2025-05-16",
-        "end" : "2025-05-17"
+        "gpsdate" : "2025-05-16",
+        "type": "E"
       },
       {
-        "name" : "건국대학교 2025 일감호축전 (녹색지대: The Wave)",
-        "start" : "2025-05-22",
-        "end" : "2025-05-23"
+        "name" : "건국대학교 2025 일감호축전 '녹색지대: The Wave'",
+        "gpsdate" : "2025-05-22",
+        "type": "E"
       },
       {
         "name" : "제18회 부산항축제",
-        "start" : "2025-05-30",
-        "end" : "2025-05-31"
+        "gpsdate" : "2025-05-30",
+        "type": "E"
       },
       {
         "name" : "KBS2 슈퍼맨이 돌아왔다 - 예지, 채령",
-        "start" : "2025-06-04",
-        "end" : "2025-06-05"
+        "gpsdate" : "2025-06-04",
+        "type": "S"
       },
       {
         "name" : "KBS2 살림하는 남자들 시즌2 - 리아, 유나",
-        "start" : "2025-06-07",
-        "end" : "2025-06-08"
+        "gpsdate" : "2025-06-07",
+        "type": "S"
       },
       {
         "name" : "MBC FM4U 정오의 희망곡 김신영입니다",
-        "start" : "2025-06-10",
-        "end" : "2025-06-11"
+        "gpsdate" : "2025-06-10",
+        "type": "S"
       },
       {
         "name" : "Mnet 엠카운트다운",
-        "start" : "2025-06-12",
-        "end" : "2025-06-13"
+        "gpsdate" : "2025-06-12",
+        "type": "S"
       },
       {
         "name" : "KBS 뮤직뱅크",
-        "start" : "2025-06-13",
-        "end" : "2025-06-14"
+        "gpsdate" : "2025-06-13",
+        "type": "S"
       },
       {
         "name" : "MBC 쇼! 음악중심",
-        "start" : "2025-06-14",
-        "end" : "2025-06-15"
+        "gpsdate" : "2025-06-14",
+        "type": "S"
       },
       {
         "name" : "꼰대희 - 채령,유나",
-        "start" : "2025-06-14",
-        "end" : "2025-06-15"
+        "gpsdate" : "2025-06-14",
+        "type": "S"
       },
       {
         "name" : "SBS 파워FM 박소현의 러브게임",
-        "start" : "2025-06-15",
-        "end" : "2025-06-16"
+        "gpsdate" : "2025-06-15",
+        "type": "S"
       },
       {
         "name" : "SBS 인기가요",
-        "start" : "2025-06-15",
-        "end" : "2025-06-16"
+        "gpsdate" : "2025-06-15",
+        "type": "S"
       },
       {
         "name" : "Mnet 엠카운트다운",
-        "start" : "2025-06-19",
-        "end" : "2025-06-20"
+        "gpsdate" : "2025-06-19",
+        "type": "S"
       },
       {
         "name" : "SBS 파워FM 웬디의 영스트리트",
-        "start" : "2025-06-19",
-        "end" : "2025-06-20"
+        "gpsdate" : "2025-06-19",
+        "type": "S"
       },
       {
         "name" : "KBS 뮤직뱅크",
-        "start" : "2025-06-20",
-        "end" : "2025-06-21"
+        "gpsdate" : "2025-06-20",
+        "type": "S"
       },
       {
         "name" : "MyK FESTA",
-        "start" : "2025-06-21",
-        "end" : "2025-06-22"
+        "gpsdate" : "2025-06-21",
+        "type": "E"
       },
       {
         "name" : "MBC 쇼! 음악중심",
-        "start" : "2025-06-21",
-        "end" : "2025-06-22"
+        "gpsdate" : "2025-06-21",
+        "type": "S"
       },
       {
         "name" : "SBS 인기가요",
-        "start" : "2025-06-22",
-        "end" : "2025-06-23"
+        "gpsdate" : "2025-06-22",
+        "type": "S"
       },
       {
         "name" : "WATERBOMB SEOUL 2025",
-        "start" : "2025-07-04",
-        "end" : "2025-07-05"
+        "gpsdate" : "2025-07-04",
+        "type": "E"
       },
       {
         "name" : "TheNextwaveXX25 BEACH MUSIC FESTIVAL",
-        "start" : "2025-07-06",
-        "end" : "2025-07-07"
+        "gpsdate" : "2025-07-06",
+        "type": "E"
       },
       {
         "name" : "2025 SBS 가요대전 Summer",
-        "start" : "2025-07-26",
-        "end" : "2025-07-27"
+        "gpsdate" : "2025-07-26",
+        "type": "E"
       },
       {
         "name" : "FC 바르셀로나 2025 아시아투어 에디션 (관람, 컨텐츠 촬영)",
-        "start" : "2025-07-31",
-        "end" : "2025-08-01"
+        "gpsdate" : "2025-07-31",
+        "type": "E"
       },
       {
         "name" : "2025 TMElive International Music Awards",
-        "start" : "2025-08-23",
-        "end" : "2025-08-24"
-      },
-      {
-        "name" : "a-nation 2025",
-        "start" : "2025-08-30",
-        "end" : "2025-08-31"
+        "gpsdate" : "2025-08-23",
+        "type": "E"
       },
       {
         "name" : "Trendy Taipei KOREA GIRL'S POWER",
-        "start" : "2025-09-06",
-        "end" : "2025-09-07"
+        "gpsdate" : "2025-09-06",
+        "type": "E"
+      },
+      {
+        "name" : "2025 성균관대학교 ESKARA: 초록의 파도",
+        "gpsdate" : "2025-09-12",
+        "type": "E"
       }
     ]
   },
@@ -289,153 +419,183 @@
     "sd" : [
       {
         "name" : "2024 MBC 가요대제전",
-        "start" : "2025-01-29",
-        "end" : "2025-01-31"
+        "gpsdate" : "2025-01-29",
+        "type": "S"
+      },
+      {
+        "name" : "2024 MBC 가요대제전",
+        "gpsdate" : "2025-01-30",
+        "type": "S"
       },
       {
         "name" : "Mnet M COUNTDOWN",
-        "start" : "2025-03-20",
-        "end" : "2025-03-21"
+        "gpsdate" : "2025-03-20",
+        "type": "S"
       },
       {
         "name" : "KBS2 뮤직뱅크",
-        "start" : "2025-03-21",
-        "end" : "2025-03-22"
+        "gpsdate" : "2025-03-21",
+        "type": "S"
       },
       {
         "name" : "SBS 인기가요",
-        "start" : "2025-03-23",
-        "end" : "2025-03-24"
+        "gpsdate" : "2025-03-23",
+        "type": "S"
       },
       {
         "name" : "KBS2 개그콘서트 -설윤, 규진",
-        "start" : "2025-03-23",
-        "end" : "2025-03-24"
+        "gpsdate" : "2025-03-23",
+        "type": "S"
       },
       {
         "name" : "MBC FM4U 정오의 희망곡 김신영입니다",
-        "start" : "2025-03-24",
-        "end" : "2025-03-25"
+        "gpsdate" : "2025-03-24",
+        "type": "S"
       },
       {
         "name" : "SBS 파워FM 웬디의 영스트리트",
-        "start" : "2025-03-24",
-        "end" : "2025-03-25"
+        "gpsdate" : "2025-03-24",
+        "type": "S"
       },
       {
         "name" : "MBC M 쇼챔피언",
-        "start" : "2025-03-26",
-        "end" : "2025-03-27"
+        "gpsdate" : "2025-03-26",
+        "type": "S"
       },
       {
         "name" : "Mnet M COUNTDOWN",
-        "start" : "2025-03-27",
-        "end" : "2025-03-28"
+        "gpsdate" : "2025-03-27",
+        "type": "S"
       },
       {
         "name" : "KBS2 더 시즌즈 - 박보검의 칸타빌레",
-        "start" : "2025-03-28",
-        "end" : "2025-03-29"
+        "gpsdate" : "2025-03-28",
+        "type": "S"
       },
       {
         "name" : "MBC 쇼!음악중심",
-        "start" : "2025-03-29",
-        "end" : "2025-03-30"
+        "gpsdate" : "2025-03-29",
+        "type": "S"
       },
       {
         "name" : "SBS 인기가요",
-        "start" : "2025-03-30",
-        "end" : "2025-03-31"
+        "gpsdate" : "2025-03-30",
+        "type": "S"
       },
       {
         "name" : "KBS Cool FM 이은지의 가요광장",
-        "start" : "2025-04-01",
-        "end" : "2025-04-02"
+        "gpsdate" : "2025-04-01",
+        "type": "S"
       },
       {
         "name" : "MBC M 쇼챔피언",
-        "start" : "2025-04-02",
-        "end" : "2025-04-03"
+        "gpsdate" : "2025-04-02",
+        "type": "S"
       },
       {
         "name" : "Mnet M COUNTDOWN",
-        "start" : "2025-04-03",
-        "end" : "2025-04-04"
+        "gpsdate" : "2025-04-03",
+        "type": "S"
       },
       {
         "name" : "KBS2 뮤직뱅크",
-        "start" : "2025-04-04",
-        "end" : "2025-04-05"
+        "gpsdate" : "2025-04-04",
+        "type": "S"
       },
       {
         "name" : "MBC 쇼! 음악중심",
-        "start" : "2025-04-05",
-        "end" : "2025-04-06"
+        "gpsdate" : "2025-04-05",
+        "type": "S"
       },
       {
         "name" : "SBS 인기가요",
-        "start" : "2025-04-06",
-        "end" : "2025-04-07"
+        "gpsdate" : "2025-04-06",
+        "type": "S"
       },
       {
         "name" : "INGALIVE UNICON IN TOKYO DOME",
-        "start" : "2025-04-12",
-        "end" : "2025-04-13"
+        "gpsdate" : "2025-04-12",
+        "type": "E"
       },
       {
         "name" : "SBS 2025 인기가요 유니콘 in 도쿄돔",
-        "start" : "2025-04-27",
-        "end" : "2025-04-28"
+        "gpsdate" : "2025-04-27",
+        "type": "S"
       },
       {
         "name" : "서울스프링페스타 원더쇼",
-        "start" : "2025-04-30",
-        "end" : "2025-05-01"
+        "gpsdate" : "2025-04-30",
+        "type": "E"
       },
       {
         "name" : "KBS2 서울 스프링 페스타 2025 <서울원더쇼>",
-        "start" : "2025-05-04",
-        "end" : "2025-05-05"
+        "gpsdate" : "2025-05-04",
+        "type": "S"
       },
       {
         "name" : "2025 여주대학교 대축제 VITA",
-        "start" : "2025-05-14",
-        "end" : "2025-05-15"
+        "gpsdate" : "2025-05-14",
+        "type": "E"
       },
       {
         "name" : "2025 세종대학교 세종연회",
-        "start" : "2025-05-14",
-        "end" : "2025-05-15"
+        "gpsdate" : "2025-05-14",
+        "type": "E"
       },
       {
         "name" : "2025 KAIST 석림태울제",
-        "start" : "2025-05-15",
-        "end" : "2025-05-16"
+        "gpsdate" : "2025-05-15",
+        "type": "E"
       },
       {
         "name" : "2025 대전보건대학교 청운축제",
-        "start" : "2025-05-15",
-        "end" : "2025-05-16"
+        "gpsdate" : "2025-05-15",
+        "type": "E"
       },
       {
         "name" : "Mnet, tvN 라이브 와이어",
-        "start" : "2025-07-11",
-        "end" : "2025-07-12"
+        "gpsdate" : "2025-07-11",
+        "type": "S"
       },
       {
         "name" : "2025 SBS 가요대전 Summer",
-        "start" : "2025-07-26",
-        "end" : "2025-07-27"
+        "gpsdate" : "2025-07-26",
+        "type": "E"
       },
       {
         "name" : "KCON LA 2025",
-        "start" : "2025-08-02",
-        "end" : "2025-08-03"
+        "gpsdate" : "2025-08-02",
+        "type": "E"
       },
       {
         "name" : "2025 SBS 가요대전 Summer",
-        "start" : "2025-08-09",
-        "end" : "2025-08-10"
+        "gpsdate" : "2025-08-09",
+        "type": "S"
+      },
+      {
+        "name" : "Mnet KCON LA 2025",
+        "gpsdate" : "2025-08-26",
+        "type": "S"
+      },
+      {
+        "name" : "K-WAVE SUPER CONCERT LIVE IN KUALA LUMPUR",
+        "gpsdate" : "2025-08-31",
+        "type": "E"
+      },
+      {
+        "name" : "Trendy Taipei KOREA GIRL'S POWER",
+        "gpsdate" : "2025-09-06",
+        "type": "E"
+      },
+      {
+        "name" : "2025 더팩트 뮤직 어워즈",
+        "gpsdate" : "2025-09-20",
+        "type": "E"
+      },
+      {
+        "name" : "ENA 살롱드돌 : 너 참 말 많다 - 해원, 릴리",
+        "gpsdate" : "2025-10-10",
+        "type": "S"
       }
     ]
   },
@@ -446,84 +606,95 @@
     "sd" : [
       {
         "name" : "hello82 - 리마, 니나",
-        "start" : "2025-03-31",
-        "end" : "2025-04-01"
+        "gpsdate" : "2025-03-31",
+        "type": "S"
       },
       {
         "name" : "BE ORIGINAL - LOVE LINE (운명선) ",
-        "start" : "2025-04-02",
-        "end" : "2025-04-03"
+        "gpsdate" : "2025-04-02",
+        "type": "S"
       },
       {
         "name" : "IDOL RADIO",
-        "start" : "2025-04-02",
-        "end" : "2025-04-03"
+        "gpsdate" : "2025-04-02",
+        "type": "S"
       },
       {
         "name" : "잇츠라이브 - LOVE LINE (운명선) Band LIVE",
-        "start" : "2025-04-03",
-        "end" : "2025-04-04"
+        "gpsdate" : "2025-04-03",
+        "type": "S"
       },
       {
         "name" : "Mnet M COUNTDOWN",
-        "start" : "2025-04-03",
-        "end" : "2025-04-04"
+        "gpsdate" : "2025-04-03",
+        "type": "S"
       },
       {
         "name" : "MBC 쇼! 음악중심",
-        "start" : "2025-04-05",
-        "end" : "2025-04-06"
+        "gpsdate" : "2025-04-05",
+        "type": "S"
       },
       {
         "name" : "뮤플리",
-        "start" : "2025-04-05",
-        "end" : "2025-04-06"
+        "gpsdate" : "2025-04-05",
+        "type": "S"
       },
       {
         "name" : "SBS 인기가요",
-        "start" : "2025-04-06",
-        "end" : "2025-04-07"
+        "gpsdate" : "2025-04-06",
+        "type": "S"
       },
       {
         "name" : "딩고라이브 - 만약이라는 건 없어 (What if)",
-        "start" : "2025-04-07",
-        "end" : "2025-04-08"
+        "gpsdate" : "2025-04-07",
+        "type": "S"
       },
       {
         "name" : "MBC M 쇼챔피언",
-        "start" : "2025-04-09",
-        "end" : "2025-04-10"
+        "gpsdate" : "2025-04-09",
+        "type": "S"
       },
       {
         "name" : "Mnet M COUNTDOWN",
-        "start" : "2025-04-10",
-        "end" : "2025-04-11"
+        "gpsdate" : "2025-04-10",
+        "type": "S"
       },
       {
         "name" : "민주의 핑크 캐비닛 - 마코, 리쿠",
-        "start" : "2025-04-10",
-        "end" : "2025-04-11"
+        "gpsdate" : "2025-04-10",
+        "type": "S"
       },
       {
         "name" : "KBS2 뮤직뱅크",
-        "start" : "2025-04-11",
-        "end" : "2025-04-12"
+        "gpsdate" : "2025-04-11",
+        "type": "S"
       },
       {
         "name" : "MBC 쇼! 음악중심",
-        "start" : "2025-04-12",
-        "end" : "2025-04-13"
+        "gpsdate" : "2025-04-12",
+        "type": "S"
       },
       {
         "name" : "BE ORIGINAL 비하인드",
-        "start" : "2025-04-19",
-        "end" : "2025-04-20"
+        "gpsdate" : "2025-04-19",
+        "type": "S"
       },
       {
         "name" : "SBS 인기가요",
-        "start" : "2025-04-27",
-        "end" : "2025-04-28"
+        "gpsdate" : "2025-04-27",
+        "type": "S"
+      },
+      {
+        "name" : "SBS 인기가요",
+        "gpsdate" : "2025-04-27",
+        "type": "S"
+      },
+      {
+        "name" : "MBC 쇼! 음악중심 in JAPAN",
+        "gpsdate" : "2025-08-01",
+        "type": "S"
       }
+      
     ]
   }
 ]

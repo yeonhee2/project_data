@@ -7,158 +7,278 @@
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "대만",
-        "start" : "2025-01-18",
-        "end" : "2025-01-20"
+        "date" : "2025-01-18",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "대만",
+        "date" : "2025-01-19",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "홍콩",
-        "start" : "2025-01-25",
-        "end" : "2025-01-27"
+        "date" : "2025-01-25",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "홍콩",
+        "date" : "2025-01-26",
+        "type": "E"
       },
       {  
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "부산",
-        "start" : "2025-02-01",
-        "end" : "2025-02-03"
+        "date" : "2025-02-01",
+        "type": "E"
+      },
+      {  
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "부산",
+        "date" : "2025-02-02",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "오사카",
-        "start" : "2025-02-12",
-        "end" : "2025-02-14"
+        "date" : "2025-02-12",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "오사카",
+        "date" : "2025-02-13",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "도쿄",
-        "start" : "2025-02-15",
-        "end" : "2025-02-17"
+        "date" : "2025-02-15",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "도쿄",
+        "date" : "2025-02-16",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "마닐라",
-        "start" : "2025-02-22",
-        "end" : "2025-02-23"
+        "date" : "2025-02-22",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "대전",
-        "start" : "2025-03-02",
-        "end" : "2025-03-04"
+        "date" : "2025-03-02",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "대전",
+        "date" : "2025-03-03",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "광주",
-        "start" : "2025-03-15",
-        "end" : "2025-03-17"
+        "date" : "2025-03-15",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "광주",
+        "date" : "2025-03-16",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "대구",
-        "start" : "2025-03-29",
-        "end" : "2025-03-31"
+        "date" : "2025-03-29",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "대구",
+        "date" : "2025-03-30",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "시드니",
-        "start" : "2025-04-06",
-        "end" : "2025-04-08"
+        "date" : "2025-04-06",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "시드니",
+        "date" : "2025-04-07",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "멜버른",
-        "start" : "2025-04-09",
-        "end" : "2025-04-10"
+        "date" : "2025-04-09",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "오클랜드",
-        "start" : "2025-04-12",
-        "end" : "2025-04-13"
+        "date" : "2025-04-12",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "로스앤젤레스",
-        "start" : "2025-04-16",
-        "end" : "2025-04-18"
+        "date" : "2025-04-16",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "로스앤젤레스",
+        "date" : "2025-04-17",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "뉴욕",
-        "start" : "2025-04-19",
-        "end" : "2025-04-20"
+        "date" : "2025-04-19",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "요코하마",
-        "start" : "2025-04-26",
-        "end" : "2025-04-28"
+        "date" : "2025-04-26",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "요코하마",
+        "date" : "2025-04-27",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "자카르타",
-        "start" : "2025-05-03",
-        "end" : "2025-05-04"
+        "date" : "2025-05-03",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "서울",
-        "start" : "2025-05-09",
-        "end" : "2025-05-12"
+        "date" : "2025-05-09",
+        "type": "E"
       },
       {
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "서울",
-        "start" : "2025-05-16",
-        "end" : "2025-05-19"
+        "date" : "2025-05-10",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "서울",
+        "date" : "2025-05-11",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "서울",
+        "date" : "2025-05-16",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "서울",
+        "date" : "2025-05-17",
+        "type": "E"
+      },
+      {
+        "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
+        "country" : "서울",
+        "date" : "2025-05-18",
+        "type": "E"
       },
       {
         "title" : "4TH FANMEETING <PIER 10: All My Days>",
         "country" : "서울",
-        "start" : "2025-07-18",
-        "end" : "2025-07-21"
+        "date" : "2025-07-18",
+        "type": "E"
       },
       {
         "title" : "4TH FANMEETING <PIER 10: All My Days>",
         "country" : "서울",
-        "start" : "2025-07-25",
-        "end" : "2025-07-28"
+        "date" : "2025-07-19",
+        "type": "E"
+      },
+      {
+        "title" : "4TH FANMEETING <PIER 10: All My Days>",
+        "country" : "서울",
+        "date" : "2025-07-20",
+        "type": "E"
+      },
+      {
+        "title" : "4TH FANMEETING <PIER 10: All My Days>",
+        "country" : "서울",
+        "date" : "2025-07-25",
+        "type": "E"
+      },
+      {
+        "title" : "4TH FANMEETING <PIER 10: All My Days>",
+        "country" : "서울",
+        "date" : "2025-07-26",
+        "type": "E"
+      },
+      {
+        "title" : "4TH FANMEETING <PIER 10: All My Days>",
+        "country" : "서울",
+        "date" : "2025-07-27",
+        "type": "E"
       },
       {
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "고양",
-        "start" : "2025-08-30",
-        "end" : "2025-09-01"
+        "date" : "2025-08-30",
+        "type": "E"
+      },
+      {
+        "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
+        "country" : "고양",
+        "date" : "2025-08-31",
+        "type": "E"
       },
       {
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "방콕",
-        "start" : "2025-09-27",
-        "end" : "2025-09-28"
+        "date" : "2025-09-27",
+        "type": "E"
       },
       {
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "호치민",
-        "start" : "2025-10-18",
-        "end" : "2025-10-19"
+        "date" : "2025-10-18",
+        "type": "E"
       },
       {
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "홍콩",
-        "start" : "2026-01-17",
-        "end" : "2026-01-18"
+        "date" : "2026-01-17",
+        "type": "E"
       },
       {
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "마닐라",
-        "start" : "2026-01-24",
-        "end" : "2026-01-25"
+        "date" : "2026-01-24",
+        "type": "E"
       },
       {
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "쿠알라룸푸르",
-        "start" : "2026-01-31",
-        "end" : "2026-02-01"
+        "date" : "2026-01-31",
+        "type": "E"
       }
     ]
   },
@@ -170,272 +290,386 @@
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "인천",
-        "start" : "2025-07-19",
-        "end" : "2025-07-21"
+        "date" : "2025-07-19",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "인천",
+        "date" : "2025-07-20",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "오사카",
-        "start" : "2025-07-26",
-        "end" : "2025-07-28"
+        "date" : "2025-07-26",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "오사카",
+        "date" : "2025-07-27",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "아이치",
-        "start" : "2025-08-23",
-        "end" : "2025-08-25"
+        "date" : "2025-08-23",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "아이치",
+        "date" : "2025-08-24",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "후쿠오카",
-        "start" : "2025-08-30",
-        "end" : "2025-09-01"
+        "date" : "2025-08-30",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "후쿠오카",
+        "date" : "2025-08-31",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "도쿄",
-        "start" : "2025-09-16",
-        "end" : "2025-09-18"
+        "date" : "2025-09-16",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "도쿄",
+        "date" : "2025-09-17",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "마카오",
-        "start" : "2025-09-27",
-        "end" : "2025-09-29"
+        "date" : "2025-09-27",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "마카오",
+        "date" : "2025-09-28",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "필리핀",
-        "start" : "2025-10-04",
-        "end" : "2025-10-05"
+        "date" : "2025-10-04",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "싱가포르",
-        "start" : "2025-10-11",
-        "end" : "2025-10-13"
+        "date" : "2025-10-11",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "싱가포르",
+        "date" : "2025-10-12",
+        "type": "E"
       },
        {
         "title" : "FANMEETING 10VE UNIVERSE",
         "country" : "서울",
-        "start" : "2025-10-18",
-        "end" : "2025-10-19"
+        "date" : "2025-10-18",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "말레이시아",
+        "date" : "2025-10-25",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "시드니",
-        "start" : "2025-11-01",
-        "end" : "2025-11-03"
+        "date" : "2025-11-01",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "시드니",
+        "date" : "2025-11-02",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "멜버른",
-        "start" : "2025-11-08",
-        "end" : "2025-11-10"
+        "date" : "2025-11-08",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "멜버른",
+        "date" : "2025-11-09",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "대만",
-        "start" : "2025-11-22",
-        "end" : "2025-11-23"
+        "date" : "2025-11-22",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "대만",
+        "date" : "2025-11-23",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "홍콩",
-        "start" : "2025-12-06",
-        "end" : "2025-12-07"
+        "date" : "2025-12-06",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "홍콩",
+        "date" : "2025-12-07",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "방콕",
-        "start" : "2025-12-13",
-        "end" : "2025-12-15"
+        "date" : "2025-12-13",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "방콕",
+        "date" : "2025-12-14",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "벤쿠버",
-        "start" : "2026-01-09",
-        "end" : "2026-01-10"
+        "date" : "2026-01-09",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "시애틀",
-        "start" : "2026-01-13",
-        "end" : "2026-01-14"
+        "date" : "2026-01-13",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "오클랜드",
-        "start" : "2026-01-17",
-        "end" : "2026-01-19"
+        "date" : "2026-01-17",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "오클랜드",
+        "date" : "2026-01-18",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "로스앤젤레스",
-        "start" : "2026-01-22",
-        "end" : "2026-01-23"
+        "date" : "2026-01-22",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "로스앤젤레스",
-        "start" : "2026-01-24",
-        "end" : "2026-01-26"
+        "date" : "2026-01-24",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "로스앤젤레스",
+        "date" : "2026-01-25",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "피닉스",
-        "start" : "2026-01-28",
-        "end" : "2026-01-29"
+        "date" : "2026-01-28",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "댈러스",
-        "start" : "2026-01-31",
-        "end" : "2026-02-01"
+        "date" : "2026-01-31",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "워싱턴 D.C.",
-        "start" : "2026-02-13",
-        "end" : "2026-02-15"
+        "date" : "2026-02-13",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "워싱턴 D.C.",
+        "date" : "2026-02-14",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "뉴욕",
-        "start" : "2026-02-18",
-        "end" : "2026-02-19"
+        "date" : "2026-02-18",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "뉴욕",
-        "start" : "2026-02-20",
-        "end" : "2026-02-21"
+        "date" : "2026-02-20",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "필라델피아",
-        "start" : "2026-02-24",
-        "end" : "2026-02-25"
+        "date" : "2026-02-24",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "애틀랜타",
         "start" : "2026-02-27",
-        "end" : "2026-02-28"
-      },
-      {
-        "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "뉴욕",
-        "start" : "2026-02-18",
-        "end" : "2026-02-19"
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "몬트리올",
-        "start" : "2026-03-03",
-        "end" : "2026-03-04"
+        "date" : "2026-03-03",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "해밀턴",
-        "start" : "2026-03-06",
-        "end" : "2026-03-08"
+        "date" : "2026-03-06",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "해밀턴",
+        "date" : "2026-03-07",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "타이베이",
-        "start" : "2026-03-21",
-        "end" : "2026-03-22"
+        "date" : "2026-03-21",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "올랜도",
-        "start" : "2026-03-27",
-        "end" : "2026-03-29"
+        "date" : "2026-03-27",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "올랜도",
+        "date" : "2026-03-28",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "샬럿",
-        "start" : "2026-03-31",
-        "end" : "2026-04-01"
+        "date" : "2026-03-31",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "보스턴",
-        "start" : "2026-04-03",
-        "end" : "2026-04-05"
+        "date" : "2026-04-03",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "보스턴",
+        "date" : "2026-04-04",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "시카고",
-        "start" : "2026-04-06",
-        "end" : "2026-04-07"
+        "date" : "2026-04-06",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "디트로이트",
-        "start" : "2026-04-10",
-        "end" : "2026-04-11"
+        "date" : "2026-04-10",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "세인트폴",
-        "start" : "2026-04-12",
-        "end" : "2026-04-13"
+        "date" : "2026-04-12",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "덴버",
-        "start" : "2026-04-14",
-        "end" : "2026-04-15"
+        "date" : "2026-04-14",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "오스틴",
-        "start" : "2026-04-17",
-        "end" : "2026-04-17"
+        "date" : "2026-04-17",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "리스본",
-        "start" : "2026-05-09",
-        "end" : "2026-05-10"
+        "date" : "2026-05-09",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "바르셀로나",
-        "start" : "2026-05-12",
-        "end" : "2026-05-13"
+        "date" : "2026-05-12",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "파리",
-        "start" : "2026-05-16",
-        "end" : "2026-05-17"
+        "date" : "2026-05-16",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "베를린",
-        "start" : "2026-05-23",
-        "end" : "2026-05-24"
+        "date" : "2026-05-23",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "쾰른",
-        "start" : "2026-05-26",
-        "end" : "2026-05-27"
+        "date" : "2026-05-26",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "암스테르담",
-        "start" : "2026-05-30",
-        "end" : "2026-05-31"
+        "date" : "2026-05-30",
+        "type": "E"
       },
       {
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "런던",
-        "start" : "2026-06-03",
-        "end" : "2026-06-05"
+        "date" : "2026-06-03",
+        "type": "E"
+      },
+      {
+        "title" : "6TH WORLD TOUR <THIS IS FOR>",
+        "country" : "런던",
+        "date" : "2026-06-04",
+        "type": "E"
       }
       
     ]
@@ -448,152 +682,248 @@
       {
         "title" : "World Tour <dominATE>",
         "country" : "홍콩",
-        "start" : "2025-01-18",
-        "end" : "2025-01-20"
+        "date" : "2025-01-18",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "홍콩",
+        "date" : "2025-01-19",
+        "type": "E"
       },
       {
         "title" : "5TH FANMEETING <SKZ 5'CLOCK>",
         "country" : "인천",
-        "start" : "2025-02-14",
-        "end" : "2025-02-17"
+        "date" : "2025-02-14",
+        "type": "E"
+      },
+      {
+        "title" : "5TH FANMEETING <SKZ 5'CLOCK>",
+        "country" : "인천",
+        "date" : "2025-02-15",
+        "type": "E"
+      },
+      {
+        "title" : "5TH FANMEETING <SKZ 5'CLOCK>",
+        "country" : "인천",
+        "date" : "2025-02-16",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
-        "country" : "칠레",
-        "start" : "2025-03-27",
-        "end" : "2025-03-29"
+        "country" : "산티아고",
+        "date" : "2025-03-27",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "산티아고",
+        "date" : "2025-03-28",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "리우데자네이루",
-        "start" : "2025-04-01",
-        "end" : "2025-04-02"
+        "date" : "2025-04-01",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "상파울루",
-        "start" : "2025-04-05",
-        "end" : "2025-04-07"
+        "date" : "2025-04-05",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "상파울루",
+        "date" : "2025-04-06",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "페루",
-        "start" : "2025-04-09",
-        "end" : "2025-04-10"
+        "date" : "2025-04-09",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "멕시코",
-        "start" : "2025-04-12",
-        "end" : "2025-04-14"
+        "date" : "2025-04-12",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "멕시코",
+        "date" : "2025-04-13",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "시즈오카",
-        "start" : "2025-05-10",
-        "end" : "2025-05-12"
+        "date" : "2025-05-10",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "시즈오카",
-        "start" : "2025-05-17",
-        "end" : "2025-05-19"
+        "date" : "2025-05-11",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "시즈오카",
+        "date" : "2025-05-17",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "시즈오카",
+        "date" : "2025-05-18",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "시애틀",
-        "start" : "2025-05-24",
-        "end" : "2025-05-25"
+        "date" : "2025-05-24",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "샌프란시스코",
-        "start" : "2025-05-28",
-        "end" : "2025-05-29"
+        "date" : "2025-05-28",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "로스앤젤레스",
-        "start" : "2025-05-31",
-        "end" : "2025-06-02"
+        "date" : "2025-05-31",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "로스앤젤레스",
+        "date" : "2025-06-01",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "알링턴",
-        "start" : "2025-06-06",
-        "end" : "2025-06-08"
+        "date" : "2025-06-06",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "알링턴",
+        "date" : "2025-06-07",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "애틀랜타",
-        "start" : "2025-06-10",
-        "end" : "2025-06-11"
+        "date" : "2025-06-10",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "올랜도",
-        "start" : "2025-06-14",
-        "end" : "2025-06-15"
+        "date" : "2025-06-14",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "뉴욕",
-        "start" : "2025-06-18",
-        "end" : "2025-06-20"
+        "date" : "2025-06-18",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "뉴욕",
+        "date" : "2025-06-19",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "워싱턴 D.C.",
-        "start" : "2025-06-23",
-        "end" : "2025-06-24"
+        "date" : "2025-06-23",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "시카고",
-        "start" : "2025-06-26",
-        "end" : "2025-06-27"
+        "date" : "2025-06-26",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "토론토",
-        "start" : "2025-06-29",
-        "end" : "2025-06-30"
+        "date" : "2025-06-29",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
-        "country" : "네덜란드",
-        "start" : "2025-07-11",
-        "end" : "2025-07-12"
+        "country" : "암스테르담",
+        "date" : "2025-07-11",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "독일",
-        "start" : "2025-07-15",
-        "end" : "2025-07-16"
+        "date" : "2025-07-15",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
-        "country" : "영국",
-        "start" : "2025-07-18",
-        "end" : "2025-07-20"
+        "country" : "런던",
+        "date" : "2025-07-18",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
-        "country" : "스페인",
-        "start" : "2025-07-22",
-        "end" : "2025-07-24"
+        "country" : "런던",
+        "date" : "2025-07-19",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
-        "country" : "프랑스",
-        "start" : "2025-07-26",
-        "end" : "2025-07-28"
+        "country" : "마드리드",
+        "date" : "2025-07-22",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "마드리드",
+        "date" : "2025-07-23",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "파리",
+        "date" : "2025-07-26",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE>",
+        "country" : "파리",
+        "date" : "2025-07-27",
+        "type": "E"
       },
       {
         "title" : "World Tour <dominATE>",
         "country" : "이탈리아",
-        "start" : "2025-07-30",
-        "end" : "2025-07-31"
+        "date" : "2025-07-30",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE> (ENCORE)",
+        "country" : "인천",
+        "date" : "2025-10-18",
+        "type": "E"
+      },
+      {
+        "title" : "World Tour <dominATE> (ENCORE)",
+        "country" : "인천",
+        "date" : "2025-10-19",
+        "type": "E"
       }
     ]
   },
@@ -605,14 +935,20 @@
       {
         "title" : "4th Fan Meeting 있지 믿지, 날자! <ON AIR>",
         "country" : "서울",
-        "start" : "2025-09-20",
-        "end" : "2025-09-21"
+        "date" : "2025-09-20",
+        "type": "E"
       },
       {
         "title" : "4th Fan Meeting 있지 믿지, 날자! <ON AIR>",
         "country" : "도쿄",
-        "start" : "2025-10-11",
-        "end" : "2025-10-13"
+        "date" : "2025-10-11",
+        "type": "E"
+      },
+      {
+        "title" : "4th Fan Meeting 있지 믿지, 날자! <ON AIR>",
+        "country" : "도쿄",
+        "date" : "2025-10-12",
+        "type": "E"
       }
     ]
   },
@@ -624,86 +960,128 @@
       {
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "도쿄",
-        "start" : "2025-01-11",
-        "end" : "2025-01-13"
-      },
-      {
-        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "멕시코",
-        "start" : "2025-02-19",
-        "end" : "2025-02-21"
-      },
-      {
-        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "산티아고",
-        "start" : "2025-02-22",
-        "end" : "2025-02-24"
-      },
-      {
-        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "상파울루",
-        "start" : "2025-02-28",
-        "end" : "2025-03-01"
-      },
-      {
-        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "대만",
-        "start" : "2025-04-19",
-        "end" : "2025-04-21"
-      },
-      {
-        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "홍콩",
-        "start" : "2025-04-26",
-        "end" : "2025-04-27"
-      },
-      {
-        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "마닐라",
-        "start" : "2025-05-02",
-        "end" : "2025-05-03"
-      },
-      {
-        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "방콕",
-        "start" : "2025-05-04",
-        "end" : "2025-05-05"
+        "date" : "2025-01-11",
+        "type": "E"
       },
       {
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "도쿄",
-        "start" : "2025-05-31",
-        "end" : "2025-06-02"
+        "date" : "2025-01-12",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "멕시코",
+        "date" : "2025-02-19",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "멕시코",
+        "date" : "2025-02-20",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "산티아고",
+        "date" : "2025-02-22",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "산티아고",
+        "date" : "2025-02-23",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "상파울루",
+        "date" : "2025-02-28",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "타이베이",
+        "date" : "2025-04-19",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "타이베이",
+        "date" : "2025-04-20",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "홍콩",
+        "date" : "2025-04-26",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "마닐라",
+        "date" : "2025-05-02",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "방콕",
+        "date" : "2025-05-04",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "도쿄",
+        "date" : "2025-05-31",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "도쿄",
+        "date" : "2025-06-01",
+        "type": "E"
       },
       {
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "멜버른",
-        "start" : "2025-06-06",
-        "end" : "2025-06-07"
+        "date" : "2025-06-06",
+        "type": "E"
       },
       {
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "시드니",
-        "start" : "2025-06-08",
-        "end" : "2025-06-09"
+        "date" : "2025-06-08",
+        "type": "E"
       },
       {
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "마카오",
-        "start" : "2025-06-28",
-        "end" : "2025-06-30"
+        "date" : "2025-06-28",
+        "type": "E"
+      },
+      {
+        "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
+        "country" : "마카오",
+        "date" : "2025-06-29",
+        "type": "E"
       },
       {
         "title" : "1ST FAN MEETING <NSWER VACATION>",
         "country" : "서울",
-        "start" : "2025-07-12",
-        "end" : "2025-07-13"
+        "date" : "2025-07-12",
+        "type": "E"
       },
       {
         "title" : "1ST CONCERT <미정>",
         "country" : "미정",
-        "start" : "2025-11-29",
-        "end" : "2025-12-01"
+        "date" : "2025-11-29",
+        "type": "E"
+      },
+      {
+        "title" : "1ST CONCERT <미정>",
+        "country" : "미정",
+        "date" : "2025-11-30",
+        "type": "E"
       }
     ]
   },
@@ -715,176 +1093,266 @@
       {
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
         "country" : "도쿄도",
-        "start" : "2025-01-08",
-        "end" : "2025-01-10"
+        "date" : "2025-01-08",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
         "country" : "도쿄도",
-        "start" : "2025-01-11",
-        "end" : "2025-01-13"
+        "date" : "2025-01-09",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2024-2025 AWAKE",
+        "country" : "도쿄도",
+        "date" : "2025-01-11",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2024-2025 AWAKE",
+        "country" : "도쿄도",
+        "date" : "2025-01-12",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
         "country" : "오사카",
-        "start" : "2025-01-21",
-        "end" : "2025-01-23"
+        "date" : "2025-01-21",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2024-2025 AWAKE",
+        "country" : "오사카",
+        "date" : "2025-01-22",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
         "country" : "미야기현",
-        "start" : "2025-02-08",
-        "end" : "2025-02-10"
+        "date" : "2025-02-08",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2024-2025 AWAKE",
+        "country" : "미야기현",
+        "date" : "2025-02-09",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
         "country" : "아이치현",
-        "start" : "2025-02-15",
-        "end" : "2025-02-17"
+        "date" : "2025-02-15",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2024-2025 AWAKE",
+        "country" : "아이치현",
+        "date" : "2025-02-16",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
         "country" : "후쿠오카",
-        "start" : "2025-02-22",
-        "end" : "2025-02-24"
+        "date" : "2025-02-22",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2024-2025 AWAKE",
+        "country" : "후쿠오카",
+        "date" : "2025-02-23",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "도쿄도",
-        "start" : "2025-09-06",
-        "end" : "2025-09-08"
+        "date" : "2025-09-06",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
+        "country" : "도쿄도",
+        "date" : "2025-09-07",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "미야기현",
-        "start" : "2025-09-13",
-        "end" : "2025-09-15"
+        "date" : "2025-09-13",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
+        "country" : "미야기현",
+        "date" : "2025-09-14",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "아오모리현",
-        "start" : "2025-09-19",
-        "end" : "2025-09-20"
+        "date" : "2025-09-19",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "이와테현",
-        "start" : "2025-09-20",
-        "end" : "2025-09-21"
+        "date" : "2025-09-20",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "도치기현",
-        "start" : "2025-09-23",
-        "end" : "2025-09-24"
+        "date" : "2025-09-23",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "시즈오카현",
-        "start" : "2025-09-25",
-        "end" : "2025-09-26"
+        "date" : "2025-09-25",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "시가현",
-        "start" : "2025-09-27",
-        "end" : "2025-09-29"
+        "date" : "2025-09-27",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
+        "country" : "시가현",
+        "date" : "2025-09-28",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "나가노현",
-        "start" : "2025-10-02",
-        "end" : "2025-10-03"
+        "date" : "2025-10-02",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "이시카와현",
-        "start" : "2025-10-04",
-        "end" : "2025-10-06"
+        "date" : "2025-10-04",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
+        "country" : "이시카와현",
+        "date" : "2025-10-05",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "오이타현",
-        "start" : "2025-10-09",
-        "end" : "2025-10-10"
+        "date" : "2025-10-09",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "구마모토현",
-        "start" : "2025-10-11",
-        "end" : "2025-10-12"
+        "date" : "2025-10-11",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "가고시마현",
-        "start" : "2025-10-12",
-        "end" : "2025-10-13"
+        "date" : "2025-10-12",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "도쿄도",
-        "start" : "2025-10-18",
-        "end" : "2025-10-20"
+        "date" : "2025-10-18",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
+        "country" : "도쿄도",
+        "date" : "2025-10-19",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "사이타마현",
-        "start" : "2025-10-21",
-        "end" : "2025-10-23"
+        "date" : "2025-10-21",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
+        "country" : "사이타마현",
+        "date" : "2025-10-22",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "히로시마현",
-        "start" : "2025-10-25",
-        "end" : "2025-10-27"
+        "date" : "2025-10-25",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
+        "country" : "히로시마현",
+        "date" : "2025-10-26",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "미에현",
-        "start" : "2025-10-28",
-        "end" : "2025-10-29"
+        "date" : "2025-10-28",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "효고현",
-        "start" : "2025-10-30",
-        "end" : "2025-11-01"
+        "date" : "2025-10-30",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
+        "country" : "효고현",
+        "date" : "2025-10-31",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "군마현",
-        "start" : "2025-11-02",
-        "end" : "2025-11-03"
+        "date" : "2025-11-02",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "교토부",
-        "start" : "2025-11-06",
-        "end" : "2025-11-07"
+        "date" : "2025-11-06",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "카가와현",
-        "start" : "2025-11-07",
-        "end" : "2025-11-08"
+        "date" : "2025-11-07",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "돗토리현",
-        "start" : "2025-11-15",
-        "end" : "2025-11-16"
+        "date" : "2025-11-15",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "오카야마현",
-        "start" : "2025-11-16",
-        "end" : "2025-11-17"
+        "date" : "2025-11-16",
+        "type": "E"
       },
       {
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "도쿄도",
-        "start" : "2025-11-22",
-        "end" : "2025-11-24"
+        "date" : "2025-11-22",
+        "type": "E"
+      },
+      {
+        "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
+        "country" : "도쿄도",
+        "date" : "2025-11-23",
+        "type": "E"
       }
     ]
   }
