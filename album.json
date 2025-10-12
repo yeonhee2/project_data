@@ -8,7 +8,8 @@
         "fontcolor" : "#FFFFFF",
         "musicformats" : "Digital Single",
         "albumname" : "Maybe Tomorrow",
-        "Releasedate" : "2025-05-07"
+        "Releasedate" : "2025-05-07",
+        "type": "R"
       },
       {
         "groupsolo" : "DAY6",
@@ -16,7 +17,8 @@
         "fontcolor" : "#FFFFFF",
         "musicformats" : "Album",
         "albumname" : "The DECADE",
-        "Releasedate" : "2025-09-05"
+        "Releasedate" : "2025-09-05",
+        "type": "R"
       }
     ]
   },
@@ -29,7 +31,8 @@
         "fontcolor" : "#000000",
         "musicformats" : "ost",
         "albumname" : "Takedown",
-        "Releasedate" : "2025-06-20"
+        "Releasedate" : "2025-06-20",
+        "type": "R"
       },
       {
         "groupsolo" : "TWICE",
@@ -37,7 +40,8 @@
         "fontcolor" : "#000000",
         "musicformats" : "Album",
         "albumname" : "This Is For",
-        "Releasedate" : "2025-07-11"
+        "Releasedate" : "2025-07-11",
+        "type": "R"
       },
       {
         "groupsolo" : "TWICE",
@@ -45,7 +49,8 @@
         "fontcolor" : "#000000",
         "musicformats" : "Album Deluxe",
         "albumname" : "THIS IS FOR DELUXE",
-        "Releasedate" : "2025-07-14"
+        "Releasedate" : "2025-07-14",
+        "type": "R"
       },
       {
         "groupsolo" : "채영",
@@ -53,7 +58,8 @@
         "fontcolor" : "#ffffff",
         "musicformats" : "Album",
         "albumname" : "LIL FANTASY vol.1",
-        "Releasedate" : "2025-09-12"
+        "Releasedate" : "2025-09-12",
+        "type": "R"
       },
       {
         "groupsolo" : "TWICE",
@@ -61,7 +67,8 @@
         "fontcolor" : "#000000",
         "musicformats" : "SPECIAL ALBUM",
         "albumname" : "TEN: The Story Goes On",
-        "Releasedate" : "2025-10-10"
+        "Releasedate" : "2025-10-10",
+        "type": "R"
       }
     ]
   }, 
@@ -74,7 +81,8 @@
         "fontcolor" : "#ffffff",
         "musicformats" : "Digital Single",
         "albumname" : "Mixtape: dominATE",
-        "Releasedate" : "2025-03-21"
+        "Releasedate" : "2025-03-21",
+        "type": "R"
       },
       {
         "groupsolo" : "StrayKids",
@@ -82,7 +90,8 @@
         "fontcolor" : "#ffffff",
         "musicformats" : "Album",
         "albumname" : "KARMA",
-        "Releasedate" : "2025-08-22"
+        "Releasedate" : "2025-08-22",
+        "type": "R"
       }
     ] 
   },
@@ -95,15 +104,17 @@
         "color" : "#fd5d5d",
         "fontcolor" : "#000000",
         "albumname" : "AIR",
-        "Releasedate" : "2025-03-10"
+        "Releasedate" : "2025-03-10",
+        "type": "R"
       },
       {
         "groupsolo" : "ITZY",
         "color" : "#b7b1ff",
-       "fontcolor" : "#000000",
+        "fontcolor" : "#000000",
         "musicformats" : "EP",
         "albumname" : "Girls Will Be Girls",
-        "Releasedate" : "2025-06-09"      
+        "Releasedate" : "2025-06-09",
+        "type": "R"     
       }
     ]  
   },
@@ -116,7 +127,8 @@
         "fontcolor" : "#000000",     
         "musicformats" : "Single",
         "albumname" : "High Horse",
-        "Releasedate" : "2025-03-04"
+        "Releasedate" : "2025-03-04",
+        "type": "R"
       },
       {
         "groupsolo" : "NMIXX",
@@ -124,7 +136,8 @@
         "fontcolor" : "#000000",   
         "musicformats" : "EP",
         "albumname" : "Fe3O4: FORWARD",
-        "Releasedate" : "2025-03-17"       
+        "Releasedate" : "2025-03-17",
+        "type": "R"       
       },
       {
         "groupsolo" : "NMIXX",
@@ -132,7 +145,8 @@
         "fontcolor" : "#000000",   
         "musicformats" : "Album",
         "albumname" : "Blue Valentine",
-        "Releasedate" : "2025-10-13"       
+        "Releasedate" : "2025-10-13",
+        "type": "R"      
       }
     ] 
   },
@@ -145,7 +159,8 @@
         "fontcolor" : "#000000",         
         "musicformats" : "Digital Single",
         "albumname" : "LOVE LINE",
-        "Releasedate" : "2025-03-31"
+        "Releasedate" : "2025-03-31",
+        "type": "R"
       }
     ] 
   }
