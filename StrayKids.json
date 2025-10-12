@@ -96,8 +96,105 @@
         "url" : "https://youtube.com/playlist?list=PL2HLJ87twWI32A8VVH2QfofrbMdIPRu9M&si=jcdybDvNSlUlRehh"
       }
     ],
-    "musicbroadcast" : " ",
-    "fancam" : " ",
+    "musicbroadcast" : [
+      {
+        "date" : "2025-08-22",
+        "contentsname" : "뮤직뱅크",
+        "url" : "https://www.youtube.com/watch?v=7AkHQ_GEe6M"
+      },
+      {
+        "date" : "2025-08-23",
+        "contentsname" : "쇼! 음악중심",
+        "url" : "https://www.youtube.com/watch?v=zM1NVVJpOPc"
+      },
+      {
+        "date" : "2025-08-24",
+        "contentsname" : "인기가요",
+        "url" : "https://www.youtube.com/watch?v=03_LDGEDje8"
+      },
+      {
+        "date" : "2025-08-28",
+        "contentsname" : "엠카운트다운",
+        "url" : "https://www.youtube.com/watch?v=08q2Tt3p5CU"
+      },
+      {
+        "date" : "2025-08-29",
+        "contentsname" : "뮤직뱅크",
+        "url" : "https://www.youtube.com/watch?v=d9PIV73Yyjc"
+      },
+      {
+        "date" : "2025-08-30",
+        "contentsname" : "쇼! 음악중심",
+        "url" : "https://www.youtube.com/watch?v=1AeLBxl9cZ4"
+      },
+      {
+        "date" : "2025-08-31",
+        "contentsname" : "인기가요",
+        "url" : "https://www.youtube.com/watch?v=fm3rj5FELrY"
+      }
+    ],
+    "fancam" : [
+      {
+        "date" : "2025-08-22",
+        "contentsname" : "[K-Choreo 8K HDR] 스트레이 키즈 직캠 'CEREMONY' (Stray Kids Choreography) 🎧공간음향.Ver",
+        "url" : "https://www.youtube.com/watch?v=EXJ3CAqc0_Y"
+      },
+      {
+        "date" : "2025-08-23",
+        "contentsname" : "[#음중풀캠8K] Stray Kids (스트레이 키즈) CEREMONY FullCam | 쇼! 음악중심",
+        "url" : "https://www.youtube.com/watch?v=VJVyJYGqJ80"
+      },
+      {
+        "date" : "2025-08-24",
+        "contentsname" : "[단독샷캠4K] 스트레이 키즈 'CEREMONY' 단독샷 별도녹화│Stray Kids ONE TAKE STAGE",
+        "url" : "https://www.youtube.com/watch?v=iLcfWKWyCcU"
+      },
+      {
+        "date" : "2025-08-24",
+        "contentsname" : "[안방1열 풀캠4K] 스트레이 키즈 'CEREMONY' (Stray Kids FullCam)",
+        "url" : "https://www.youtube.com/watch?v=CsnZJErOz3U"
+      },
+      {
+        "date" : "2025-08-28",
+        "contentsname" : "[MPD직캠] 스트레이 키즈 직캠 8K 'CEREMONY' (Stray Kids FanCam)",
+        "url" : "https://www.youtube.com/watch?v=-t8tHTfNT-I"
+      },
+      {
+        "date" : "2025-08-28",
+        "contentsname" : "[MPD직캠] 스트레이 키즈 1위 앵콜 직캠 4K 'CEREMONY' (Stray Kids FanCam No.1 Encore)",
+        "url" : "https://www.youtube.com/watch?v=V95HYQn3bks"
+      },
+      {
+        "date" : "2025-08-29",
+        "contentsname" : "[K-Choreo 8K] 스트레이 키즈 직캠 'CEREMONY' (Stray Kids Choreography)",
+        "url" : "https://www.youtube.com/watch?v=dVosJaB_gpY"
+      },
+      {
+        "date" : "2025-08-29",
+        "contentsname" : "[4K] 스트레이 키즈 'CEREMONY' 뮤직뱅크 1위 앵콜직캠(Stray Kids Encore Facecam)",
+        "url" : "https://www.youtube.com/watch?v=vflxripqeL4"
+      },
+      {
+        "date" : "2025-08-30",
+        "contentsname" : "[#음중풀캠8K] Stray Kids (스트레이 키즈) CEREMONY FullCam | 쇼! 음악중심",
+        "url" : "https://www.youtube.com/watch?v=-2IS-l9NY_Q"
+      },
+      {
+        "date" : "2025-08-30",
+        "contentsname" : "[#음중직캠] Stray Kids (스트레이 키즈) CEREMONY 1위 직캠 | 쇼! 음악중심",
+        "url" : "https://www.youtube.com/watch?v=kOiiCEiUMjs"
+      },
+      {
+        "date" : "2025-08-31",
+        "contentsname" : "[안방1열 풀캠4K] 스트레이 키즈 'CEREMONY' (Stray Kids FullCam)",
+        "url" : "https://www.youtube.com/watch?v=RE2B8tfMXdo"
+      },
+      {
+        "date" : "2025-08-31",
+        "contentsname" : "[앵콜캠4K] 스트레이 키즈 'CEREMONY' 인기가요 1위 앵콜 직캠 (Stray Kids Encore Fancam)",
+        "url" : "https://www.youtube.com/watch?v=NPKrqYYLqo8"
+      }
+    ],
     "radio" : " ",
     "tvshow" : [
       {
