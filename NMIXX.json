@@ -4,10 +4,37 @@
     "title" : "Blue Valentine",
     "releaseDate" : "2025-10-13",
     "images" : "https://raw.githubusercontent.com/yeonhee2/project_data/refs/heads/main/group/NMIXX.jpg",
-    "Youtube" : " ",
+    "Youtube" : [
+      {
+        "date" : "2025-10-10",
+        "contentsname" : "스튜디오슬램 | 예쁜 애 옆에 예쁜 애 옆에 귀여운 애 🦌🐹👼🏻 | 콜미베이비 EP.02 | 설윤, 배이",
+        "url" : "https://www.youtube.com/watch?v=SNSbpsWGhXI"
+      },
+      {
+        "date" : "2025-10-11",
+        "contentsname" : "MLB Korea (MLB 코리아) | NMIXX 해원 & 규진, MLB 선수 15명 맞히기 도전! 과연 성공할까?! ⚾️🤣",
+        "url" : "https://www.youtube.com/watch?v=8TWuMenWO-I"
+      },
+      {
+        "date" : "2025-10-13",
+        "contentsname" : "[#고소영의 펍스토랑] ep06 개인기 100개로 엑스세대 SBN 감동시키고 간 젠지돌 엔믹스 | 해원, 규진",
+        "url" : "https://www.youtube.com/watch?v=vJohLm9ebkM"
+      },
+      {
+        "date" : "2025-10-13",
+        "contentsname" : "Blue Valentine 공식 유튜브 재생목록",
+        "url" : "https://youtube.com/playlist?list=PLJGupZvqQHAuWBqBYadMr5y2Mp6lpLxV_&si=egbDysMf7wUizdL_"
+      }
+    ],
     "musicbroadcast" : " ",
     "fancam" : " ",
     "radio" : " ",
-    "tvshow" : " "
+    "tvshow" : [
+      {
+        "date" : "2025-10-10",
+        "contentsname" : "ENA | 살롱드돌 | 릴리, 해원",
+        "url" : "https://www.youtube.com/watch?v=nxEdisdr9v8"
+      }
+    ]
   }
 ]
