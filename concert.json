@@ -1,280 +1,370 @@
 [
   {
     "group" : "DAY6",
-    "color" : "#0F2B66",
-    "fontcolor" : "#FFFFFF",
     "concertdate" : [
-      {
+      { 
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "대만",
+        "country" : "대만 DAY1",
         "date" : "2025-01-18",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "대만",
+        "country" : "대만 DAY2",
         "date" : "2025-01-19",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "홍콩",
+        "country" : "홍콩 DAY1",
         "date" : "2025-01-25",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "홍콩",
+        "country" : "홍콩 DAY2",
         "date" : "2025-01-26",
         "type": "E"
       },
       {  
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "부산",
+        "country" : "부산 DAY1",
         "date" : "2025-02-01",
         "type": "E"
       },
       {  
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "부산",
+        "country" : "부산 DAY2",
         "date" : "2025-02-02",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "오사카",
+        "country" : "오사카 DAY1",
         "date" : "2025-02-12",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "오사카",
+        "country" : "오사카 DAY2",
         "date" : "2025-02-13",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY1",
         "date" : "2025-02-15",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY2",
         "date" : "2025-02-16",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "마닐라",
         "date" : "2025-02-22",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "대전",
+        "country" : "대전 DAY1",
         "date" : "2025-03-02",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "대전",
+        "country" : "대전 DAY2",
         "date" : "2025-03-03",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "광주",
+        "country" : "광주 DAY1",
         "date" : "2025-03-15",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "광주",
+        "country" : "광주 DAY2",
         "date" : "2025-03-16",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "대구",
+        "country" : "대구 DAY1",
         "date" : "2025-03-29",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "대구",
+        "country" : "대구 DAY2",
         "date" : "2025-03-30",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "시드니",
+        "country" : "시드니 DAY1",
         "date" : "2025-04-06",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "시드니",
+        "country" : "시드니 DAY2",
         "date" : "2025-04-07",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "멜버른",
         "date" : "2025-04-09",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "오클랜드",
         "date" : "2025-04-12",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "로스앤젤레스",
+        "country" : "로스앤젤레스 DAY1",
         "date" : "2025-04-16",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "로스앤젤레스",
+        "country" : "로스앤젤레스 DAY2",
         "date" : "2025-04-17",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "뉴욕",
         "date" : "2025-04-19",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "요코하마",
+        "country" : "요코하마 DAY1",
         "date" : "2025-04-26",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "요코하마",
+        "country" : "요코하마 DAY2",
         "date" : "2025-04-27",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
         "country" : "자카르타",
         "date" : "2025-05-03",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "서울",
+        "country" : "서울 DAY1",
         "date" : "2025-05-09",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "서울",
+        "country" : "서울 DAY2",
         "date" : "2025-05-10",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "서울",
+        "country" : "서울 DAY3",
         "date" : "2025-05-11",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "서울",
+        "country" : "서울 DAY4",
         "date" : "2025-05-16",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "서울",
+        "country" : "서울 DAY5",
         "date" : "2025-05-17",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "3RD WORLD TOUR <FOREVER YOUNG>",
-        "country" : "서울",
+        "country" : "서울 DAY6",
         "date" : "2025-05-18",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "4TH FANMEETING <PIER 10: All My Days>",
-        "country" : "서울",
+        "country" : "서울 DAY1",
         "date" : "2025-07-18",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "4TH FANMEETING <PIER 10: All My Days>",
-        "country" : "서울",
+        "country" : "서울 DAY2",
         "date" : "2025-07-19",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "4TH FANMEETING <PIER 10: All My Days>",
-        "country" : "서울",
+        "country" : "서울 DAY3",
         "date" : "2025-07-20",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "4TH FANMEETING <PIER 10: All My Days>",
-        "country" : "서울",
+        "country" : "서울 DAY4",
         "date" : "2025-07-25",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "4TH FANMEETING <PIER 10: All My Days>",
-        "country" : "서울",
+        "country" : "서울 DAY5",
         "date" : "2025-07-26",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "4TH FANMEETING <PIER 10: All My Days>",
-        "country" : "서울",
+        "country" : "서울 DAY6",
         "date" : "2025-07-27",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
-        "country" : "고양",
+        "country" : "고양 DAY1",
         "date" : "2025-08-30",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
-        "country" : "고양",
+        "country" : "고양 DAY2",
         "date" : "2025-08-31",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "방콕",
         "date" : "2025-09-27",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "호치민",
         "date" : "2025-10-18",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "홍콩",
         "date" : "2026-01-17",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "마닐라",
         "date" : "2026-01-24",
         "type": "E"
       },
       {
+        "artistname" : "DAY6",
+        "color" : "#0F2B66",
         "title" : "10TH ANNIVERSARY TOUR <The DECADE>",
         "country" : "쿠알라룸푸르",
         "date" : "2026-01-31",
@@ -284,390 +374,524 @@
   },
   {
     "group" : "TWICE",
-    "color" : "#ff91b6",
-    "fontcolor" : "#000000",
     "concertdate" : [
       {
-        "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "인천",
-        "date" : "2025-07-19",
+        "artistname" : "MISAMO",
+        "color" : "#F5D6C1",
+        "title" : "JAPAN DOME TOUR 2024 'HAUTE COUTURE'",
+        "country" : "도쿄 DAY1",
+        "date" : "2025-01-15",
         "type": "E"
       },
       {
+        "artistname" : "MISAMO",
+        "color" : "#F5D6C1",
+        "title" :  "JAPAN DOME TOUR 2024 'HAUTE COUTURE'",
+        "country" : "도쿄 DAY2",
+        "date" : "2025-01-16",
+        "type": "E"
+      },
+      { 
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "인천",
+        "country" : "인천 DAY2",
         "date" : "2025-07-20",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "오사카",
+        "country" : "오사카 DAY1",
         "date" : "2025-07-26",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "오사카",
+        "country" : "오사카 DAY2",
         "date" : "2025-07-27",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "아이치",
+        "country" : "아이치 DAY1",
         "date" : "2025-08-23",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "아이치",
+        "country" : "아이치 DAY2",
         "date" : "2025-08-24",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "후쿠오카",
+        "country" : "후쿠오카 DAY1",
         "date" : "2025-08-30",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "후쿠오카",
+        "country" : "후쿠오카 DAY2",
         "date" : "2025-08-31",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY1",
         "date" : "2025-09-16",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY2",
         "date" : "2025-09-17",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "마카오",
+        "country" : "마카오 DAY1",
         "date" : "2025-09-27",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "마카오",
+        "country" : "마카오 DAY2",
         "date" : "2025-09-28",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "필리핀",
         "date" : "2025-10-04",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "싱가포르",
+        "country" : "싱가포르 DAY1",
         "date" : "2025-10-11",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "싱가포르",
+        "country" : "싱가포르 DAY2",
         "date" : "2025-10-12",
         "type": "E"
       },
        {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "FANMEETING 10VE UNIVERSE",
         "country" : "서울",
         "date" : "2025-10-18",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "말레이시아",
         "date" : "2025-10-25",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "시드니",
+        "country" : "시드니 DAY1",
         "date" : "2025-11-01",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "시드니",
+        "country" : "시드니 DAY2",
         "date" : "2025-11-02",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "멜버른",
         "date" : "2025-11-08",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "멜버른",
         "date" : "2025-11-09",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "대만",
+        "country" : "대만 DAY1",
         "date" : "2025-11-22",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "대만",
+        "country" : "대만 DAY2",
         "date" : "2025-11-23",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "홍콩",
+        "country" : "홍콩 DAY1",
         "date" : "2025-12-06",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "홍콩",
+        "country" : "홍콩 DAY2",
         "date" : "2025-12-07",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "방콕",
+        "country" : "방콕 DAY1",
         "date" : "2025-12-13",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "방콕",
+        "country" : "방콕 DAY2",
         "date" : "2025-12-14",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "벤쿠버",
         "date" : "2026-01-09",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "시애틀",
         "date" : "2026-01-13",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "오클랜드",
+        "country" : "오클랜드 DAY1",
         "date" : "2026-01-17",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "오클랜드",
+        "country" : "오클랜드 DAY2",
         "date" : "2026-01-18",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "로스앤젤레스",
+        "country" : "로스앤젤레스 DAY1",
         "date" : "2026-01-22",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "로스앤젤레스",
+        "country" : "로스앤젤레스 DAY2",
         "date" : "2026-01-24",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "로스앤젤레스",
+        "country" : "로스앤젤레스 DAY3",
         "date" : "2026-01-25",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "피닉스",
         "date" : "2026-01-28",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "댈러스",
         "date" : "2026-01-31",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "워싱턴 D.C.",
+        "country" : "워싱턴 D.C. DAY1",
         "date" : "2026-02-13",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "워싱턴 D.C.",
+        "country" : "워싱턴 D.C. DAY2",
         "date" : "2026-02-14",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "뉴욕",
+        "country" : "뉴욕 DAY1",
         "date" : "2026-02-18",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "뉴욕",
+        "country" : "뉴욕 DAY2",
         "date" : "2026-02-20",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "필라델피아",
         "date" : "2026-02-24",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "애틀랜타",
         "start" : "2026-02-27",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "몬트리올",
         "date" : "2026-03-03",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "해밀턴",
+        "country" : "해밀턴 DAY1",
         "date" : "2026-03-06",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "해밀턴",
+        "country" : "해밀턴 DAY2",
         "date" : "2026-03-07",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "타이베이",
         "date" : "2026-03-21",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "올랜도",
+        "country" : "올랜도 DAY1",
         "date" : "2026-03-27",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "올랜도",
+        "country" : "올랜도 DAY2",
         "date" : "2026-03-28",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "샬럿",
         "date" : "2026-03-31",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "보스턴",
+        "country" : "보스턴 DAY1",
         "date" : "2026-04-03",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "보스턴",
+        "country" : "보스턴 DAY2",
         "date" : "2026-04-04",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "시카고",
         "date" : "2026-04-06",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "디트로이트",
         "date" : "2026-04-10",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "세인트폴",
         "date" : "2026-04-12",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "덴버",
         "date" : "2026-04-14",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "오스틴",
         "date" : "2026-04-17",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "리스본",
         "date" : "2026-05-09",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "바르셀로나",
         "date" : "2026-05-12",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "파리",
         "date" : "2026-05-16",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "베를린",
         "date" : "2026-05-23",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "쾰른",
         "date" : "2026-05-26",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
         "country" : "암스테르담",
         "date" : "2026-05-30",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "런던",
+        "country" : "런던 DAY1",
         "date" : "2026-06-03",
         "type": "E"
       },
       {
+        "artistname" : "TWICE",
+        "color" : "#ff91b6",
         "title" : "6TH WORLD TOUR <THIS IS FOR>",
-        "country" : "런던",
+        "country" : "런던 DAY2",
         "date" : "2026-06-04",
         "type": "E"
       }
@@ -676,250 +900,330 @@
   },
   {
     "group" : "StrayKids",
-    "color" : "#8b0000",
-    "fontcolor" : "#ffffff",
     "concertdate" : [
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "홍콩",
+        "country" : "홍콩 DAY1",
         "date" : "2025-01-18",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "홍콩",
+        "country" : "홍콩 DAY2",
         "date" : "2025-01-19",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "5TH FANMEETING <SKZ 5'CLOCK>",
-        "country" : "인천",
+        "country" : "인천 DAY1",
         "date" : "2025-02-14",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "5TH FANMEETING <SKZ 5'CLOCK>",
-        "country" : "인천",
+        "country" : "인천 DAY2",
         "date" : "2025-02-15",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "5TH FANMEETING <SKZ 5'CLOCK>",
-        "country" : "인천",
+        "country" : "인천 DAY2",
         "date" : "2025-02-16",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "산티아고",
+        "country" : "산티아고 DAY1",
         "date" : "2025-03-27",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "산티아고",
+        "country" : "산티아고 DAY2",
         "date" : "2025-03-28",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "리우데자네이루",
         "date" : "2025-04-01",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "상파울루",
+        "country" : "상파울루 DAY1",
         "date" : "2025-04-05",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "상파울루",
+        "country" : "상파울루 DAY2",
         "date" : "2025-04-06",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "페루",
         "date" : "2025-04-09",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "멕시코",
+        "country" : "멕시코 DAY1",
         "date" : "2025-04-12",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "멕시코",
+        "country" : "멕시코 DAY2",
         "date" : "2025-04-13",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "시즈오카",
+        "country" : "시즈오카 DAY1",
         "date" : "2025-05-10",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "시즈오카",
+        "country" : "시즈오카 DAY2",
         "date" : "2025-05-11",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "시즈오카",
         "date" : "2025-05-17",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "시즈오카",
         "date" : "2025-05-18",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "시애틀",
         "date" : "2025-05-24",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "샌프란시스코",
         "date" : "2025-05-28",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "로스앤젤레스",
+        "country" : "로스앤젤레스 DAY1",
         "date" : "2025-05-31",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "로스앤젤레스",
+        "country" : "로스앤젤레스 DAY2",
         "date" : "2025-06-01",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "알링턴",
+        "country" : "알링턴 DAY1",
         "date" : "2025-06-06",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "알링턴",
+        "country" : "알링턴 DAY2",
         "date" : "2025-06-07",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "애틀랜타",
         "date" : "2025-06-10",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "올랜도",
         "date" : "2025-06-14",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "뉴욕",
         "date" : "2025-06-18",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "뉴욕",
         "date" : "2025-06-19",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "워싱턴 D.C.",
         "date" : "2025-06-23",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "시카고",
         "date" : "2025-06-26",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "토론토",
         "date" : "2025-06-29",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "암스테르담",
         "date" : "2025-07-11",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "독일",
         "date" : "2025-07-15",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "런던",
+        "country" : "런던 DAY1",
         "date" : "2025-07-18",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "런던",
+        "country" : "런던 DAY2",
         "date" : "2025-07-19",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "마드리드",
+        "country" : "마드리드 DAY1",
         "date" : "2025-07-22",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "마드리드",
+        "country" : "마드리드 DAY2",
         "date" : "2025-07-23",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "파리",
+        "country" : "파리 DAY1",
         "date" : "2025-07-26",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
-        "country" : "파리",
+        "country" : "파리 DAY2",
         "date" : "2025-07-27",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE>",
         "country" : "이탈리아",
         "date" : "2025-07-30",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE> (ENCORE)",
         "country" : "인천",
         "date" : "2025-10-18",
         "type": "E"
       },
       {
+        "artistname" : "StrayKids",
+        "color" : "#8b0000",
         "title" : "World Tour <dominATE> (ENCORE)",
         "country" : "인천",
         "date" : "2025-10-19",
@@ -929,24 +1233,28 @@
   },
   {
     "group" : "ITZY",
-    "color" : "#b7b1ff",
-    "fontcolor" : "#000000",
     "concertdate" : [
       {
+        "artistname" : "ITZY",
+        "color" : "#b7b1ff",
         "title" : "4th Fan Meeting 있지 믿지, 날자! <ON AIR>",
         "country" : "서울",
         "date" : "2025-09-20",
         "type": "E"
       },
       {
+        "artistname" : "ITZY",
+        "color" : "#b7b1ff",
         "title" : "4th Fan Meeting 있지 믿지, 날자! <ON AIR>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY1",
         "date" : "2025-10-11",
         "type": "E"
       },
       {
+        "artistname" : "ITZY",
+        "color" : "#b7b1ff",
         "title" : "4th Fan Meeting 있지 믿지, 날자! <ON AIR>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY2",
         "date" : "2025-10-12",
         "type": "E"
       }
@@ -954,130 +1262,170 @@
   },
   {
     "group" : "NMIXX",
-    "color" : "#00e2ff",
-    "fontcolor" : "#000000",
     "concertdate" : [
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY1",
         "date" : "2025-01-11",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY2",
         "date" : "2025-01-12",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "멕시코",
         "date" : "2025-02-19",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "멕시코",
         "date" : "2025-02-20",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "산티아고",
+        "country" : "산티아고 DAY1",
         "date" : "2025-02-22",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "산티아고",
+        "country" : "산티아고 DAY2",
         "date" : "2025-02-23",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "상파울루",
         "date" : "2025-02-28",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "타이베이",
+        "country" : "타이베이 DAY1",
         "date" : "2025-04-19",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "타이베이",
+        "country" : "타이베이 DAY2",
         "date" : "2025-04-20",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "홍콩",
         "date" : "2025-04-26",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "마닐라",
         "date" : "2025-05-02",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "방콕",
         "date" : "2025-05-04",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY1",
         "date" : "2025-05-31",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "도쿄",
+        "country" : "도쿄 DAY2",
         "date" : "2025-06-01",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "멜버른",
         "date" : "2025-06-06",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
         "country" : "시드니",
         "date" : "2025-06-08",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "마카오",
+        "country" : "마카오 DAY1",
         "date" : "2025-06-28",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "2ND FAN CONCERT <NMIXX CHANGE UP : MIXX LAB>",
-        "country" : "마카오",
+        "country" : "마카오 DAY2",
         "date" : "2025-06-29",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "1ST FAN MEETING <NSWER VACATION>",
         "country" : "서울",
         "date" : "2025-07-12",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "1ST CONCERT <미정>",
         "country" : "미정",
         "date" : "2025-11-29",
         "type": "E"
       },
       {
+        "artistname" : "NMIXX",
+        "color" : "#00e2ff",
         "title" : "1ST CONCERT <미정>",
         "country" : "미정",
         "date" : "2025-11-30",
@@ -1087,270 +1435,356 @@
   },
   {
     "group" : "NiziU",
-    "color" : "#ffe600",
-    "fontcolor" : "#000000",
     "concertdate" : [
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY1",
         "date" : "2025-01-08",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY2",
         "date" : "2025-01-09",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY3",
         "date" : "2025-01-11",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY4",
         "date" : "2025-01-12",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "오사카",
+        "country" : "오사카 DAY1",
         "date" : "2025-01-21",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "오사카",
+        "country" : "오사카 DAY2",
         "date" : "2025-01-22",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "미야기현",
+        "country" : "미야기현 DAY1",
         "date" : "2025-02-08",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "미야기현",
+        "country" : "미야기현 DAY2",
         "date" : "2025-02-09",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "아이치현",
+        "country" : "아이치현 DAY1",
         "date" : "2025-02-15",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "아이치현",
+        "country" : "아이치현 DAY2",
         "date" : "2025-02-16",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "후쿠오카",
+        "country" : "후쿠오카 DAY1",
         "date" : "2025-02-22",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2024-2025 AWAKE",
-        "country" : "후쿠오카",
+        "country" : "후쿠오카 DAY2",
         "date" : "2025-02-23",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY1",
         "date" : "2025-09-06",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY2",
         "date" : "2025-09-07",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "미야기현",
+        "country" : "미야기현 DAY1",
         "date" : "2025-09-13",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "미야기현",
+        "country" : "미야기현 DAY2",
         "date" : "2025-09-14",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "아오모리현",
         "date" : "2025-09-19",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "이와테현",
         "date" : "2025-09-20",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "도치기현",
         "date" : "2025-09-23",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "시즈오카현",
         "date" : "2025-09-25",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "시가현",
+        "country" : "시가현 DAY1",
         "date" : "2025-09-27",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "시가현",
+        "country" : "시가현 DAY2",
         "date" : "2025-09-28",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "나가노현",
         "date" : "2025-10-02",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "이시카와현",
+        "country" : "이시카와현 DAY1",
         "date" : "2025-10-04",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "이시카와현",
+        "country" : "이시카와현 DAY2",
         "date" : "2025-10-05",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "오이타현",
         "date" : "2025-10-09",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "구마모토현",
         "date" : "2025-10-11",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "가고시마현",
         "date" : "2025-10-12",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY1",
         "date" : "2025-10-18",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY2",
         "date" : "2025-10-19",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "사이타마현",
+        "country" : "사이타마현 DAY1",
         "date" : "2025-10-21",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "사이타마현",
+        "country" : "사이타마현 DAY2",
         "date" : "2025-10-22",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "히로시마현",
+        "country" : "히로시마현 DAY1",
         "date" : "2025-10-25",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "히로시마현",
+        "country" : "히로시마현 DAY2",
         "date" : "2025-10-26",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "미에현",
         "date" : "2025-10-28",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "효고현",
+        "country" : "효고현 DAY1",
         "date" : "2025-10-30",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "효고현",
+        "country" : "효고현 DAY2",
         "date" : "2025-10-31",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "군마현",
         "date" : "2025-11-02",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "교토부",
         "date" : "2025-11-06",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "카가와현",
         "date" : "2025-11-07",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "돗토리현",
         "date" : "2025-11-15",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
         "country" : "오카야마현",
         "date" : "2025-11-16",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY1",
         "date" : "2025-11-22",
         "type": "E"
       },
       {
+        "artistname" : "NiziU",
+        "color" : "#ffe600",
         "title" : "JAPAN TOUR - 2025 NEW EMOTION : Face To Face",
-        "country" : "도쿄도",
+        "country" : "도쿄도 DAY2",
         "date" : "2025-11-23",
         "type": "E"
       }
