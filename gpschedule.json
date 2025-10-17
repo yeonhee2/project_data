@@ -167,6 +167,48 @@
         "name" : "매점가요",
         "gpsdate" : "2025-07-25",
         "type": "S"
+      },
+      {
+        "cast" : "나연, 모모, 지효, 쯔위",
+        "color" : "#ff91b6",
+        "name" : "Victoria's Secret Fashion Show 2025",
+        "gpsdate" : "2025-10-16",
+        "type": "E"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "🎬 <ONE IN A MILL10N> 개봉",
+        "gpsdate" : "2025-10-20",
+        "type": "R"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "<ONE IN A MILL10N> 무대인사",
+        "gpsdate" : "2025-10-20",
+        "type": "E"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "후지TV 위클리 99 뮤직",
+        "gpsdate" : "2025-10-22",
+        "type": "S"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "TWICE JAPAN 6th ALBUM『ENEMY』 발매 기념 이벤트 | 인텍스 오사카",
+        "gpsdate" : "2025-11-29",
+        "type": "E"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "TWICE JAPAN 6th ALBUM『ENEMY』 발매 기념 이벤트 | 마쿠하리 멧세",
+        "gpsdate" : "2025-11-30",
+        "type": "E"
       }
     ]
   },

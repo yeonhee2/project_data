@@ -5,7 +5,6 @@
       {
         "groupsolo" : "DAY6",
         "color" : "#0F2B66",
-        "fontcolor" : "#FFFFFF",
         "musicformats" : "Digital Single",
         "albumname" : "Maybe Tomorrow",
         "Releasedate" : "2025-05-07",
@@ -14,8 +13,7 @@
       {
         "groupsolo" : "DAY6",
         "color" : "#0F2B66",
-        "fontcolor" : "#FFFFFF",
-        "musicformats" : "Album",
+        "musicformats" : "The 4th Full Album",
         "albumname" : "The DECADE",
         "Releasedate" : "2025-09-05",
         "type": "R"
@@ -28,7 +26,14 @@
       {
         "groupsolo" : "TWICE",
         "color" : "#ff91b6",
-        "fontcolor" : "#000000",
+        "musicformats" : "Japan 5th Best Album",
+        "albumname" : "#TWICE5",
+        "Releasedate" : "2025-05-14",
+        "type": "R"
+      },
+      {
+        "groupsolo" : "TWICE",
+        "color" : "#ff91b6",
         "musicformats" : "ost",
         "albumname" : "Takedown",
         "Releasedate" : "2025-06-20",
@@ -37,8 +42,7 @@
       {
         "groupsolo" : "TWICE",
         "color" : "#ff91b6",
-        "fontcolor" : "#000000",
-        "musicformats" : "Album",
+        "musicformats" : "The 4th Full Album",
         "albumname" : "This Is For",
         "Releasedate" : "2025-07-11",
         "type": "R"
@@ -46,17 +50,23 @@
       {
         "groupsolo" : "TWICE",
         "color" : "#ff91b6",
-        "fontcolor" : "#000000",
-        "musicformats" : "Album Deluxe",
+        "musicformats" : "The 4th Full Album Deluxe",
         "albumname" : "THIS IS FOR DELUXE",
         "Releasedate" : "2025-07-14",
         "type": "R"
       },
       {
+        "groupsolo" : "TWICE",
+        "color" : "#ff91b6",
+        "musicformats" : "Japan 6th Album",
+        "albumname" : "ENEMY",
+        "Releasedate" : "2025-08-27",
+        "type": "R"
+      },
+      {
         "groupsolo" : "채영",
         "color" : "#dc143c",
-        "fontcolor" : "#ffffff",
-        "musicformats" : "Album",
+        "musicformats" : "The 1st Album",
         "albumname" : "LIL FANTASY vol.1",
         "Releasedate" : "2025-09-12",
         "type": "R"
@@ -64,7 +74,6 @@
       {
         "groupsolo" : "TWICE",
         "color" : "#ff91b6",
-        "fontcolor" : "#000000",
         "musicformats" : "SPECIAL ALBUM",
         "albumname" : "TEN: The Story Goes On",
         "Releasedate" : "2025-10-10",
@@ -78,7 +87,6 @@
       {
         "groupsolo" : "StrayKids",
         "color" : "#8b0000",
-        "fontcolor" : "#ffffff",
         "musicformats" : "Digital Single",
         "albumname" : "Mixtape: dominATE",
         "Releasedate" : "2025-03-21",
@@ -87,10 +95,33 @@
       {
         "groupsolo" : "StrayKids",
         "color" : "#8b0000",
-        "fontcolor" : "#ffffff",
-        "musicformats" : "Album",
+        "musicformats" : "JAPAN 3rd Mini Album",
+        "albumname" : "Hollow",
+        "Releasedate" : "2025-06-18",
+        "type": "R"
+      },
+      {
+        "groupsolo" : "StrayKids",
+        "color" : "#8b0000",
+        "musicformats" : "The 4th Album",
         "albumname" : "KARMA",
         "Releasedate" : "2025-08-22",
+        "type": "R"
+      },
+      {
+        "groupsolo" : "StrayKids",
+        "color" : "#8b0000",
+        "musicformats" : "Digital Single",
+        "albumname" : "CEREMONY (Maximum Power Remixes)",
+        "Releasedate" : "2025-08-25",
+        "type": "R"
+      },
+      {
+        "groupsolo" : "StrayKids",
+        "color" : "#8b0000",
+        "musicformats" : "Digital Single",
+        "albumname" : "CEREMONY (Celebrate Remixes)",
+        "Releasedate" : "2025-08-29",
         "type": "R"
       }
     ] 
@@ -100,20 +131,50 @@
     "music" : [
       {       
         "groupsolo" : "예지",
-        "musicformats" : "EP",
         "color" : "#fd5d5d",
-        "fontcolor" : "#000000",
+        "musicformats" : "The 1st Mini Album",
         "albumname" : "AIR",
         "Releasedate" : "2025-03-10",
+        "type": "R"
+      },
+      {       
+        "groupsolo" : "예지",
+        "color" : "#fd5d5d",
+        "musicformats" : "English Digital Single",
+        "albumname" : "AIR",
+        "Releasedate" : "2025-03-14",
         "type": "R"
       },
       {
         "groupsolo" : "ITZY",
         "color" : "#b7b1ff",
-        "fontcolor" : "#000000",
-        "musicformats" : "EP",
+        "musicformats" : "The 10th Mini Album",
         "albumname" : "Girls Will Be Girls",
         "Releasedate" : "2025-06-09",
+        "type": "R"     
+      },
+      {
+        "groupsolo" : "ITZY",
+        "color" : "#b7b1ff",
+        "musicformats" : "Remixes",
+        "albumname" : "Girls Will Be Girls (Remixes)",
+        "Releasedate" : "2025-06-13",
+        "type": "R"     
+      },
+      {
+        "groupsolo" : "ITZY",
+        "color" : "#b7b1ff",
+        "musicformats" : "Japan 2nd Album",
+        "albumname" : "Collector",
+        "Releasedate" : "2025-10-08",
+        "type": "R"     
+      },
+      {
+        "groupsolo" : "ITZY",
+        "color" : "#b7b1ff",
+        "musicformats" : "The 11th Mini Album",
+        "albumname" : "TUNNEL VISION",
+        "Releasedate" : "2025-11-10",
         "type": "R"     
       }
     ]  
@@ -124,7 +185,6 @@
       { 
         "groupsolo" : "NMIXX", 
         "color" : "#00e2ff",
-        "fontcolor" : "#000000",     
         "musicformats" : "Single",
         "albumname" : "High Horse",
         "Releasedate" : "2025-03-04",
@@ -133,8 +193,7 @@
       {
         "groupsolo" : "NMIXX",
         "color" : "#00e2ff",
-        "fontcolor" : "#000000",   
-        "musicformats" : "EP",
+        "musicformats" : "The 4th EP",
         "albumname" : "Fe3O4: FORWARD",
         "Releasedate" : "2025-03-17",
         "type": "R"       
@@ -142,8 +201,7 @@
       {
         "groupsolo" : "NMIXX",
         "color" : "#00e2ff",
-        "fontcolor" : "#000000",   
-        "musicformats" : "Album",
+        "musicformats" : "The 1st Full Album",
         "albumname" : "Blue Valentine",
         "Releasedate" : "2025-10-13",
         "type": "R"      
@@ -155,11 +213,42 @@
     "music" : [
       { 
         "groupsolo" : "NiziU",
-        "color" : "#ffe600",
-        "fontcolor" : "#000000",         
-        "musicformats" : "Digital Single",
+        "color" : "#ffe600",      
+        "musicformats" : "The 1st Mini Album",
+        "albumname" : "AWAKE",
+        "Releasedate" : "2025-02-05",
+        "type": "R"
+      },
+      { 
+        "groupsolo" : "NiziU",
+        "color" : "#ffe600",      
+        "musicformats" : "Korea 2nd Single",
         "albumname" : "LOVE LINE",
         "Releasedate" : "2025-03-31",
+        "type": "R"
+      },
+      { 
+        "groupsolo" : "NiziU",
+        "color" : "#ffe600",      
+        "musicformats" : "Digital EP",
+        "albumname" : "LOVE LINE (Japanese ver.) / Shining day",
+        "Releasedate" : "2025-05-26",
+        "type": "R"
+      },
+      { 
+        "groupsolo" : "NiziU",
+        "color" : "#ffe600",      
+        "musicformats" : "Pre-release Single",
+        "albumname" : "What if (Japanese ver.)",
+        "Releasedate" : "2025-09-06",
+        "type": "R"
+      },
+      { 
+        "groupsolo" : "NiziU",
+        "color" : "#ffe600",      
+        "musicformats" : "The 3rd Studio Album",
+        "albumname" : "New Emotion",
+        "Releasedate" : "2025-11-19",
         "type": "R"
       }
     ] 

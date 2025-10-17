@@ -152,7 +152,7 @@
         "color" : "#FDEEF4",
         "skddate" : "2025-02-21",
         "title" : "<그 시절, 우리가 좋아했던 소녀> 개봉",
-        "type": "E"
+        "type": "R"
       },
       {
         "memname" : "다현",
@@ -173,6 +173,27 @@
         "color" : "#ffb6c1",
         "skddate" : "2025-07-17",
         "title" : "민주의 핑크 캐비닛",
+        "type": "S"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-10-09",
+        "title" : "슈즈오프 EP.74 l 아이돌도 사람이에요",
+        "type": "S"
+      },
+       {
+        "memname" : "모모",
+        "color" : "#ff8c00",
+        "skddate" : "2025-10-13",
+        "title" : "AMAFFI Boutique Perfume House Singapore",
+        "type": "E"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-10-16",
+        "title" : "전소미 푸딩 투어, 최고의 푸딩을 찾아서 ",
         "type": "S"
       }
     ]
