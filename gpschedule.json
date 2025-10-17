@@ -85,6 +85,13 @@
         "type": "S"
       },
       {
+        "cast" : "TWICE",
+        "color" : "#F5D6C1",
+        "name" : "14TH MINI ALBUM 'STRATEGY' 중국 팬사인회 - 스타리버",
+        "gpsdate" : "2025-02-22",
+        "type": "E"
+      },
+      {
         "cast" : "MISAMO",
         "color" : "#F5D6C1",
         "name" : "MLB Tokyo Series 시구",
@@ -166,6 +173,55 @@
         "color" : "#ff91b6",
         "name" : "매점가요",
         "gpsdate" : "2025-07-25",
+        "type": "S"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "4TH FULL ALBUM 'THIS IS FOR' 비디오콜 이벤트 - 이즈위",
+        "gpsdate" : "2025-09-06",
+        "type": "E"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "4TH FULL ALBUM 'THIS IS FOR' 비디오콜 이벤트 및 팬사인회",
+        "gpsdate" : "2025-09-06",
+        "type": "E"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "4TH FULL ALBUM 'THIS IS FOR' 비디오콜 이벤트 - 이즈위",
+        "gpsdate" : "2025-09-07",
+        "type": "E"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "4TH FULL ALBUM 'THIS IS FOR' 비디오콜 이벤트 및 팬사인회",
+        "gpsdate" : "2025-09-07",
+        "type": "E"
+      },
+      {
+        "cast" : "지효, 쯔위",
+        "color" : "#ff91b6",
+        "name" : "POND'S Manila 행사",
+        "gpsdate" : "2025-09-21",
+        "type": "E"
+      },
+      {
+        "cast" : "TWICE",
+        "color" : "#ff91b6",
+        "name" : "NTV 샤베쿠리007",
+        "gpsdate" : "2025-09-21",
+        "type": "S"
+      },
+      {
+        "cast" : "나연, 모모, 사나, 지효, 채영",
+        "color" : "#ff91b6",
+        "name" : "TBS 인간관찰 버라이어티 모니터링",
+        "gpsdate" : "2025-09-25",
         "type": "S"
       },
       {
@@ -888,6 +944,55 @@
         "color" : "#00e2ff",
         "name" : "KBS2 고소영의 펍스토랑",
         "gpsdate" : "2025-10-13",
+        "type": "S"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "미미미누",
+        "gpsdate" : "2025-10-13",
+        "type": "S"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "리무진서비스 1부",
+        "gpsdate" : "2025-10-14",
+        "type": "S"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "리무진서비스 2부",
+        "gpsdate" : "2025-10-15",
+        "type": "S"
+      },
+      {
+        "cast" : "배이, 지우",
+        "color" : "#00e2ff",
+        "name" : "연고지 시즌3",
+        "gpsdate" : "2025-10-15",
+        "type": "S"
+      },
+      {
+        "cast" : "배이, 지우",
+        "color" : "#00e2ff",
+        "name" : "워크돌",
+        "gpsdate" : "2025-10-16",
+        "type": "S"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "Mnet M COUNTDOWN",
+        "gpsdate" : "2025-10-16",
+        "type": "S"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "KBS2 뮤직뱅크",
+        "gpsdate" : "2025-10-17",
         "type": "S"
       }
     ]

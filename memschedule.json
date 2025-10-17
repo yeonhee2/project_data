@@ -144,21 +144,91 @@
         "memname" : "다현",
         "color" : "#FDEEF4",
         "skddate" : "2025-02-19",
-        "title" : "<그 시절, 우리가 좋아했던 소녀> 특별 시사회",
+        "title" : "🎬 <그 시절, 우리가 좋아했던 소녀> 특별 시사회",
         "type": "E"
       },
       {
         "memname" : "다현",
         "color" : "#FDEEF4",
         "skddate" : "2025-02-21",
-        "title" : "<그 시절, 우리가 좋아했던 소녀> 개봉",
+        "title" : "🎬 <그 시절, 우리가 좋아했던 소녀> 개봉",
         "type": "R"
       },
       {
         "memname" : "다현",
         "color" : "#FDEEF4",
         "skddate" : "2025-02-21",
-        "title" : "<그 시절, 우리가 좋아했던 소녀> 무대인사",
+        "title" : "🎬 <그 시절, 우리가 좋아했던 소녀> 무대인사",
+        "type": "E"
+      },
+      {
+        "memname" : "사나",
+        "color" : "#ffb6c1",
+        "skddate" : "2025-02-21",
+        "title" : "Vogue Singapore | My Favourite Things",
+        "type": "S"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-02-22",
+        "title" : "YTN 컬처인사이드 '문화人터뷰'",
+        "type": "S"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-02-23",
+        "title" : "🎬 <그 시절, 우리가 좋아했던 소녀> 무대인사",
+        "type": "E"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-02-25",
+        "title" : "W KOREA",
+        "type": "S"
+      },
+      {
+        "memname" : "나연",
+        "color" : "#ffe600",
+        "skddate" : "2025-02-26",
+        "title" : "트릭KODE",
+        "type": "S"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-02-26",
+        "title" : "🎬 <그 시절, 우리가 좋아했던 소녀> 무대인사",
+        "type": "E"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-02-26",
+        "title" : "SBS 파워FM 웬디의 영스트리트",
+        "type": "S"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-02-27",
+        "title" : "🎬 <그 시절, 우리가 좋아했던 소녀> 무대인사",
+        "type": "E"
+      },
+      {
+        "memname" : "모모",
+        "color" : "#ff8c00",
+        "skddate" : "2025-02-27",
+        "title" : "오니츠카 타이거 FW25 컬렉션 쇼",
+        "type": "E"
+      },
+      {
+        "memname" : "미나",
+        "color" : "#00ced1",
+        "skddate" : "2025-02-27",
+        "title" : "Fendi FW25-26 Show",
         "type": "E"
       },
       {
@@ -174,6 +244,153 @@
         "skddate" : "2025-07-17",
         "title" : "민주의 핑크 캐비닛",
         "type": "S"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-09-05",
+        "title" : "🎬 <전력질주> 언론 시사회 이벤트",
+        "type": "E"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-09-05",
+        "title" : "🎬 <전력질주> 무대인사",
+        "type": "E"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-09-09",
+        "title" : "슈밍의 라면가게",
+        "type": "S"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-09-10",
+        "title" : "🎬 <전력질주> 개봉",
+        "type": "R"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-09-10",
+        "title" : "SBS 파워FM 박하선의 씨네타운",
+        "type": "S"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-09-10",
+        "title" : "KBS Cool FM 이은지의 가요광장",
+        "type": "S"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-11",
+        "title" : "THE FIRST ALBUM 'LIL FANTASY vol.1' Pre-Listening Event (사녹)",
+        "type": "E"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-12",
+        "title" : "KBS2 뮤직뱅크",
+        "type": "S"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-13",
+        "title" : "MBC 쇼! 음악중심",
+        "type": "S"
+      },
+      {
+        "memname" : "지효",
+        "color" : "#ff1493",
+        "skddate" : "2025-09-14",
+        "title" : "「milktouch」시부야 팝업 신상품 발표회",
+        "type": "S"
+      },
+      {
+        "memname" : "다현",
+        "color" : "#FDEEF4",
+        "skddate" : "2025-09-14",
+        "title" : "🎬 <전력질주> 개봉기념 무대인사",
+        "type": "E"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-14",
+        "title" : "SBS 인기가요",
+        "type": "S"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-14",
+        "title" : "김나영의 nofilterTV(노필터티비)",
+        "type": "S"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-17",
+        "title" : "보코스",
+        "type": "S"
+      },
+      {
+        "memname" : "사나",
+        "color" : "#ffb6c1",
+        "skddate" : "2025-09-18",
+        "title" : "NE:AR 브랜드 설명회",
+        "type": "S"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-19",
+        "title" : "NTS RADIO",
+        "type": "S"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-23",
+        "title" : "THE FIRST ALBUM 'LIL FANTASY vol.1' 비디오콜 이벤트 및 팬사인회",
+        "type": "E"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-24",
+        "title" : "THE FIRST ALBUM 'LIL FANTASY vol.1' 비디오콜 이벤트 및 팬사인회",
+        "type": "E"
+      },
+      {
+        "memname" : "모모",
+        "color" : "#ff8c00",
+        "skddate" : "2025-09-25",
+        "title" : "SS 2026 Collection in Milan Fashion Week | Onitsuka Tiger",
+        "type": "E"
+      },
+      {
+        "memname" : "채영",
+        "color" : "#dc143c",
+        "skddate" : "2025-09-25",
+        "title" : "THE FIRST ALBUM 'LIL FANTASY vol.1' 비디오콜 이벤트 및 팬사인회",
+        "type": "E"
+      },
+      {
+        "memname" : "미나",
+        "color" : "#00ced1",
+        "skddate" : "2025-09-25",
+        "title" : "SK-II Get Closer with 팬미팅",
+        "type": "E"
       },
       {
         "memname" : "채영",
