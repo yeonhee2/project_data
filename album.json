@@ -205,6 +205,14 @@
         "albumname" : "Blue Valentine",
         "Releasedate" : "2025-10-13",
         "type": "R"      
+      },
+      {
+        "groupsolo" : "NMIXX",
+        "color" : "#00e2ff",
+        "musicformats" : "Digital Single",
+        "albumname" : "Blue Valentine (MIXX Ver.)",
+        "Releasedate" : "2025-10-17",
+        "type": "R"      
       }
     ] 
   },

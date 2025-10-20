@@ -973,6 +973,20 @@
         "skddate" : "2025-09-27",
         "title" : "2025 KBO리그 한화 이글스 vs LG 트윈스 - 한화 이글스 설윤 시구",
         "type": "E"
+      },
+      {
+        "memname" : "설윤",
+        "color" : "#d4c2fc",
+        "skddate" : "2025-10-18",
+        "title" : "KBS2 살림하는 남자들 시즌2",
+        "type": "S"
+      },
+      {
+        "memname" : "설윤",
+        "color" : "#d4c2fc",
+        "skddate" : "2025-10-19",
+        "title" : "잠뜰 TV",
+        "type": "S"
       }
     ]
   },
