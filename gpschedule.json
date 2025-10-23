@@ -1131,6 +1131,13 @@
       {
         "cast" : "NMIXX",
         "color" : "#00e2ff",
+        "name" : "MBC 버추얼 라이브 페스티벌 with 쿠팡플레이",
+        "gpsdate" : "2025-10-18",
+        "type": "E"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
         "name" : "SBS 인기가요",
         "gpsdate" : "2025-10-19",
         "type": "S"
@@ -1146,6 +1153,13 @@
         "cast" : "릴리, 해원, 설윤, 지우",
         "color" : "#00e2ff",
         "name" : "출장 십오야 - 1화 | tvN",
+        "gpsdate" : "2025-10-22",
+        "type": "S"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "쇼챔피언",
         "gpsdate" : "2025-10-22",
         "type": "S"
       },

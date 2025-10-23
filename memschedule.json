@@ -987,6 +987,20 @@
         "skddate" : "2025-10-19",
         "title" : "잠뜰 TV",
         "type": "S"
+      },
+      {
+        "memname" : "해원",
+        "color" : "#f9c5d1",
+        "skddate" : "2025-10-22",
+        "title" : "찰스엔터",
+        "type": "S"
+      },
+      {
+        "memname" : "해원",
+        "color" : "#f9c5d1",
+        "skddate" : "2025-10-22",
+        "title" : "워크맨",
+        "type": "S"
       }
     ]
   },
