@@ -1171,6 +1171,34 @@
         "type": "S"
       },
       {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "Mnet M COUNTDOWN",
+        "gpsdate" : "2025-10-23",
+        "type": "S"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "KBS2 뮤직뱅크",
+        "gpsdate" : "2025-10-24",
+        "type": "S"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "MBC 쇼! 음악중심",
+        "gpsdate" : "2025-10-25",
+        "type": "S"
+      },
+      {
+        "cast" : "NMIXX",
+        "color" : "#00e2ff",
+        "name" : "SBS 인기가요",
+        "gpsdate" : "2025-10-26",
+        "type": "S"
+      },
+      {
         "cast" : "릴리, 해원, 설윤, 지우",
         "color" : "#00e2ff",
         "name" : "출장 십오야 - 2화 | tvN",
